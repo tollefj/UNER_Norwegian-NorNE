@@ -1,6 +1,9 @@
 # NorNE to UNER
 
-Conversion from NorNE to UNER
+Conversion from NorNE to UNER.
+Based on alignment from the UD-Norwegian commits:
+- bokmaal: `ccbaec859f3947edf90201c725743b9aa4e7c76c`
+- nynorsk: `22c02622958f137314c2335b2a5f088d2b12dba0`
 
 ## Run
 
