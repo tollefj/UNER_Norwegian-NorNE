@@ -6,18 +6,15 @@ from util import get_aligned_file, get_file, lang_map, paths
 
 logging.basicConfig(level=logging.INFO)
 
-OUT_PATH = os.path.join("UNER_Norwegian_NorNE")
-os.makedirs(OUT_PATH, exist_ok=True)
-for file in os.listdir(OUT_PATH):
-    os.remove(os.path.join(OUT_PATH, file))
 
 for lang in paths.keys():
     for split in ["dev", "test", "train"]:
         for getter in [get_aligned_file, get_file]:
+            identifier = "NorNE" if getter == get_file else "NorNE-aligned"
+            OUT_PATH = os.path.join(f"UNER_Norwegian_{identifier}")
+            os.makedirs(OUT_PATH, exist_ok=True)
             logging.info(f"Fetching {lang} {split} from {getter.__name__}")
-
-            specify_aligned = "." if getter == get_file else ".aligned."
-            iob2_filename = f"{lang_map[lang]}_norne-ud-{split}{specify_aligned}iob2"
+            iob2_filename = f"{lang_map[lang]}_norne-ud-{split}.iob2"
             iob2_path = os.path.join(OUT_PATH, iob2_filename)
             logging.info(f"Writing to {iob2_path}")
             with open(iob2_path, "w", encoding="latin-1") as f:
