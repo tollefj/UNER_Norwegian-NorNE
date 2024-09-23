@@ -30,8 +30,11 @@ All &  & 6774 & 5807 & 53191 & 65772 & 4301 & 3777 & 36778 & 44856 & 107254 & 91
 
 ## Guidelines
 
-NorNE: <https://github.com/ltgoslo/norne/blob/master/NorNe%20Annotation%20Guidelines.pdf>
-UNER: <https://www.universalner.org/guidelines/>
+### NorNE
+<https://github.com/ltgoslo/norne/blob/master/NorNe%20Annotation%20Guidelines.pdf>
+
+### UNER
+<https://www.universalner.org/guidelines/>
 
 ## Mapping
 
