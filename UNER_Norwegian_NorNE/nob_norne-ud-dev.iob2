@@ -57,6 +57,7 @@
 17	ord	O	O	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 015699
 # text = Den ene av de to meddommere, Espen Thomassen, finner åpenbart rettens nøkterne tone og saklighetsnivå uforståelig, nærmest ikke til å leve med:
 1	Den	O	O	-
@@ -108,7 +109,7 @@
 5	ser	O	O	-
 6	vi	O	O	-
 7	i	O	O	-
-8	Aftenposten	B-OTH	B-PROD	-
+8	Aftenposten	O	B-PROD	-
 9	Espen	B-PER	B-PER	-
 10	Thomassen	I-PER	I-PER	-
 11	på	O	O	-
@@ -210,9 +211,10 @@
 7	.	O	O	-
 8	»	O	O	-
 
+# newpar
 # sent_id = 015707
 # text = Aftenpostens oppslag i denne sak representerer et skille i norsk kriminaljournalistikk.
-1	Aftenpostens	B-OTH	B-PROD	-
+1	Aftenpostens	O	B-PROD	-
 2	oppslag	O	O	-
 3	i	O	O	-
 4	denne	O	O	-
@@ -328,6 +330,7 @@
 20	oppfatninger	O	O	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 015712
 # text = Det er naturlig, når vi nå har fått det første eksempel, at spørsmålet stilles hvorvidt dette er en utvikling vi ønsker.
 1	Det	O	O	-
@@ -365,7 +368,7 @@
 6	medier	O	O	-
 7	,	O	O	-
 8	i	O	O	-
-9	Aftenposten	B-OTH	B-PROD	-
+9	Aftenposten	O	B-PROD	-
 10	,	O	O	-
 11	som	O	O	-
 12	i	O	O	-
@@ -389,7 +392,7 @@
 # sent_id = 015714
 # text = Og Aftenposten leverer, også her.
 1	Og	O	O	-
-2	Aftenposten	B-OTH	B-PROD	-
+2	Aftenposten	O	B-PROD	-
 3	leverer	O	O	-
 4	,	O	O	-
 5	også	O	O	-
@@ -483,6 +486,7 @@
 6	menneske	O	O	-
 7	?	O	O	-
 
+# newpar
 # sent_id = 015721
 # text = At meddommeren nærmest mini-portrettintervjues som en meddommer i samvittighetskval, gjør ikke saken enklere, ikke mer forståelig.
 1	At	O	O	-
@@ -622,7 +626,7 @@
 66	retten	O	O	-
 67	»	O	O	-
 68	i	O	O	-
-69	Aftenposten	B-OTH	B-PROD	-
+69	Aftenposten	O	B-PROD	-
 70	,	O	O	-
 71	en	O	O	-
 72	spalte	O	O	-
@@ -635,6 +639,7 @@
 79	lavt	O	O	-
 80	.	O	O	-
 
+# newpar
 # sent_id = 015726
 # text = Meddommerens utspill har en selvfølgelig smitteeffekt.
 1	Meddommerens	O	O	-
@@ -796,6 +801,7 @@
 38	til	O	O	-
 39	.	O	O	-
 
+# newpar
 # sent_id = 015735
 # text = Så slått ut var meddommeren av det han opplevet i retten, at da han gikk gjennom sine notater fra rettsforhandlingene, trodde han ikke det som sto der var sant.
 1	Så	O	O	-
@@ -862,7 +868,7 @@
 
 # sent_id = 015738
 # text = Aftenpostens oppslag reiser vesentlige habilitetsspørsmål vedrørende meddommerordningen; det gjelder tilsvarende for jurymedlemmer.
-1	Aftenpostens	B-OTH	B-PROD	-
+1	Aftenpostens	O	B-PROD	-
 2	oppslag	O	O	-
 3	reiser	O	O	-
 4	vesentlige	O	O	-
@@ -906,6 +912,7 @@
 7	agenda	O	O	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 015741
 # text = Oppslaget har intet å gjøre med det man kan kalle gravende journalistikk.
 1	Oppslaget	O	O	-
@@ -1082,6 +1089,7 @@
 11	.	O	O	-
 12	»	O	O	-
 
+# newpar
 # sent_id = 015750
 # text = Hva er dette?
 1	Hva	O	O	-
@@ -1179,6 +1187,7 @@
 15	straffesak	O	O	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 015756
 # text = Jeg tar høyde for at Tor Langbach muligens ikke er kjent med i hvilken kontekst hans uttalelser skal benyttes.
 1	Jeg	O	O	-
@@ -1312,24 +1321,28 @@
 1	Tvisynt	O	O	-
 2	ombudsmann	O	O	-
 
+# newpar
 # sent_id = 015764
 # text = Stappfulle esker.
 1	Stappfulle	O	O	-
 2	esker	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 015765
 # text = Forsvarsskrift.
 1	Forsvarsskrift	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015766
 # text = Ombudsmannen
 1	Ombudsmannen	O	O	-
 
+# newpar
 # sent_id = 015767
 # text = Borten-biografi.
-1	Borten-biografi	B-OTH	B-DRV	-
+1	Borten-biografi	-	B-DRV	-
 2	.	O	O	-
 
 # sent_id = 015768
@@ -1344,7 +1357,7 @@
 8	bruker	O	O	-
 9	tittelen	O	O	-
 10	"	O	O	-
-11	Staurberaren	B-OTH	B-PROD	-
+11	Staurberaren	O	B-PROD	-
 12	"	O	O	-
 13	på	O	O	-
 14	den	O	O	-
@@ -1358,6 +1371,7 @@
 22	Borten	I-PER	I-PER	-
 23	.	O	O	-
 
+# newpar
 # sent_id = 015769
 # text = Ingen av Per Bortens uttalelser gjennom mer enn 50 år som lokalpolitiker, stortingsrepresentant, statsminister og politisk kårkall er blitt så legendarisk som da han ved avskjeden som statsminister i 1971 sammenlignet det å lede en koalisjonsregjering med å bære sprikende staur.
 1	Ingen	O	O	-
@@ -1512,7 +1526,7 @@
 13	og	O	O	-
 14	fremst	O	O	-
 15	i	O	O	-
-16	EF-saken	B-OTH	B-DRV	-
+16	EF-saken	-	B-DRV	-
 17	,	O	O	-
 18	tæret	O	O	-
 19	så	O	O	-
@@ -1589,7 +1603,7 @@
 13	i	O	O	-
 14	den	O	O	-
 15	uforsonlige	O	O	-
-16	EF-kampen	B-OTH	B-DRV	-
+16	EF-kampen	-	B-DRV	-
 17	mente	O	O	-
 18	deres	O	O	-
 19	sak	O	O	-
@@ -1598,7 +1612,7 @@
 22	tjent	O	O	-
 23	med	O	O	-
 24	at	O	O	-
-25	Borten-regjeringen	B-OTH	B-DRV	-
+25	Borten-regjeringen	-	B-DRV	-
 26	gikk	O	O	-
 27	av	O	O	-
 28	.	O	O	-
@@ -1617,7 +1631,7 @@
 10	langvarig	O	O	-
 11	og	O	O	-
 12	maktfullkomment	O	O	-
-13	Ap-styre	B-OTH	B-DRV	-
+13	Ap-styre	-	B-DRV	-
 14	,	O	O	-
 15	møtte	O	O	-
 16	sin	O	O	-
@@ -1639,6 +1653,7 @@
 32	sammen	O	O	-
 33	.	O	O	-
 
+# newpar
 # sent_id = 015778
 # text = Berntsen har påtatt seg en både viktig og vanskelig oppgave.
 1	Berntsen	B-PER	B-PER	-
@@ -1756,7 +1771,7 @@
 13	radiointervjuer	O	O	-
 14	med	O	O	-
 15	tidligere	O	O	-
-16	Dagsnytt-redaktør	B-OTH	B-DRV	-
+16	Dagsnytt-redaktør	-	B-DRV	-
 17	Per	B-PER	B-PER	-
 18	Bøhn	I-PER	I-PER	-
 19	og	O	O	-
@@ -1896,6 +1911,7 @@
 25	flest	O	O	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 015789
 # text = Berntsens største fortjeneste ligger i systematiseringen av det enorme kildematerialet.
 1	Berntsens	B-PER	B-PER	-
@@ -2043,7 +2059,7 @@
 9	sosiale	O	O	-
 10	reformer	O	O	-
 11	som	O	O	-
-12	Folketrygden	B-OTH	B-PROD	-
+12	Folketrygden	O	B-PROD	-
 13	,	O	O	-
 14	viser	O	O	-
 15	mer	O	O	-
@@ -2064,6 +2080,7 @@
 30	ståsted	O	O	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 015795
 # text = Fra statsministertiden nevner Berntsen offentlighetsloven og oppreisningen til krigsseilerne som viktige saker for Borten.
 1	Fra	O	O	-
@@ -2196,6 +2213,7 @@
 5	nye	O	O	-
 6	medlemsland	O	O	-
 
+# newpar
 # sent_id = 015801
 # text = - Har jobbet hardt
 1	-	O	O	-
@@ -2203,11 +2221,13 @@
 3	jobbet	O	O	-
 4	hardt	O	O	-
 
+# newpar
 # sent_id = 015802
 # text = Albania først
 1	Albania	B-LOC	B-GPE_LOC	-
 2	først	O	O	-
 
+# newpar
 # sent_id = 015803
 # text = Albania og Kroatia ble onsdag formelt ønsket velkommen som NATOs 27. og 28. medlemsland.
 1	Albania	B-LOC	B-GPE_LOC	-
@@ -2226,6 +2246,7 @@
 14	medlemsland	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 015804
 # text = Folk i Albania er stolte over NATO-medlemskapet.
 1	Folk	O	O	-
@@ -2234,7 +2255,7 @@
 4	er	O	O	-
 5	stolte	O	O	-
 6	over	O	O	-
-7	NATO-medlemskapet	B-OTH	B-DRV	-
+7	NATO-medlemskapet	-	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 015805
@@ -2268,6 +2289,7 @@
 # text = Reuters
 1	Reuters	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 015808
 # text = Det bekreftet USAs utenriksdepartement etter møter med landenes ambassadører i Washington onsdag.
 1	Det	O	O	-
@@ -2338,7 +2360,7 @@
 # text = - Som NATO-medlemsland er Albania beredt til å ta opp alle utfordringer og ansvar som deltakelsen i alliansen krever, sa han.
 1	-	O	O	-
 2	Som	O	O	-
-3	NATO-medlemsland	B-OTH	B-DRV	-
+3	NATO-medlemsland	-	B-DRV	-
 4	er	O	O	-
 5	Albania	B-ORG	B-GPE_ORG	-
 6	beredt	O	O	-
@@ -2360,6 +2382,7 @@
 22	han	O	O	-
 23	.	O	O	-
 
+# newpar
 # sent_id = 015812
 # text = Både Albania og Kroatia bidrar allerede til den NATO-ledede ISAF-styrken i Afghanistan.
 1	Både	O	O	-
@@ -2370,8 +2393,8 @@
 6	allerede	O	O	-
 7	til	O	O	-
 8	den	O	O	-
-9	NATO-ledede	B-OTH	B-DRV	-
-10	ISAF-styrken	B-OTH	B-DRV	-
+9	NATO-ledede	-	B-DRV	-
+10	ISAF-styrken	-	B-DRV	-
 11	i	O	O	-
 12	Afghanistan	B-LOC	B-GPE_LOC	-
 13	.	O	O	-
@@ -2430,7 +2453,7 @@
 15	standarder	O	O	-
 16	,	O	O	-
 17	sier	O	O	-
-18	NATO-talsmann	B-OTH	B-DRV	-
+18	NATO-talsmann	-	B-DRV	-
 19	James	B-PER	B-PER	-
 20	Appathurai	I-PER	I-PER	-
 21	.	O	O	-
@@ -2492,6 +2515,7 @@
 22	Appathurai	B-PER	B-PER	-
 23	.	O	O	-
 
+# newpar
 # sent_id = 015818
 # text = De to landene vil bli nå få hver sin alfabetiske plass, etter det latinske alfabetet, rundt møtebordet når alliansens stats- og regjeringssjefer møtes til NATOs jubileumstoppmøte med en innledende middag fredag kveld i den tyske byen Baden-Baden.
 1	De	O	O	-
@@ -2625,7 +2649,7 @@
 13	de	O	O	-
 14	andre	O	O	-
 15	utenfor	O	O	-
-16	NATO-hovedkvarteret	B-OTH	B-DRV	-
+16	NATO-hovedkvarteret	-	B-DRV	-
 17	i	O	O	-
 18	Brussel	B-LOC	B-GPE_LOC	-
 19	.	O	O	-
@@ -2637,21 +2661,25 @@
 3	plan	O	O	-
 4	B	O	O	-
 
+# newpar
 # sent_id = 015824
 # text = Uansvarlig.
 1	Uansvarlig	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015825
 # text = Regjeringspartnerne.
 1	Regjeringspartnerne	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015826
 # text = Revehi.
 1	Revehi	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015827
 # text = Regjeringsspill.
 1	Regjeringsspill	O	O	-
@@ -2688,6 +2716,7 @@
 4	ikke	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 015830
 # text = I Knut Nærums elleville valgkampsatire om kaptein Stoltentann og hans mannskap på piratskipet «Den rødgrønne dame» bryter det ut et kraftig tordenvær hver gang hun hvis navn ikke kan nevnes, havheksen Siv, likevel blir navngitt.
 1	I	O	O	-
@@ -2704,9 +2733,9 @@
 12	på	O	O	-
 13	piratskipet	O	O	-
 14	«	O	O	-
-15	Den	B-OTH	B-PROD	-
-16	rødgrønne	I-OTH	I-PROD	-
-17	dame	I-OTH	I-PROD	-
+15	Den	O	B-PROD	-
+16	rødgrønne	O	I-PROD	-
+17	dame	O	I-PROD	-
 18	»	O	O	-
 19	bryter	O	O	-
 20	det	O	O	-
@@ -2747,7 +2776,7 @@
 12	B	O	O	-
 13	-	O	O	-
 14	en	O	O	-
-15	Ap-regjering	B-OTH	B-DRV	-
+15	Ap-regjering	-	B-DRV	-
 16	i	O	O	-
 17	mindretall	O	O	-
 18	-	O	O	-
@@ -2852,6 +2881,7 @@
 49	»	O	O	-
 50	.	O	O	-
 
+# newpar
 # sent_id = 015834
 # text = Stoltenbergs problem er imidlertid at han i andre sammenhenger later som opposisjonen er mer regjeringsdyktig enn den er.
 1	Stoltenbergs	B-PER	B-PER	-
@@ -3002,7 +3032,7 @@
 5	at	O	O	-
 6	mange	O	O	-
 7	halvhjertede	O	O	-
-8	Ap-velgere	B-OTH	B-DRV	-
+8	Ap-velgere	-	B-DRV	-
 9	blir	O	O	-
 10	sittende	O	O	-
 11	hjemme	O	O	-
@@ -3028,6 +3058,7 @@
 31	fordeles	O	O	-
 32	.	O	O	-
 
+# newpar
 # sent_id = 015840
 # text = Men det er flere forklaringer på at Stoltenberg lar plan B være unevnelig.
 1	Men	O	O	-
@@ -3295,9 +3326,9 @@
 34	å	O	O	-
 35	dempe	O	O	-
 36	utspillskåte	O	O	-
-37	SV-ere	B-OTH	B-DRV	-
+37	SV-ere	-	B-DRV	-
 38	og	O	O	-
-39	Sp-ere	B-OTH	B-DRV	-
+39	Sp-ere	-	B-DRV	-
 40	.	O	O	-
 
 # sent_id = 015848
@@ -3409,6 +3440,7 @@
 61	fremtiden	O	O	-
 62	.	O	O	-
 
+# newpar
 # sent_id = 015852
 # text = Da er nok Ap mindre bekymret for hvordan partiet eventuelt kan komme til makten med et ikke-sosialistisk flertall.
 1	Da	O	O	-
@@ -3433,7 +3465,7 @@
 
 # sent_id = 015853
 # text = Venstre-leder Lars Sponheim etterlater ingen tvil om at han heller vil ha en Ap-regjering i mindretall enn en der Frp er med.
-1	Venstre-leder	B-OTH	B-DRV	-
+1	Venstre-leder	-	B-DRV	-
 2	Lars	B-PER	B-PER	-
 3	Sponheim	I-PER	I-PER	-
 4	etterlater	O	O	-
@@ -3446,7 +3478,7 @@
 11	vil	O	O	-
 12	ha	O	O	-
 13	en	O	O	-
-14	Ap-regjering	B-OTH	B-DRV	-
+14	Ap-regjering	-	B-DRV	-
 15	i	O	O	-
 16	mindretall	O	O	-
 17	enn	O	O	-
@@ -3462,7 +3494,7 @@
 1	Det	O	O	-
 2	vil	O	O	-
 3	også	O	O	-
-4	KrF-leder	B-OTH	B-DRV	-
+4	KrF-leder	-	B-DRV	-
 5	Dagfinn	B-PER	B-PER	-
 6	Høybråten	I-PER	I-PER	-
 7	selv	O	O	-
@@ -3654,6 +3686,7 @@
 9	Clintons	B-PER	B-PER	-
 10	fly	O	O	-
 
+# newpar
 # sent_id = 015862
 # text = Spiste middag på Kim Jong-il
 1	Spiste	O	O	-
@@ -3662,6 +3695,7 @@
 4	Kim	B-PER	B-PER	-
 5	Jong-il	I-PER	I-PER	-
 
+# newpar
 # sent_id = 015863
 # text = Arrestert for ulovlig grensekryssing
 1	Arrestert	O	O	-
@@ -3669,6 +3703,7 @@
 3	ulovlig	O	O	-
 4	grensekryssing	O	O	-
 
+# newpar
 # sent_id = 015864
 # text = Sa han unnskyld?
 1	Sa	O	O	-
@@ -3676,6 +3711,7 @@
 3	unnskyld	O	O	-
 4	?	O	O	-
 
+# newpar
 # sent_id = 015865
 # text = Nord-Korea fornærmet Hillary Clinton
 1	Nord-Korea	B-ORG	B-GPE_ORG	-
@@ -3683,6 +3719,7 @@
 3	Hillary	B-PER	B-PER	-
 4	Clinton	I-PER	I-PER	-
 
+# newpar
 # sent_id = 015866
 # text = Eks-presidenten brukte under ett døgn for å få journalistene benådet fra 12 år i nordkoreansk arbeidsleir.
 1	Eks-presidenten	O	O	-
@@ -3703,6 +3740,7 @@
 16	arbeidsleir	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 015867
 # text = Kona sendte Clinton til Nord-Korea
 1	Kona	O	O	-
@@ -3815,6 +3853,7 @@
 20	USA	B-LOC	B-GPE_LOC	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 015874
 # text = Clinton ble mottatt med blomster og vennlige håndtrykk da han landet, og dro så i et møte med den nordkoreanske lederen, Kim Jong-il.
 1	Clinton	B-PER	B-PER	-
@@ -3847,7 +3886,7 @@
 # sent_id = 015875
 # text = Ifølge CNN varte møtet i én time og ett kvarter, før den tidligere presidenten og hans to medarbeidere spiste en to timer lang middag sammen med de nord-koreanske lederne.
 1	Ifølge	O	O	-
-2	CNN	B-OTH	B-PROD	-
+2	CNN	O	B-PROD	-
 3	varte	O	O	-
 4	møtet	O	O	-
 5	i	O	O	-
@@ -3975,7 +4014,7 @@
 3	flere	O	O	-
 4	diplomater	O	O	-
 5	og	O	O	-
-6	Asia-eksperter	B-OTH	B-DRV	-
+6	Asia-eksperter	-	B-DRV	-
 7	til	O	O	-
 8	The	B-ORG	B-ORG	-
 9	Washington	I-ORG	I-ORG	-
@@ -4046,7 +4085,7 @@
 16	men	O	O	-
 17	Clinton	B-PER	B-PER	-
 18	og	O	O	-
-19	Obama-administrasjonen	B-OTH	B-DRV	-
+19	Obama-administrasjonen	-	B-DRV	-
 20	hadde	O	O	-
 21	på	O	O	-
 22	forhånd	O	O	-
@@ -4143,6 +4182,7 @@
 12	atomprogram	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 015885
 # text = De to amerikanske journalistene Euna Lee (36) og Laura Ling (32) var i grenseområdet mellom Kina og Nord-Korea i mars i år, angivelig fordi de arbeidet med en sak om menneskehandel.
 1	De	O	O	-
@@ -4383,6 +4423,7 @@
 15	hus	I-ORG	I-ORG	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 015894
 # text = Flere nordkoreanske nyhetsbyråer melder onsdag at Bill Clinton ba Nord-Korea om unnskyldning for de to journalistenes oppførsel.
 1	Flere	O	O	-
@@ -4482,6 +4523,7 @@
 4	Hillary	B-PER	B-PER	-
 5	Clinton	I-PER	I-PER	-
 
+# newpar
 # sent_id = 015899
 # text = Clintons oppdrag kom bare to uker etter at Nord-Korea kom med et kraftig personangrep på hans kone, utenriksminister Hillary Clinton.
 1	Clintons	B-PER	B-PER	-
@@ -4793,17 +4835,20 @@
 2	i	O	O	-
 3	spagat	O	O	-
 
+# newpar
 # sent_id = 015911
 # text = Høy pris.
 1	Høy	O	O	-
 2	pris	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 015912
 # text = Mistet initiativet
 1	Mistet	O	O	-
 2	initiativet	O	O	-
 
+# newpar
 # sent_id = 015913
 # text = Støtte fra velgerne.
 1	Støtte	O	O	-
@@ -4811,6 +4856,7 @@
 3	velgerne	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 015914
 # text = Høyre.
 1	Høyre	B-ORG	B-ORG	-
@@ -4820,7 +4866,7 @@
 # text = Flertallet av Høyre-velgerne mener deres parti kan danne regjering med Frp.
 1	Flertallet	O	O	-
 2	av	O	O	-
-3	Høyre-velgerne	B-OTH	B-DRV	-
+3	Høyre-velgerne	-	B-DRV	-
 4	mener	O	O	-
 5	deres	O	O	-
 6	parti	O	O	-
@@ -4845,6 +4891,7 @@
 10	historie	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 015917
 # text = 125-årsdagen i dag må være en blandet følelse for Høyre.
 1	125-årsdagen	O	O	-
@@ -4928,7 +4975,7 @@
 11	1980-tallet	O	O	-
 12	,	O	O	-
 13	da	O	O	-
-14	NRK-monopolet	B-OTH	B-DRV	-
+14	NRK-monopolet	-	B-DRV	-
 15	ble	O	O	-
 16	opphevet	O	O	-
 17	,	O	O	-
@@ -5074,7 +5121,7 @@
 33	den	O	O	-
 34	mening	O	O	-
 35	ledende	O	O	-
-36	Høyre-ideologer	B-OTH	B-DRV	-
+36	Høyre-ideologer	-	B-DRV	-
 37	har	O	O	-
 38	definert	O	O	-
 39	sin	O	O	-
@@ -5085,6 +5132,7 @@
 44	år	O	O	-
 45	.	O	O	-
 
+# newpar
 # sent_id = 015926
 # text = Å være nummer to på ikke-sosialistisk side er ikke bare uvant for Høyre.
 1	Å	O	O	-
@@ -5151,7 +5199,7 @@
 37	til	O	O	-
 38	å	O	O	-
 39	gjenopplive	O	O	-
-40	Bondevik-alliansen	B-OTH	B-DRV	-
+40	Bondevik-alliansen	-	B-DRV	-
 41	med	O	O	-
 42	Kristelig	B-ORG	B-ORG	-
 43	Folkeparti	I-ORG	I-ORG	-
@@ -5341,6 +5389,7 @@
 28	mulig	O	O	-
 29	.	O	O	-
 
+# newpar
 # sent_id = 015935
 # text = Uansett er det smertelig for Høyre å ha mistet initiativet til å definere hvordan en opposisjonspolitikk kan omformes til et regjeringsgrunnlag.
 1	Uansett	O	O	-
@@ -5497,6 +5546,7 @@
 41	1981	O	O	-
 42	.	O	O	-
 
+# newpar
 # sent_id = 015939
 # text = Når Høyre ikke lenger har styrke til å opprettholde sin posisjon som drivkraft og spydspiss for et slagkraftig regjeringsalternativ, er det også til begrenset trøst at flertallet av de velgerne partiet fortsatt har, støtter muligheten for å regjere med Frp, slik det går frem av meningsmålingen her i avisen i dag.
 1	Når	O	O	-
@@ -5564,7 +5614,7 @@
 5	enda	O	O	-
 6	verre	O	O	-
 7	for	O	O	-
-8	Høyre-ledelsen	B-OTH	B-DRV	-
+8	Høyre-ledelsen	-	B-DRV	-
 9	,	O	O	-
 10	men	O	O	-
 11	forklaringen	O	O	-
@@ -5573,7 +5623,7 @@
 14	er	O	O	-
 15	neppe	O	O	-
 16	at	O	O	-
-17	Høyre-velgerne	B-OTH	B-DRV	-
+17	Høyre-velgerne	-	B-DRV	-
 18	har	O	O	-
 19	en	O	O	-
 20	sterk	O	O	-
@@ -5683,7 +5733,7 @@
 4	51	O	O	-
 5	prosent	O	O	-
 6	av	O	O	-
-7	Høyre-velgerne	B-OTH	B-DRV	-
+7	Høyre-velgerne	-	B-DRV	-
 8	at	O	O	-
 9	Høyre	B-ORG	B-ORG	-
 10	godt	O	O	-
@@ -5785,21 +5835,25 @@
 2	klarere	O	O	-
 3	Høyre	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 015949
 # text = Luftslott.
 1	Luftslott	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015950
 # text = Skjerpet tone
 1	Skjerpet	O	O	-
 2	tone	O	O	-
 
+# newpar
 # sent_id = 015951
 # text = Handlingsrom.
 1	Handlingsrom	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015952
 # text = Både Siv Jensen og Høyres velgere hjelper Erna Solberg til å bli tydeligere i regjeringsspørsmålet.
 1	Både	O	O	-
@@ -5819,6 +5873,7 @@
 15	regjeringsspørsmålet	O	O	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 015953
 # text = Erna Solberg er en ryddig politiker.
 1	Erna	B-PER	B-PER	-
@@ -5884,7 +5939,7 @@
 7	er	O	O	-
 8	likestilte	O	O	-
 9	i	O	O	-
-10	Høyre-lederens	B-OTH	B-DRV	-
+10	Høyre-lederens	-	B-DRV	-
 11	hode	O	O	-
 12	og	O	O	-
 13	strategi	O	O	-
@@ -5914,7 +5969,7 @@
 20	en	O	O	-
 21	gjenoppstandelse	O	O	-
 22	av	O	O	-
-23	Bondevik-koalisjonen	B-OTH	B-DRV	-
+23	Bondevik-koalisjonen	-	B-DRV	-
 24	,	O	O	-
 25	denne	O	O	-
 26	gangen	O	O	-
@@ -5936,6 +5991,7 @@
 42	side	O	O	-
 43	.	O	O	-
 
+# newpar
 # sent_id = 015957
 # text = Høyres drøm om en flertallsregjering av alle fire partiene er forlengst lagt til side.
 1	Høyres	B-ORG	B-ORG	-
@@ -5987,7 +6043,7 @@
 3	riktignok	O	O	-
 4	hver	O	O	-
 5	fjerde	O	O	-
-6	Høyre-velger	B-OTH	B-DRV	-
+6	Høyre-velger	-	B-DRV	-
 7	at	O	O	-
 8	han	O	O	-
 9	foretrekker	O	O	-
@@ -6030,6 +6086,7 @@
 8	rekkevidde	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 015962
 # text = Høyre, KrF og Venstre vil derimot kunne danne en mindretallsregjering, under forutsetning av at de tre partiene tilsammen blir større enn Frp.
 1	Høyre	B-ORG	B-ORG	-
@@ -6212,6 +6269,7 @@
 26	borgerlig	O	O	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 015969
 # text = Det viktigste bidraget til Solbergs økte handlingsrom foran den siste valgkampuken, har hun likevel fått fra sine egne.
 1	Det	O	O	-
@@ -6240,7 +6298,7 @@
 1	Når	O	O	-
 2	hver	O	O	-
 3	tredje	O	O	-
-4	Høyre-velger	B-OTH	B-DRV	-
+4	Høyre-velger	-	B-DRV	-
 5	vil	O	O	-
 6	ha	O	O	-
 7	en	O	O	-
@@ -6263,7 +6321,7 @@
 24	er	O	O	-
 25	en	O	O	-
 26	ren	O	O	-
-27	Høyre-regjering	B-OTH	B-DRV	-
+27	Høyre-regjering	-	B-DRV	-
 28	,	O	O	-
 29	er	O	O	-
 30	ikke	O	O	-
@@ -6358,6 +6416,7 @@
 1	Tynnslitte	O	O	-
 2	nerver	O	O	-
 
+# newpar
 # sent_id = 015976
 # text = Frp og Høyre.
 1	Frp	B-ORG	B-ORG	-
@@ -6365,11 +6424,13 @@
 3	Høyre	B-ORG	B-ORG	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 015977
 # text = Halvorsen.
 1	Halvorsen	B-PER	B-PER	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015978
 # text = Visjon og virkelighet.
 1	Visjon	O	O	-
@@ -6377,11 +6438,13 @@
 3	virkelighet	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 015979
 # text = Sponheim.
 1	Sponheim	B-PER	B-PER	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 015980
 # text = Skiftende meningsmålinger bringer nervene i høyspenn i alle partier i valgkampinnspurten.
 1	Skiftende	O	O	-
@@ -6397,6 +6460,7 @@
 11	valgkampinnspurten	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 015981
 # text = Sjelden har så mye stått på spill for så mange partier tre dager før et valg.
 1	Sjelden	O	O	-
@@ -6454,7 +6518,7 @@
 14	Lars	B-PER	B-PER	-
 15	Sponheim	I-PER	I-PER	-
 16	i	O	O	-
-17	VG	B-OTH	B-PROD	-
+17	VG	O	B-PROD	-
 18	ble	O	O	-
 19	tolket	O	O	-
 20	som	O	O	-
@@ -6473,7 +6537,7 @@
 33	en	O	O	-
 34	gjenopplivning	O	O	-
 35	av	O	O	-
-36	Bondevik-alliansen	B-OTH	B-DRV	-
+36	Bondevik-alliansen	-	B-DRV	-
 37	.	O	O	-
 
 # sent_id = 015984
@@ -6494,6 +6558,7 @@
 14	sitt	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 015985
 # text = I Fremskrittspartiet sprer de nå historier om hvor mye Høyre satset for å få tatt et bilde av Solberg sammen med Siv Jensen for balansens skyld.
 1	I	O	O	-
@@ -6562,7 +6627,7 @@
 3	to	O	O	-
 4	møttes	O	O	-
 5	i	O	O	-
-6	NRK	B-OTH	B-PROD	-
+6	NRK	O	B-PROD	-
 7	i	O	O	-
 8	går	O	O	-
 9	kveld	O	O	-
@@ -6664,6 +6729,7 @@
 18	valget	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 015993
 # text = Det rødgrønne regjeringsprosjektet er avhengig av at Arbeiderpartiet, SV og Senterpartiet beholder flertallet.
 1	Det	O	O	-
@@ -6766,7 +6832,7 @@
 2	faren	O	O	-
 3	ser	O	O	-
 4	nok	O	O	-
-5	SV-lederen	B-OTH	B-DRV	-
+5	SV-lederen	-	B-DRV	-
 6	selv	O	O	-
 7	.	O	O	-
 
@@ -6811,8 +6877,8 @@
 8	når	O	O	-
 9	hun	O	O	-
 10	i	O	O	-
-11	VG	B-OTH	B-PROD	-
-12	TVs	I-OTH	I-PROD	-
+11	VG	O	B-PROD	-
+12	TVs	O	I-PROD	-
 13	partilederdebatt	O	O	-
 14	i	O	O	-
 15	går	O	O	-
@@ -6833,6 +6899,7 @@
 30	makten	O	O	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 016002
 # text = Jens Stoltenberg har det litt enklere.
 1	Jens	B-PER	B-PER	-
@@ -6944,7 +7011,7 @@
 27	er	O	O	-
 28	greit	O	O	-
 29	at	O	O	-
-30	Ap-politikere	B-OTH	B-DRV	-
+30	Ap-politikere	-	B-DRV	-
 31	som	O	O	-
 32	Jan	B-PER	B-PER	-
 33	Bøhler	I-PER	I-PER	-
@@ -6959,6 +7026,7 @@
 42	retorikk	O	O	-
 43	.	O	O	-
 
+# newpar
 # sent_id = 016007
 # text = Dagens meningsmåling viser at Venstre igjen er farlig nær sperregrensen, og Bergensavisen har to dager på rad hatt målinger for Hordaland der Lars Sponheim er avhengig av utjevningsmandat for å bli gjenvalgt til Stortinget.
 1	Dagens	O	O	-
@@ -6973,7 +7041,7 @@
 10	sperregrensen	O	O	-
 11	,	O	O	-
 12	og	O	O	-
-13	Bergensavisen	B-OTH	B-PROD	-
+13	Bergensavisen	O	B-PROD	-
 14	har	O	O	-
 15	to	O	O	-
 16	dager	O	O	-
@@ -7070,7 +7138,7 @@
 10	kveldens	O	O	-
 11	partilederdebatt	O	O	-
 12	på	O	O	-
-13	NRK	B-OTH	B-PROD	-
+13	NRK	O	B-PROD	-
 14	-	O	O	-
 15	Lars	B-PER	B-PER	-
 16	Sponheim	I-PER	I-PER	-
@@ -7085,21 +7153,25 @@
 2	til	O	O	-
 3	hverdagen	O	O	-
 
+# newpar
 # sent_id = 016011
 # text = Helse.
 1	Helse	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016012
 # text = Vandrehall.
 1	Vandrehall	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016013
 # text = Vikarstyre.
 1	Vikarstyre	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016014
 # text = Fem uker i valgseierens glans er over for de rødgrønne.
 1	Fem	O	O	-
@@ -7136,6 +7208,7 @@
 6	resultatene	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 016017
 # text = Statsminister Jens Stoltenberg snakket med Heidi Christine Myrvold Øverland (f.v.), Annika Alexandersen og Juni Høiseth fra Capio Anoreksi Senter i Fredrikstad i Stortingets vandrehall i går.
 1	Statsminister	O	O	-
@@ -7169,6 +7242,7 @@
 29	går	O	O	-
 30	.	O	O	-
 
+# newpar
 # sent_id = 016018
 # text = Statsminister Jens Stoltenberg tok støyten selv på Stortingets første arbeidsdag med ommøblert regjering.
 1	Statsminister	O	O	-
@@ -7319,6 +7393,7 @@
 26	vis	O	O	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 016025
 # text = At Strøm-Erichsen tok seg fri på sin 60-årsdag, er en bagatell.
 1	At	O	O	-
@@ -7544,6 +7619,7 @@
 5	være	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 016034
 # text = Høyre illustrerte i går dette på en menneskelig forståelig, men prinsipielt kontroversiell måte.
 1	Høyre	B-ORG	B-ORG	-
@@ -7754,6 +7830,7 @@
 24	saksbehandlerfunksjon	O	O	-
 25	.	O	O	-
 
+# newpar
 # sent_id = 016042
 # text = Derimot er det fullt og helt statsministerens ansvar at det viktigste departementet for å realisere Regjeringens mål om å få med flest mulig i arbeidslivet, fortsetter med en vikarierende statsråd i to måneder til.
 1	Derimot	O	O	-
@@ -7808,7 +7885,7 @@
 
 # sent_id = 016044
 # text = Nav-reformen er langt fra gjennomført, og i høst skal det gjennomføres avgjørende forhandlinger om fremtiden til avtalen om et inkluderende arbeidsliv (IA-avtalen).
-1	Nav-reformen	B-OTH	B-PROD	-
+1	Nav-reformen	O	B-PROD	-
 2	er	O	O	-
 3	langt	O	O	-
 4	fra	O	O	-
@@ -7831,7 +7908,7 @@
 21	inkluderende	O	O	-
 22	arbeidsliv	O	O	-
 23	(	O	O	-
-24	IA-avtalen	B-OTH	B-PROD	-
+24	IA-avtalen	O	B-PROD	-
 25	)	O	O	-
 26	.	O	O	-
 
@@ -7855,7 +7932,7 @@
 3	i	O	O	-
 4	arbeidslivet	O	O	-
 5	eller	O	O	-
-6	Nav-etaten	B-OTH	B-DRV	-
+6	Nav-etaten	-	B-DRV	-
 7	får	O	O	-
 8	følelsen	O	O	-
 9	av	O	O	-
@@ -7958,7 +8035,7 @@
 16	klimaforhandlingene	O	O	-
 17	frem	O	O	-
 18	til	O	O	-
-19	København-møtet	B-OTH	B-DRV	-
+19	København-møtet	-	B-DRV	-
 20	.	O	O	-
 
 # sent_id = 016051
@@ -8066,6 +8143,7 @@
 6	pub	O	O	-
 7	?	O	O	-
 
+# newpar
 # sent_id = 016057
 # text = Irene diskuterer over mørkebrunt øl.
 1	Irene	O	O	-
@@ -8106,6 +8184,7 @@
 5	publivet	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 016061
 # text = Vi skyver opp døren til Mulligan's pub.
 1	Vi	O	O	-
@@ -8165,8 +8244,8 @@
 # text = Lukten av Irish stew, grovt brød, blandet med tyktflytende brunsvart øl, rennende nedover glasset og utover bardisken.
 1	Lukten	O	O	-
 2	av	O	O	-
-3	Irish	B-OTH	B-PROD	-
-4	stew	I-OTH	I-PROD	-
+3	Irish	O	B-PROD	-
+4	stew	O	I-PROD	-
 5	,	O	O	-
 6	grovt	O	O	-
 7	brød	O	O	-
@@ -8259,7 +8338,7 @@
 4	det	O	O	-
 5	ustanselig	O	O	-
 6	mørkebrun	O	O	-
-7	Guinness	B-OTH	B-PROD	-
+7	Guinness	O	B-PROD	-
 8	.	O	O	-
 
 # sent_id = 016073
@@ -8547,7 +8626,7 @@
 2	ny	O	O	-
 3	pint	O	O	-
 4	med	O	O	-
-5	Guinness	B-OTH	B-PROD	-
+5	Guinness	O	B-PROD	-
 6	lander	O	O	-
 7	på	O	O	-
 8	bardisken	O	O	-
@@ -8626,7 +8705,7 @@
 4	et	O	O	-
 5	lite	O	O	-
 6	glass	O	O	-
-7	Guinness	B-OTH	B-PROD	-
+7	Guinness	O	B-PROD	-
 8	.	O	O	-
 
 # sent_id = 016097
@@ -9273,10 +9352,12 @@
 6	mann	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 016140
 # text = Museumsparadokser
 1	Museumsparadokser	O	O	-
 
+# newpar
 # sent_id = 016141
 # text = Verdensarv.
 1	Verdensarv	O	O	-
@@ -9321,6 +9402,7 @@
 6	historieløshet	O	O	-
 7	?	O	O	-
 
+# newpar
 # sent_id = 016145
 # text = Jeg skal ikke kaste meg inn i norsk museumsdebatt, den lever fint her i avisen uten meg.
 1	Jeg	O	O	-
@@ -9552,6 +9634,7 @@
 24	nennsomt	O	O	-
 25	.	O	O	-
 
+# newpar
 # sent_id = 016160
 # text = Skal man se Leonardos berømte veggmaleri av Jesu siste måltid med disiplene, nytter det ikke lenger å spasere gjennom Milanos gater og tro at man slipper inn i det gamle refektoriet hvor munkene i sin tid satt til bords med skikkelsene på fresken.
 1	Skal	O	O	-
@@ -9606,7 +9689,7 @@
 2	er	O	O	-
 3	slik	O	O	-
 4	"	O	O	-
-5	Nadverden	B-OTH	B-PROD	-
+5	Nadverden	O	B-PROD	-
 6	"	O	O	-
 7	er	O	O	-
 8	tenkt	O	O	-
@@ -9940,6 +10023,7 @@
 15	kulturarv	O	O	-
 16	?	O	O	-
 
+# newpar
 # sent_id = 016182
 # text = Museene i verden skriker etter bevilgninger.
 1	Museene	O	O	-
@@ -10083,9 +10167,9 @@
 3	lært	O	O	-
 4	det	O	O	-
 5	av	O	O	-
-6	Holocaust	B-OTH	B-EVT	-
+6	Holocaust	O	B-EVT	-
 7	og	O	O	-
-8	Hiroshima	B-OTH	B-EVT	-
+8	Hiroshima	O	B-EVT	-
 9	,	O	O	-
 10	det	O	O	-
 11	skal	O	O	-
@@ -10168,6 +10252,7 @@
 12	museer	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016196
 # text = Jeg ser at ruinene i Baalbek snart risikerer å bli ruiner igjen, rester av rester i Libanon, levninger som snart ikke har sten på sten tilbake av felles kulturerfaring, egyptisk, gresk, romersk, et museum utendørs.
 1	Jeg	O	O	-
@@ -10366,6 +10451,7 @@
 5	potteskår	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 016208
 # text = Jeg går til Museo del Castello Sforzesco i Milano.
 1	Jeg	O	O	-
@@ -10390,7 +10476,7 @@
 2	å	O	O	-
 3	se	O	O	-
 4	"	O	O	-
-5	Nadverden	B-OTH	B-PROD	-
+5	Nadverden	O	B-PROD	-
 6	"	O	O	-
 7	av	O	O	-
 8	Leonardo	B-PER	B-PER	-
@@ -10484,8 +10570,8 @@
 12	svanesang	O	O	-
 13	,	O	O	-
 14	hans	O	O	-
-15	Pietá	B-OTH	B-PROD	-
-16	Rondanini	I-OTH	I-PROD	-
+15	Pietá	O	B-PROD	-
+16	Rondanini	O	I-PROD	-
 17	,	O	O	-
 18	et	O	O	-
 19	ufullført	O	O	-
@@ -10633,17 +10719,19 @@
 
 # sent_id = 016224
 # text = Borat sårer nasjonens stolthet
-1	Borat	B-OTH	B-PROD	-
+1	Borat	O	B-PROD	-
 2	sårer	O	O	-
 3	nasjonens	O	O	-
 4	stolthet	O	O	-
 
+# newpar
 # sent_id = 016225
 # text = Ville protestere.
 1	Ville	O	O	-
 2	protestere	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 016226
 # text = En " norsk " reaksjon.
 1	En	O	O	-
@@ -10653,6 +10741,7 @@
 5	reaksjon	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 016227
 # text = Et rikt land.
 1	Et	O	O	-
@@ -10660,6 +10749,7 @@
 3	land	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 016228
 # text = Sacha Baron Cohen har fått adrenalinet til å flomme i Kasakhstan.
 1	Sacha	B-PER	B-PER	-
@@ -10697,6 +10787,7 @@
 18	hardingfele	O	O	-
 19	?	O	O	-
 
+# newpar
 # sent_id = 016230
 # text = Melonas kan spøke med norske bunader.
 1	Melonas	B-ORG	B-ORG	-
@@ -10720,6 +10811,7 @@
 9	mottatt	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 016232
 # text = - Et svin av en mann, sa Kasakhstans London-ambassadør om Borat.
 1	-	O	O	-
@@ -10731,7 +10823,7 @@
 7	,	O	O	-
 8	sa	O	O	-
 9	Kasakhstans	B-ORG	B-GPE_ORG	-
-10	London-ambassadør	B-OTH	B-DRV	-
+10	London-ambassadør	-	B-DRV	-
 11	om	O	O	-
 12	Borat	B-PER	B-PER	-
 13	.	O	O	-
@@ -10845,6 +10937,7 @@
 7	Tyskland	B-LOC	B-GPE_LOC	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 016240
 # text = - Et kinobesøk som utviklet seg til tortur, heter det i reportasjen.
 1	-	O	O	-
@@ -11055,6 +11148,7 @@
 15	seg	O	O	-
 16	?	O	O	-
 
+# newpar
 # sent_id = 016252
 # text = Såret nasjonalstolthet er en følelse vi her i Norge burde kjenne meget godt.
 1	Såret	O	O	-
@@ -11192,8 +11286,8 @@
 7	den	O	O	-
 8	tyske	O	O	-
 9	ukeavisen	O	O	-
-10	Die	B-OTH	B-PROD	-
-11	Zeit	I-OTH	I-PROD	-
+10	Die	O	B-PROD	-
+11	Zeit	O	I-PROD	-
 12	.	O	O	-
 
 # sent_id = 016261
@@ -11322,7 +11416,7 @@
 6	til	O	O	-
 7	en	O	O	-
 8	stor	O	O	-
-9	Kasakhstan-rundtur	B-OTH	B-DRV	-
+9	Kasakhstan-rundtur	-	B-DRV	-
 10	.	O	O	-
 
 # sent_id = 016270
@@ -11340,6 +11434,7 @@
 11	Atabajev	B-PER	B-PER	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 016271
 # text = Akkurat det siste har neppe støtte fra høyeste hold.
 1	Akkurat	O	O	-
@@ -11372,7 +11467,7 @@
 15	at	O	O	-
 16	oppstyret	O	O	-
 17	rundt	O	O	-
-18	Borat	B-OTH	B-PROD	-
+18	Borat	O	B-PROD	-
 19	også	O	O	-
 20	har	O	O	-
 21	ført	O	O	-
@@ -11418,7 +11513,7 @@
 # sent_id = 016275
 # text = Uten Borat hadde vi neppe sett særlig mange artikler om Kasakhstan.
 1	Uten	O	O	-
-2	Borat	B-OTH	B-PROD	-
+2	Borat	O	B-PROD	-
 3	hadde	O	O	-
 4	vi	O	O	-
 5	neppe	O	O	-
@@ -11528,22 +11623,26 @@
 1	Svak	O	O	-
 2	tenkning	O	O	-
 
+# newpar
 # sent_id = 016285
 # text = Gavepakke.
 1	Gavepakke	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016286
 # text = Hektisk.
 1	Hektisk	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016287
 # text = 2. akt.
 1	2.	O	O	-
 2	akt	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 016288
 # text = Elementært.
 1	Elementært	O	O	-
@@ -11572,6 +11671,7 @@
 19	være	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 016290
 # text = Kirkedebatten er i ferd med å bli underlig.
 1	Kirkedebatten	O	O	-
@@ -11645,6 +11745,7 @@
 3	revideres	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 016295
 # text = Med slik argumentasjonslinjen inviterer både Gjønnes-utvalget og Kirkemøtet til prinsipiell politisk debatt om teokrati, demokrati, likestilling og religionsfrihet.
 1	Med	O	O	-
@@ -11709,7 +11810,7 @@
 7	politikere	O	O	-
 8	-	O	O	-
 9	og	O	O	-
-10	LO-folk	B-OTH	B-DRV	-
+10	LO-folk	-	B-DRV	-
 11	,	O	O	-
 12	av	O	O	-
 13	alle	O	O	-
@@ -11808,6 +11909,7 @@
 23	institusjon	O	O	-
 24	.	O	O	-
 
+# newpar
 # sent_id = 016302
 # text = Sist fredag var det høringsfrist, og avsluttet dermed første akt i dette underlige skuespillet.
 1	Sist	O	O	-
@@ -11977,6 +12079,7 @@
 5	statsstyrt	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 016310
 # text = Fortsetter dette, betyr det at Norge er ute av stand til å føre en politisk debatt om forholdet mellom stat og religion.
 1	Fortsetter	O	O	-
@@ -12144,11 +12247,13 @@
 6	vårt	O	O	-
 7	mål	O	O	-
 
+# newpar
 # sent_id = 016318
 # text = Fåfengt.
 1	Fåfengt	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016319
 # text = Maskinen som forbilde.
 1	Maskinen	O	O	-
@@ -12156,12 +12261,14 @@
 3	forbilde	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 016320
 # text = Økologiske avtrykk.
 1	Økologiske	O	O	-
 2	avtrykk	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 016321
 # text = Store planer.
 1	Store	O	O	-
@@ -12207,6 +12314,7 @@
 26	Oslo	B-LOC	B-GPE_LOC	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 016324
 # text = Flere av forslagene vil gjøre Postgirobygget til en dverg, om vi skal tro tegningene.
 1	Flere	O	O	-
@@ -12253,6 +12361,7 @@
 23	kroner	O	O	-
 24	!	O	O	-
 
+# newpar
 # sent_id = 016326
 # text = Normalt ville protestene blitt store.
 1	Normalt	O	O	-
@@ -12440,6 +12549,7 @@
 19	stikken	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 016336
 # text = De er ikke alene om sin svikt.
 1	De	O	O	-
@@ -12875,6 +12985,7 @@
 12	stund	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016353
 # text = Dermed etterlater vår slekt mer hemningsløse økologiske fingeravtrykk omkring oss enn noen før oss i historien.
 1	Dermed	O	O	-
@@ -13043,6 +13154,7 @@
 4	noe	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 016368
 # text = Også skriver jeg.
 1	Også	O	O	-
@@ -13093,6 +13205,7 @@
 1	Bevare	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016374
 # text = Og her ligger jo paradokset.
 1	Og	O	O	-
@@ -13258,6 +13371,7 @@
 1	Bevarer	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 016393
 # text = Hvordan gjør du det?
 1	Hvordan	O	O	-
@@ -13281,6 +13395,7 @@
 1	Minner	O	O	-
 2	?	O	O	-
 
+# newpar
 # sent_id = 016396
 # text = Enda en dag
 1	Enda	O	O	-
@@ -13384,6 +13499,7 @@
 3	stua	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 016409
 # text = På vei gjennom gangen plukker jeg opp en ullsokk.
 1	På	O	O	-
@@ -13816,6 +13932,7 @@
 8	oppå	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 016452
 # text = Det får holde, tenker jeg.
 1	Det	O	O	-
@@ -13927,6 +14044,7 @@
 2	fortsettelsen	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 016465
 # text = Misunnelig?
 1	Misunnelig	O	O	-
@@ -14064,6 +14182,7 @@
 2	jeg	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 016479
 # text = Bilder av stilsikre hjem stikker muligens litt dypere.
 1	Bilder	O	O	-
@@ -14093,7 +14212,7 @@
 6	har	O	O	-
 7	lyst	O	O	-
 8	på	O	O	-
-9	Omaggio-vaser	B-OTH	B-DRV	-
+9	Omaggio-vaser	-	B-DRV	-
 10	jeg	O	O	-
 11	også	O	O	-
 12	.	O	O	-
@@ -14217,6 +14336,7 @@
 2	oss	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 016492
 # text = Nei, jeg trodde ikke at jeg lot meg påvirke.
 1	Nei	O	O	-
@@ -14239,7 +14359,7 @@
 4	,	O	O	-
 5	da	O	O	-
 6	hele	O	O	-
-7	Instagram	B-OTH	B-PROD	-
+7	Instagram	O	B-PROD	-
 8	ble	O	O	-
 9	full	O	O	-
 10	av	O	O	-
@@ -14491,6 +14611,7 @@
 10	samvittighet	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 016514
 # text = I hvert fall ikke før vi kom hjem igjen.
 1	I	O	O	-
@@ -14511,7 +14632,7 @@
 3	mens	O	O	-
 4	resten	O	O	-
 5	av	O	O	-
-6	Instagramfolket	B-OTH	B-DRV	-
+6	Instagramfolket	-	B-DRV	-
 7	pakket	O	O	-
 8	skiboksene	O	O	-
 9	sine	O	O	-
@@ -14601,6 +14722,7 @@
 17	hjemme	O	O	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 016521
 # text = Jeg skrev selvsagt ingen ting om at barnet ikke engang ville smake på maten.
 1	Jeg	O	O	-
@@ -14619,6 +14741,7 @@
 14	maten	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 016522
 # text = For to år siden
 1	For	O	O	-
@@ -14818,6 +14941,7 @@
 8	meg	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 016541
 # text = Men nå var jeg altså på vei hjem.
 1	Men	O	O	-
@@ -14932,6 +15056,7 @@
 6	han	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 016550
 # text = Og det gjorde jeg.
 1	Og	O	O	-
@@ -15123,6 +15248,7 @@
 11	byen	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 016566
 # text = Elise tar nattbussen.
 1	Elise	B-PER	B-PER	-
@@ -15386,6 +15512,7 @@
 6	2,4	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 016585
 # text = I politirapporten står det ikke noe om hvordan Espen kom seg til 5. etasje.
 1	I	O	O	-
@@ -15791,6 +15918,7 @@
 7	hjernen	O	O	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 016612
 # text = En ny hjerneblødningoppdages på venstresiden neste dag.
 1	En	O	O	-
@@ -16091,6 +16219,7 @@
 8	Nordås	B-LOC	B-LOC	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 016632
 # text = Men kroppen er kraftig svekket etter hodeskadene, det gir tilbakeslag, og han blir rammet av alvorlige infeksjoner.
 1	Men	O	O	-
@@ -16268,6 +16397,7 @@
 7	nå	O	O	-
 8	?	O	O	-
 
+# newpar
 # sent_id = 016641
 # text = Det er februar 2012.
 1	Det	O	O	-
@@ -16344,9 +16474,9 @@
 # sent_id = 016647
 # text = - Jägermeister og Battery ødela livet mitt, sier Espen.
 1	-	O	O	-
-2	Jägermeister	B-OTH	B-PROD	-
+2	Jägermeister	O	B-PROD	-
 3	og	O	O	-
-4	Battery	B-OTH	B-PROD	-
+4	Battery	O	B-PROD	-
 5	ødela	O	O	-
 6	livet	O	O	-
 7	mitt	O	O	-
@@ -16582,7 +16712,7 @@
 2	veggen	O	O	-
 3	henger	O	O	-
 4	en	O	O	-
-5	United-plakat	B-OTH	B-DRV	-
+5	United-plakat	-	B-DRV	-
 6	,	O	O	-
 7	oppetter	O	O	-
 8	veggen	O	O	-
@@ -16643,10 +16773,10 @@
 1	Låten	O	O	-
 2	heter	O	O	-
 3	«	O	O	-
-4	The	B-OTH	B-PROD	-
-5	spirit	I-OTH	I-PROD	-
-6	carries	I-OTH	I-PROD	-
-7	on	I-OTH	I-PROD	-
+4	The	O	B-PROD	-
+5	spirit	O	I-PROD	-
+6	carries	O	I-PROD	-
+7	on	O	I-PROD	-
 8	»	O	O	-
 9	.	O	O	-
 
@@ -16704,6 +16834,7 @@
 10	virker	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 016672
 # text = - Se her, sier pappa Tore.
 1	-	O	O	-
@@ -16958,6 +17089,7 @@
 9	Espen	B-PER	B-PER	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 016690
 # text = Foreldrene tenker fortsatt på natten da ulykken skjedde.
 1	Foreldrene	O	O	-
@@ -17150,11 +17282,11 @@
 3	vet	O	O	-
 4	han	O	O	-
 5	drakk	O	O	-
-6	Jägermeister	B-OTH	B-PROD	-
+6	Jägermeister	O	B-PROD	-
 7	,	O	O	-
 8	blandet	O	O	-
 9	med	O	O	-
-10	Battery	B-OTH	B-PROD	-
+10	Battery	O	B-PROD	-
 11	,	O	O	-
 12	for	O	O	-
 13	å	O	O	-
@@ -17281,6 +17413,7 @@
 19	trafikken	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 016709
 # text = - Det jeg og Anne Grete hadde begynt å engste oss for, var kjøring.
 1	-	O	O	-
@@ -17438,8 +17571,8 @@
 2	huset	O	O	-
 3	står	O	O	-
 4	en	O	O	-
-5	Volvo	B-OTH	B-PROD	-
-6	V60	I-OTH	I-PROD	-
+5	Volvo	O	B-PROD	-
+6	V60	O	I-PROD	-
 7	,	O	O	-
 8	som	O	O	-
 9	assistentene	O	O	-
@@ -17780,6 +17913,7 @@
 12	Tore	B-PER	B-PER	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016746
 # text = Sønnen monterte persiennene på rommet sitt selv da han var ti år gammel.
 1	Sønnen	O	O	-
@@ -17950,8 +18084,8 @@
 1	Læreren	O	O	-
 2	spiller	O	O	-
 3	en	O	O	-
-4	Michael	B-OTH	B-DRV	-
-5	Kiwanuka-låt	I-OTH	I-DRV	-
+4	Michael	-	B-DRV	-
+5	Kiwanuka-låt	O	I-DRV	-
 6	og	O	O	-
 7	spør	O	O	-
 8	etterpå	O	O	-
@@ -18258,6 +18392,7 @@
 19	ham	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 016774
 # text = Venterommet på intensivavdelingen.
 1	Venterommet	O	O	-
@@ -18694,6 +18829,7 @@
 18	Helland	B-PER	B-PER	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 016805
 # text = Elise, Espens venninne, har ringt, hun som var den siste som var med Espen før ulykken.
 1	Elise	B-PER	B-PER	-
@@ -18935,7 +19071,7 @@
 8	drakk	O	O	-
 9	så	O	O	-
 10	mye	O	O	-
-11	Jägermeister	B-OTH	B-PROD	-
+11	Jägermeister	O	B-PROD	-
 12	den	O	O	-
 13	kvelden	O	O	-
 14	,	O	O	-
@@ -18996,9 +19132,9 @@
 
 # sent_id = 016825
 # text = Jägermeister og Battery er et helvete.
-1	Jägermeister	B-OTH	B-PROD	-
+1	Jägermeister	O	B-PROD	-
 2	og	O	O	-
-3	Battery	B-OTH	B-PROD	-
+3	Battery	O	B-PROD	-
 4	er	O	O	-
 5	et	O	O	-
 6	helvete	O	O	-
@@ -19012,7 +19148,7 @@
 4	fortelle	O	O	-
 5	leserne	O	O	-
 6	av	O	O	-
-7	BTMagasinet	B-OTH	B-PROD	-
+7	BTMagasinet	O	B-PROD	-
 8	.	O	O	-
 
 # sent_id = 016827
@@ -19135,6 +19271,7 @@
 3	om	O	O	-
 4	dømmekraft	O	O	-
 
+# newpar
 # sent_id = 016835
 # text = Er dommer Tor Bertelsen (57) i Bergen tingrett usikket til jobben og kvinnefiendtlig?
 1	Er	O	O	-
@@ -19187,6 +19324,7 @@
 13	sparken	O	O	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 016838
 # text = Se for deg at du skal møte i retten, for første gang.
 1	Se	O	O	-
@@ -19803,8 +19941,8 @@
 3	han	O	O	-
 4	opp	O	O	-
 5	i	O	O	-
-6	Bergens	B-OTH	B-PROD	-
-7	Tidende	I-OTH	I-PROD	-
+6	Bergens	O	B-PROD	-
+7	Tidende	O	I-PROD	-
 8	.	O	O	-
 
 # sent_id = 016874
@@ -21406,8 +21544,8 @@
 # sent_id = 016961
 # text = I The Observer sier landslagskeeper David James:
 1	I	O	O	-
-2	The	B-OTH	B-PROD	-
-3	Observer	I-OTH	I-PROD	-
+2	The	O	B-PROD	-
+3	Observer	O	I-PROD	-
 4	sier	O	O	-
 5	landslagskeeper	O	O	-
 6	David	B-PER	B-PER	-
@@ -21429,8 +21567,8 @@
 11	alle	O	O	-
 12	de	O	O	-
 13	homofile	O	O	-
-14	Premier	B-OTH	B-DRV	-
-15	League-spillerne	I-OTH	I-DRV	-
+14	Premier	-	B-DRV	-
+15	League-spillerne	O	I-DRV	-
 16	?	O	O	-
 
 # sent_id = 016963
@@ -21788,7 +21926,7 @@
 4	snart	O	O	-
 5	ut	O	O	-
 6	i	O	O	-
-7	London-natta	B-OTH	B-DRV	-
+7	London-natta	-	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 016984
@@ -21887,8 +22025,8 @@
 # sent_id = 016992
 # text = På You Tube kan vi se noen av hans fortryllende scoringer, den mot Liverpool hvor han klemmer ballen bort i lengste hjørnet.
 1	På	O	O	-
-2	You	B-OTH	B-PROD	-
-3	Tube	I-OTH	I-PROD	-
+2	You	O	B-PROD	-
+3	Tube	O	I-PROD	-
 4	kan	O	O	-
 5	vi	O	O	-
 6	se	O	O	-
@@ -21984,35 +22122,38 @@
 5	velge	O	O	-
 6	?	O	O	-
 
+# newpar
 # sent_id = 016997
 # text = «Rock Band 2» eller «Guitar Hero: World Tour»?
 1	«	O	O	-
-2	Rock	B-OTH	B-PROD	-
-3	Band	I-OTH	I-PROD	-
-4	2	I-OTH	I-PROD	-
+2	Rock	O	B-PROD	-
+3	Band	O	I-PROD	-
+4	2	O	I-PROD	-
 5	»	O	O	-
 6	eller	O	O	-
 7	«	O	O	-
-8	Guitar	B-OTH	B-PROD	-
-9	Hero	I-OTH	I-PROD	-
-10	:	I-OTH	I-PROD	-
-11	World	I-OTH	I-PROD	-
-12	Tour	I-OTH	I-PROD	-
+8	Guitar	O	B-PROD	-
+9	Hero	O	I-PROD	-
+10	:	O	I-PROD	-
+11	World	O	I-PROD	-
+12	Tour	O	I-PROD	-
 13	»	O	O	-
 14	?	O	O	-
 
+# newpar
 # sent_id = 016998
 # text = Oppfølger:
 1	Oppfølger	O	O	-
 2	:	O	O	-
 
+# newpar
 # sent_id = 016999
 # text = I «Rock Band 2» er det et godt utvalg av låter.
 1	I	O	O	-
 2	«	O	O	-
-3	Rock	B-OTH	B-PROD	-
-4	Band	I-OTH	I-PROD	-
-5	2	I-OTH	I-PROD	-
+3	Rock	O	B-PROD	-
+4	Band	O	I-PROD	-
+5	2	O	I-PROD	-
 6	»	O	O	-
 7	er	O	O	-
 8	det	O	O	-
@@ -22035,9 +22176,9 @@
 3	trommesettet	O	O	-
 4	til	O	O	-
 5	«	O	O	-
-6	Rock	B-OTH	B-PROD	-
-7	Band	I-OTH	I-PROD	-
-8	2	I-OTH	I-PROD	-
+6	Rock	O	B-PROD	-
+7	Band	O	I-PROD	-
+8	2	O	I-PROD	-
 9	»	O	O	-
 10	.	O	O	-
 
@@ -22053,11 +22194,11 @@
 3	trommesettet	O	O	-
 4	til	O	O	-
 5	«	O	O	-
-6	Guitar	B-OTH	B-PROD	-
-7	Hero	I-OTH	I-PROD	-
-8	:	I-OTH	I-PROD	-
-9	World	I-OTH	I-PROD	-
-10	Tour	I-OTH	I-PROD	-
+6	Guitar	O	B-PROD	-
+7	Hero	O	I-PROD	-
+8	:	O	I-PROD	-
+9	World	O	I-PROD	-
+10	Tour	O	I-PROD	-
 11	»	O	O	-
 12	.	O	O	-
 
@@ -22086,6 +22227,7 @@
 21	spillsammenheng	O	O	-
 22	.	O	O	-
 
+# newpar
 # sent_id = 017005
 # text = Tidligere i år kom «Rock Band» som det første spillet som i tillegg til de velkjente plastgitarene og mikrofonene innførte trommesett i stor skala til spilluniverset.
 1	Tidligere	O	O	-
@@ -22093,8 +22235,8 @@
 3	år	O	O	-
 4	kom	O	O	-
 5	«	O	O	-
-6	Rock	B-OTH	B-PROD	-
-7	Band	I-OTH	I-PROD	-
+6	Rock	O	B-PROD	-
+7	Band	O	I-PROD	-
 8	»	O	O	-
 9	som	O	O	-
 10	det	O	O	-
@@ -22132,17 +22274,17 @@
 10	ettersom	O	O	-
 11	både	O	O	-
 12	«	O	O	-
-13	Rock	B-OTH	B-PROD	-
-14	Band	I-OTH	I-PROD	-
-15	2	I-OTH	I-PROD	-
+13	Rock	O	B-PROD	-
+14	Band	O	I-PROD	-
+15	2	O	I-PROD	-
 16	»	O	O	-
 17	og	O	O	-
 18	«	O	O	-
-19	Guitar	B-OTH	B-PROD	-
-20	Hero	I-OTH	I-PROD	-
-21	:	I-OTH	I-PROD	-
-22	World	I-OTH	I-PROD	-
-23	Tour	I-OTH	I-PROD	-
+19	Guitar	O	B-PROD	-
+20	Hero	O	I-PROD	-
+21	:	O	I-PROD	-
+22	World	O	I-PROD	-
+23	Tour	O	I-PROD	-
 24	»	O	O	-
 25	er	O	O	-
 26	på	O	O	-
@@ -22212,17 +22354,17 @@
 8	på	O	O	-
 9	både	O	O	-
 10	«	O	O	-
-11	Guitar	B-OTH	B-PROD	-
-12	Hero	I-OTH	I-PROD	-
-13	:	I-OTH	I-PROD	-
-14	World	I-OTH	I-PROD	-
-15	Tour	I-OTH	I-PROD	-
+11	Guitar	O	B-PROD	-
+12	Hero	O	I-PROD	-
+13	:	O	I-PROD	-
+14	World	O	I-PROD	-
+15	Tour	O	I-PROD	-
 16	»	O	O	-
 17	og	O	O	-
 18	«	O	O	-
-19	Rock	B-OTH	B-PROD	-
-20	Band	I-OTH	I-PROD	-
-21	2	I-OTH	I-PROD	-
+19	Rock	O	B-PROD	-
+20	Band	O	I-PROD	-
+21	2	O	I-PROD	-
 22	»	O	O	-
 23	at	O	O	-
 24	huden	O	O	-
@@ -22275,8 +22417,8 @@
 10	plastgitar	O	O	-
 11	i	O	O	-
 12	«	O	O	-
-13	Guitar	B-OTH	B-PROD	-
-14	Hero	I-OTH	I-PROD	-
+13	Guitar	O	B-PROD	-
+14	Hero	O	I-PROD	-
 15	»	O	O	-
 16	og	O	O	-
 17	oppfølgerne	O	O	-
@@ -22299,17 +22441,17 @@
 2	for	O	O	-
 3	både	O	O	-
 4	«	O	O	-
-5	Rock	B-OTH	B-PROD	-
-6	Band	I-OTH	I-PROD	-
-7	2	I-OTH	I-PROD	-
+5	Rock	O	B-PROD	-
+6	Band	O	I-PROD	-
+7	2	O	I-PROD	-
 8	»	O	O	-
 9	og	O	O	-
 10	«	O	O	-
-11	Guitar	B-OTH	B-PROD	-
-12	Hero	I-OTH	I-PROD	-
-13	:	I-OTH	I-PROD	-
-14	World	I-OTH	I-PROD	-
-15	Tour	I-OTH	I-PROD	-
+11	Guitar	O	B-PROD	-
+12	Hero	O	I-PROD	-
+13	:	O	I-PROD	-
+14	World	O	I-PROD	-
+15	Tour	O	I-PROD	-
 16	»	O	O	-
 17	er	O	O	-
 18	at	O	O	-
@@ -22354,14 +22496,14 @@
 1	Med	O	O	-
 2	et	O	O	-
 3	utvidet	O	O	-
-4	«	B-OTH	B-DRV	-
-5	Gjærbägst	I-OTH	I-DRV	-
-6	and	I-OTH	I-DRV	-
-7	the	I-OTH	I-DRV	-
-8	Homöcidal	I-OTH	I-DRV	-
-9	Sirupsnipps	I-OTH	I-DRV	-
-10	»	I-OTH	I-DRV	-
-11	-konsept	I-OTH	I-DRV	-
+4	«	-	B-DRV	-
+5	Gjærbägst	O	I-DRV	-
+6	and	O	I-DRV	-
+7	the	O	I-DRV	-
+8	Homöcidal	O	I-DRV	-
+9	Sirupsnipps	O	I-DRV	-
+10	»	O	I-DRV	-
+11	-konsept	O	I-DRV	-
 12	og	O	O	-
 13	et	O	O	-
 14	trailerlass	O	O	-
@@ -22402,7 +22544,7 @@
 3	styrken	O	O	-
 4	til	O	O	-
 5	«	O	O	-
-6	GH:WT	B-OTH	B-PROD	-
+6	GH:WT	O	B-PROD	-
 7	»	O	O	-
 8	er	O	O	-
 9	at	O	O	-
@@ -22415,8 +22557,8 @@
 16	de	O	O	-
 17	tidligere	O	O	-
 18	«	O	O	-
-19	Guitar	B-OTH	B-PROD	-
-20	Hero	I-OTH	I-PROD	-
+19	Guitar	O	B-PROD	-
+20	Hero	O	I-PROD	-
 21	»	O	O	-
 22	spillene	O	O	-
 23	.	O	O	-
@@ -22474,8 +22616,8 @@
 5	det	O	O	-
 6	første	O	O	-
 7	«	O	O	-
-8	Rock	B-OTH	B-PROD	-
-9	Band	I-OTH	I-PROD	-
+8	Rock	O	B-PROD	-
+9	Band	O	I-PROD	-
 10	»	O	O	-
 11	,	O	O	-
 12	kan	O	O	-
@@ -22489,9 +22631,9 @@
 20	spillet	O	O	-
 21	med	O	O	-
 22	«	O	O	-
-23	Rock	B-OTH	B-PROD	-
-24	Band	I-OTH	I-PROD	-
-25	2	I-OTH	I-PROD	-
+23	Rock	O	B-PROD	-
+24	Band	O	I-PROD	-
+25	2	O	I-PROD	-
 26	»	O	O	-
 27	-	O	O	-
 28	og	O	O	-
@@ -22592,11 +22734,11 @@
 3	er	O	O	-
 4	det	O	O	-
 5	imidlertid	O	O	-
-6	«	B-OTH	B-DRV	-
-7	Guitar	I-OTH	I-DRV	-
-8	Hero	I-OTH	I-DRV	-
-9	»	I-OTH	I-DRV	-
-10	-trommene	I-OTH	I-DRV	-
+6	«	-	B-DRV	-
+7	Guitar	O	I-DRV	-
+8	Hero	O	I-DRV	-
+9	»	O	I-DRV	-
+10	-trommene	O	I-DRV	-
 11	som	O	O	-
 12	er	O	O	-
 13	den	O	O	-
@@ -22680,11 +22822,11 @@
 19	hadde	O	O	-
 20	nok	O	O	-
 21	«	O	O	-
-22	Guitar	B-OTH	B-PROD	-
-23	Hero	I-OTH	I-PROD	-
-24	:	I-OTH	I-PROD	-
-25	World	I-OTH	I-PROD	-
-26	Tour	I-OTH	I-PROD	-
+22	Guitar	O	B-PROD	-
+23	Hero	O	I-PROD	-
+24	:	O	I-PROD	-
+25	World	O	I-PROD	-
+26	Tour	O	I-PROD	-
 27	»	O	O	-
 28	gått	O	O	-
 29	av	O	O	-
@@ -22733,12 +22875,12 @@
 22	betydelig	O	O	-
 23	manko	O	O	-
 24	på	O	O	-
-25	«	B-OTH	B-DRV	-
-26	Singstar	I-OTH	I-DRV	-
-27	»	I-OTH	I-DRV	-
-28	-fantaster	I-OTH	I-DRV	-
+25	«	-	B-DRV	-
+26	Singstar	O	I-DRV	-
+27	»	O	I-DRV	-
+28	-fantaster	O	I-DRV	-
 29	og	O	O	-
-30	Primus-fans	B-OTH	B-DRV	-
+30	Primus-fans	-	B-DRV	-
 31	.	O	O	-
 
 # sent_id = 017028
@@ -22794,11 +22936,11 @@
 3	følger	O	O	-
 4	med	O	O	-
 5	«	O	O	-
-6	Guitar	B-OTH	B-PROD	-
-7	Hero	I-OTH	I-PROD	-
-8	:	I-OTH	I-PROD	-
-9	World	I-OTH	I-PROD	-
-10	Tour	I-OTH	I-PROD	-
+6	Guitar	O	B-PROD	-
+7	Hero	O	I-PROD	-
+8	:	O	I-PROD	-
+9	World	O	I-PROD	-
+10	Tour	O	I-PROD	-
 11	»	O	O	-
 12	er	O	O	-
 13	delvis	O	O	-
@@ -22834,11 +22976,11 @@
 1	I	O	O	-
 2	det	O	O	-
 3	første	O	O	-
-4	«	B-OTH	B-DRV	-
-5	Guitar	I-OTH	I-DRV	-
-6	Hero	I-OTH	I-DRV	-
-7	»	I-OTH	I-DRV	-
-8	-spillet	I-OTH	I-DRV	-
+4	«	-	B-DRV	-
+5	Guitar	O	I-DRV	-
+6	Hero	O	I-DRV	-
+7	»	O	I-DRV	-
+8	-spillet	O	I-DRV	-
 9	var	O	O	-
 10	låtene	O	O	-
 11	var	O	O	-
@@ -22865,7 +23007,7 @@
 4	har	O	O	-
 5	dette	O	O	-
 6	«	O	O	-
-7	GH:WT	B-OTH	B-PROD	-
+7	GH:WT	O	B-PROD	-
 8	»	O	O	-
 9	en	O	O	-
 10	vanskeligere	O	O	-
@@ -22905,10 +23047,10 @@
 2	Nelson	I-PER	I-PER	-
 3	med	O	O	-
 4	«	O	O	-
-5	On	B-OTH	B-PROD	-
-6	the	I-OTH	I-PROD	-
-7	road	I-OTH	I-PROD	-
-8	again	I-OTH	I-PROD	-
+5	On	O	B-PROD	-
+6	the	O	I-PROD	-
+7	road	O	I-PROD	-
+8	again	O	I-PROD	-
 9	»	O	O	-
 10	?	O	O	-
 
@@ -22942,11 +23084,11 @@
 20	helst	O	O	-
 21	i	O	O	-
 22	et	O	O	-
-23	«	B-OTH	B-DRV	-
-24	Guitar	I-OTH	I-DRV	-
-25	Hero	I-OTH	I-DRV	-
-26	»	I-OTH	I-DRV	-
-27	-spill	I-OTH	I-DRV	-
+23	«	-	B-DRV	-
+24	Guitar	O	I-DRV	-
+25	Hero	O	I-DRV	-
+26	»	O	I-DRV	-
+27	-spill	O	I-DRV	-
 28	å	O	O	-
 29	gjøre	O	O	-
 30	(	O	O	-
@@ -22977,11 +23119,11 @@
 5	et	O	O	-
 6	sted	O	O	-
 7	«	O	O	-
-8	Guitar	B-OTH	B-PROD	-
-9	Hero	I-OTH	I-PROD	-
-10	:	I-OTH	I-PROD	-
-11	World	I-OTH	I-PROD	-
-12	Tour	I-OTH	I-PROD	-
+8	Guitar	O	B-PROD	-
+9	Hero	O	I-PROD	-
+10	:	O	I-PROD	-
+11	World	O	I-PROD	-
+12	Tour	O	I-PROD	-
 13	»	O	O	-
 14	har	O	O	-
 15	mistet	O	O	-
@@ -23090,12 +23232,12 @@
 3	enda	O	O	-
 4	valgt	O	O	-
 5	«	O	O	-
-6	Blue	B-OTH	B-PROD	-
-7	Eyes	I-OTH	I-PROD	-
-8	Crying	I-OTH	I-PROD	-
-9	in	I-OTH	I-PROD	-
-10	the	I-OTH	I-PROD	-
-11	Rain	I-OTH	I-PROD	-
+6	Blue	O	B-PROD	-
+7	Eyes	O	I-PROD	-
+8	Crying	O	I-PROD	-
+9	in	O	I-PROD	-
+10	the	O	I-PROD	-
+11	Rain	O	I-PROD	-
 12	»	O	O	-
 13	...	O	O	-
 
@@ -23103,9 +23245,9 @@
 # text = I «Rock Band 2» Er imidlertid ståa en helt annen.
 1	I	O	O	-
 2	«	O	O	-
-3	Rock	B-OTH	B-PROD	-
-4	Band	I-OTH	I-PROD	-
-5	2	I-OTH	I-PROD	-
+3	Rock	O	B-PROD	-
+4	Band	O	I-PROD	-
+5	2	O	I-PROD	-
 6	»	O	O	-
 7	Er	O	O	-
 8	imidlertid	O	O	-
@@ -23180,7 +23322,7 @@
 7	hente	O	O	-
 8	i	O	O	-
 9	«	O	O	-
-10	GH:WT	B-OTH	B-PROD	-
+10	GH:WT	O	B-PROD	-
 11	»	O	O	-
 12	også	O	O	-
 13	,	O	O	-
@@ -23204,9 +23346,9 @@
 31	låtene	O	O	-
 32	i	O	O	-
 33	«	O	O	-
-34	Rock	B-OTH	B-PROD	-
-35	Band	I-OTH	I-PROD	-
-36	2	I-OTH	I-PROD	-
+34	Rock	O	B-PROD	-
+35	Band	O	I-PROD	-
+36	2	O	I-PROD	-
 37	»	O	O	-
 38	.	O	O	-
 
@@ -23219,9 +23361,9 @@
 5	sangene	O	O	-
 6	fra	O	O	-
 7	«	O	O	-
-8	Rock	B-OTH	B-PROD	-
-9	Band	I-OTH	I-PROD	-
-10	1	I-OTH	I-PROD	-
+8	Rock	O	B-PROD	-
+9	Band	O	I-PROD	-
+10	1	O	I-PROD	-
 11	»	O	O	-
 12	som	O	O	-
 13	kan	O	O	-
@@ -23253,7 +23395,7 @@
 39	attraktivt	O	O	-
 40	enn	O	O	-
 41	«	O	O	-
-42	GH:WT	B-OTH	B-PROD	-
+42	GH:WT	O	B-PROD	-
 43	»	O	O	-
 44	låtmessig	O	O	-
 45	.	O	O	-
@@ -23278,9 +23420,9 @@
 16	kun	O	O	-
 17	i	O	O	-
 18	«	O	O	-
-19	Rock	B-OTH	B-PROD	-
-20	Band	I-OTH	I-PROD	-
-21	2	I-OTH	I-PROD	-
+19	Rock	O	B-PROD	-
+20	Band	O	I-PROD	-
+21	2	O	I-PROD	-
 22	»	O	O	-
 23	at	O	O	-
 24	en	O	O	-
@@ -23327,7 +23469,7 @@
 3	dette	O	O	-
 4	i	O	O	-
 5	«	O	O	-
-6	GH:WT	B-OTH	B-PROD	-
+6	GH:WT	O	B-PROD	-
 7	»	O	O	-
 8	er	O	O	-
 9	som	O	O	-
@@ -23347,7 +23489,7 @@
 4	såret	O	O	-
 5	har	O	O	-
 6	«	O	O	-
-7	GH:WT	B-OTH	B-PROD	-
+7	GH:WT	O	B-PROD	-
 8	»	O	O	-
 9	en	O	O	-
 10	overraskende	O	O	-
@@ -23452,9 +23594,9 @@
 9	trommeskolen	O	O	-
 10	i	O	O	-
 11	«	O	O	-
-12	Rock	B-OTH	B-PROD	-
-13	Band	I-OTH	I-PROD	-
-14	2	I-OTH	I-PROD	-
+12	Rock	O	B-PROD	-
+13	Band	O	I-PROD	-
+14	2	O	I-PROD	-
 15	»	O	O	-
 16	,	O	O	-
 17	som	O	O	-
@@ -23481,11 +23623,11 @@
 5	tendensen	O	O	-
 6	av	O	O	-
 7	«	O	O	-
-8	Guitar	B-OTH	B-PROD	-
-9	Hero	I-OTH	I-PROD	-
-10	:	I-OTH	I-PROD	-
-11	World	I-OTH	I-PROD	-
-12	Tour	I-OTH	I-PROD	-
+8	Guitar	O	B-PROD	-
+9	Hero	O	I-PROD	-
+10	:	O	I-PROD	-
+11	World	O	I-PROD	-
+12	Tour	O	I-PROD	-
 13	»	O	O	-
 14	sliter	O	O	-
 15	litt	O	O	-
@@ -23539,13 +23681,13 @@
 33	til	O	O	-
 34	en	O	O	-
 35	«	O	O	-
-36	Absolute	B-OTH	B-PROD	-
-37	Music	I-OTH	I-PROD	-
+36	Absolute	O	B-PROD	-
+37	Music	O	I-PROD	-
 38	»	O	O	-
 39	enn	O	O	-
 40	«	O	O	-
-41	Guitar	B-OTH	B-PROD	-
-42	Hero	I-OTH	I-PROD	-
+41	Guitar	O	B-PROD	-
+42	Hero	O	I-PROD	-
 43	»	O	O	-
 44	.	O	O	-
 
@@ -23554,9 +23696,9 @@
 1	Her	O	O	-
 2	gjør	O	O	-
 3	«	O	O	-
-4	Rock	B-OTH	B-PROD	-
-5	Band	I-OTH	I-PROD	-
-6	2	I-OTH	I-PROD	-
+4	Rock	O	B-PROD	-
+5	Band	O	I-PROD	-
+6	2	O	I-PROD	-
 7	»	O	O	-
 8	en	O	O	-
 9	bedre	O	O	-
@@ -23664,23 +23806,23 @@
 7	å	O	O	-
 8	spille	O	O	-
 9	«	O	O	-
-10	Rock	B-OTH	B-PROD	-
-11	Band	I-OTH	I-PROD	-
-12	2	I-OTH	I-PROD	-
+10	Rock	O	B-PROD	-
+11	Band	O	I-PROD	-
+12	2	O	I-PROD	-
 13	»	O	O	-
 14	med	O	O	-
 15	trommesettet	O	O	-
 16	til	O	O	-
 17	«	O	O	-
-18	Guitar	B-OTH	B-PROD	-
-19	Hero	I-OTH	I-PROD	-
-20	:	I-OTH	I-PROD	-
-21	World	I-OTH	I-PROD	-
-22	Tour	I-OTH	I-PROD	-
+18	Guitar	O	B-PROD	-
+19	Hero	O	I-PROD	-
+20	:	O	I-PROD	-
+21	World	O	I-PROD	-
+22	Tour	O	I-PROD	-
 23	»	O	O	-
 24	på	O	O	-
-25	Xbox	B-OTH	B-PROD	-
-26	360	I-OTH	I-PROD	-
+25	Xbox	O	B-PROD	-
+26	360	O	I-PROD	-
 27	,	O	O	-
 28	noe	O	O	-
 29	som	O	O	-
@@ -23713,6 +23855,7 @@
 6	utforseieren	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 017063
 # text = Det var et aldri så lite eventyr da Aksel Lund Svindal kunne krone den lange og målbevisste veien tilbake fra skadene han pådro seg i Beaver Creek med seier i utforløypa «Birds of prey» fredag.
 1	Det	O	O	-
@@ -23754,6 +23897,7 @@
 37	fredag	O	O	-
 38	.	O	O	-
 
+# newpar
 # sent_id = 017064
 # text = Lørdag beviste Svindal at triumfen på langt nær var noe blaff, og gikk like gjerne hen og vant super-G-øvelsen dagen derpå i ren utklassingsstil.
 1	Lørdag	O	O	-
@@ -23816,7 +23960,7 @@
 2	vanligvis	O	O	-
 3	så	O	O	-
 4	sindige	O	O	-
-5	NERO-løperen	B-OTH	B-DRV	-
+5	NERO-løperen	-	B-DRV	-
 6	hadde	O	O	-
 7	problemer	O	O	-
 8	med	O	O	-
@@ -24298,7 +24442,7 @@
 4	å	O	O	-
 5	ligne	O	O	-
 6	på	O	O	-
-7	Lenzerheide	B-OTH	B-EVT	-
+7	Lenzerheide	O	B-EVT	-
 8	.	O	O	-
 
 # sent_id = 017091
@@ -24561,20 +24705,21 @@
 # sent_id = 017104
 # text = «Football Manager 2009» gjør alt riktig
 1	«	O	O	-
-2	Football	B-OTH	B-PROD	-
-3	Manager	I-OTH	I-PROD	-
-4	2009	I-OTH	I-PROD	-
+2	Football	O	B-PROD	-
+3	Manager	O	I-PROD	-
+4	2009	O	I-PROD	-
 5	»	O	O	-
 6	gjør	O	O	-
 7	alt	O	O	-
 8	riktig	O	O	-
 
+# newpar
 # sent_id = 017105
 # text = «Football Manager 2009» er tilbake med nok en fritidsknuser.
 1	«	O	O	-
-2	Football	B-OTH	B-PROD	-
-3	Manager	I-OTH	I-PROD	-
-4	2009	I-OTH	I-PROD	-
+2	Football	O	B-PROD	-
+3	Manager	O	I-PROD	-
+4	2009	O	I-PROD	-
 5	»	O	O	-
 6	er	O	O	-
 7	tilbake	O	O	-
@@ -24584,6 +24729,7 @@
 11	fritidsknuser	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 017106
 # text = Det femte spillet i serien med navnet «Football Manager» fortsetter der 2008-utgaven slapp, og gir oss enda mer.
 1	Det	O	O	-
@@ -24594,8 +24740,8 @@
 6	med	O	O	-
 7	navnet	O	O	-
 8	«	O	O	-
-9	Football	B-OTH	B-PROD	-
-10	Manager	I-OTH	I-PROD	-
+9	Football	O	B-PROD	-
+10	Manager	O	I-PROD	-
 11	»	O	O	-
 12	fortsetter	O	O	-
 13	der	O	O	-
@@ -24618,8 +24764,8 @@
 5	spilte	O	O	-
 6	jeg	O	O	-
 7	«	O	O	-
-8	FM	B-OTH	B-PROD	-
-9	2008	I-OTH	I-PROD	-
+8	FM	O	B-PROD	-
+9	2008	O	I-PROD	-
 10	»	O	O	-
 11	og	O	O	-
 12	fikk	O	O	-
@@ -24717,8 +24863,8 @@
 8	ny	O	O	-
 9	i	O	O	-
 10	«	O	O	-
-11	Football	B-OTH	B-PROD	-
-12	Manager	I-OTH	I-PROD	-
+11	Football	O	B-PROD	-
+12	Manager	O	I-PROD	-
 13	»	O	O	-
 14	sin	O	O	-
 15	verden	O	O	-
@@ -24762,13 +24908,13 @@
 23	navn	O	O	-
 24	fra	O	O	-
 25	«	O	O	-
-26	Championship	B-OTH	B-PROD	-
-27	Manager	I-OTH	I-PROD	-
+26	Championship	O	B-PROD	-
+27	Manager	O	I-PROD	-
 28	»	O	O	-
 29	til	O	O	-
 30	«	O	O	-
-31	Football	B-OTH	B-PROD	-
-32	Manager	I-OTH	I-PROD	-
+31	Football	O	B-PROD	-
+32	Manager	O	I-PROD	-
 33	»	O	O	-
 34	.	O	O	-
 
@@ -24782,8 +24928,8 @@
 6	ved	O	O	-
 7	navn	O	O	-
 8	«	O	O	-
-9	Championship	B-OTH	B-PROD	-
-10	Manager	I-OTH	I-PROD	-
+9	Championship	O	B-PROD	-
+10	Manager	O	I-PROD	-
 11	»	O	O	-
 12	,	O	O	-
 13	men	O	O	-
@@ -24815,12 +24961,12 @@
 9	utgave	O	O	-
 10	av	O	O	-
 11	«	O	O	-
-12	Football	B-OTH	B-PROD	-
-13	Manager	I-OTH	I-PROD	-
+12	Football	O	B-PROD	-
+13	Manager	O	I-PROD	-
 14	»	O	O	-
 15	(	O	O	-
 16	«	O	O	-
-17	FM	B-OTH	B-PROD	-
+17	FM	O	B-PROD	-
 18	»	O	O	-
 19	)	O	O	-
 20	,	O	O	-
@@ -24863,15 +25009,15 @@
 11	,	O	O	-
 12	både	O	O	-
 13	«	O	O	-
-14	Championship	B-OTH	B-PROD	-
-15	Manager	I-OTH	I-PROD	-
+14	Championship	O	B-PROD	-
+15	Manager	O	I-PROD	-
 16	»	O	O	-
 17	serien	O	O	-
 18	til	O	O	-
 19	Eidos	B-ORG	B-ORG	-
 20	og	O	O	-
-21	Fifa	B-OTH	B-PROD	-
-22	Manager	I-OTH	I-PROD	-
+21	Fifa	O	B-PROD	-
+22	Manager	O	I-PROD	-
 23	har	O	O	-
 24	hatt	O	O	-
 25	slike	O	O	-
@@ -24892,8 +25038,8 @@
 10	motor	O	O	-
 11	som	O	O	-
 12	«	O	O	-
-13	FM	B-OTH	B-PROD	-
-14	2009	I-OTH	I-PROD	-
+13	FM	O	B-PROD	-
+14	2009	O	I-PROD	-
 15	»	O	O	-
 16	,	O	O	-
 17	«	O	O	-
@@ -25138,8 +25284,8 @@
 9	sesongstart	O	O	-
 10	på	O	O	-
 11	«	O	O	-
-12	Football	B-OTH	B-PROD	-
-13	Manager	I-OTH	I-PROD	-
+12	Football	O	B-PROD	-
+13	Manager	O	I-PROD	-
 14	»	O	O	-
 15	før	O	O	-
 16	,	O	O	-
@@ -25303,8 +25449,8 @@
 4	artig	O	O	-
 5	nyhet	O	O	-
 6	på	O	O	-
-7	FM	B-OTH	B-PROD	-
-8	2009	I-OTH	I-PROD	-
+7	FM	O	B-PROD	-
+8	2009	O	I-PROD	-
 9	er	O	O	-
 10	altså	O	O	-
 11	disse	O	O	-
@@ -25483,8 +25629,8 @@
 10	å	O	O	-
 11	be	O	O	-
 12	en	O	O	-
-13	Daily	B-OTH	B-DRV	-
-14	Mirror-journalist	I-OTH	I-DRV	-
+13	Daily	-	B-DRV	-
+14	Mirror-journalist	O	I-DRV	-
 15	«	O	O	-
 16	dra	O	O	-
 17	til	O	O	-
@@ -25510,10 +25656,10 @@
 1	Som	O	O	-
 2	i	O	O	-
 3	tidligere	O	O	-
-4	«	B-OTH	B-DRV	-
-5	FM	I-OTH	I-DRV	-
-6	»	I-OTH	I-DRV	-
-7	-spill	I-OTH	I-DRV	-
+4	«	-	B-DRV	-
+5	FM	O	I-DRV	-
+6	»	O	I-DRV	-
+7	-spill	O	I-DRV	-
 8	er	O	O	-
 9	det	O	O	-
 10	stor	O	O	-
@@ -25582,8 +25728,8 @@
 5	tid	O	O	-
 6	å	O	O	-
 7	overbevise	O	O	-
-8	Premier	B-OTH	B-DRV	-
-9	League-spillere	I-OTH	I-DRV	-
+8	Premier	-	B-DRV	-
+9	League-spillere	O	I-DRV	-
 10	med	O	O	-
 11	primadonnanykker	O	O	-
 12	.	O	O	-
@@ -25859,8 +26005,8 @@
 1	Kampbildet	O	O	-
 2	til	O	O	-
 3	«	O	O	-
-4	FM	B-OTH	B-PROD	-
-5	2009	I-OTH	I-PROD	-
+4	FM	O	B-PROD	-
+5	2009	O	I-PROD	-
 6	»	O	O	-
 7	er	O	O	-
 8	utrolig	O	O	-
@@ -25902,8 +26048,8 @@
 15	status	O	O	-
 16	på	O	O	-
 17	«	O	O	-
-18	Board	B-OTH	B-PROD	-
-19	Confidence	I-OTH	I-PROD	-
+18	Board	O	B-PROD	-
+19	Confidence	O	I-PROD	-
 20	»	O	O	-
 21	,	O	O	-
 22	går	O	O	-
@@ -25935,8 +26081,8 @@
 # sent_id = 017163
 # text = «Football Manager» er og blir en jobb, aldri før har det vært mer å gjøre i en klubb som nå.
 1	«	O	O	-
-2	Football	B-OTH	B-PROD	-
-3	Manager	I-OTH	I-PROD	-
+2	Football	O	B-PROD	-
+3	Manager	O	I-PROD	-
 4	»	O	O	-
 5	er	O	O	-
 6	og	O	O	-
@@ -26010,8 +26156,8 @@
 9	en	O	O	-
 10	gang	O	O	-
 11	et	O	O	-
-12	Premier	B-OTH	B-DRV	-
-13	League-lag	I-OTH	I-DRV	-
+12	Premier	-	B-DRV	-
+13	League-lag	O	I-DRV	-
 14	med	O	O	-
 15	minst	O	O	-
 16	budsjett	O	O	-
@@ -26086,7 +26232,7 @@
 25	aktivert	O	O	-
 26	spillet	O	O	-
 27	via	O	O	-
-28	Steam	B-OTH	B-PROD	-
+28	Steam	O	B-PROD	-
 29	,	O	O	-
 30	da	O	O	-
 31	skal	O	O	-
@@ -26116,6 +26262,7 @@
 8	år	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 017173
 # text = Forbruket av frukt og grønt har økt med over 20 prosent i løpet av de siste ti årene.
 1	Forbruket	O	O	-
@@ -26138,6 +26285,7 @@
 18	årene	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017174
 # text = Men den norske produksjonen faller.
 1	Men	O	O	-
@@ -26266,6 +26414,7 @@
 7	ønske	O	O	-
 8	likevel	O	O	-
 
+# newpar
 # sent_id = 017180
 # text = Forsikringsselskapet lar henne dra til Disneyland.
 1	Forsikringsselskapet	O	O	-
@@ -26276,6 +26425,7 @@
 6	Disneyland	B-LOC	B-LOC	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 017181
 # text = Får dø hjemme:
 1	Får	O	O	-
@@ -26283,6 +26433,7 @@
 3	hjemme	O	O	-
 4	:	O	O	-
 
+# newpar
 # sent_id = 017182
 # text = Kreftsyke Hannah Jones (13) overbeviste britiske helsemyndigheter om å få slippe en hjertetransplantasjon.
 1	Kreftsyke	O	O	-
@@ -26415,6 +26566,7 @@
 13	hjerte	O	O	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 017191
 # text = Hun orker ikke en ny operasjon, og vil heller dø hjemme.
 1	Hun	O	O	-
@@ -26813,14 +26965,14 @@
 
 # sent_id = 017212
 # text = Frp-ordfører fikk nytt hjerte
-1	Frp-ordfører	B-OTH	B-DRV	-
+1	Frp-ordfører	-	B-DRV	-
 2	fikk	O	O	-
 3	nytt	O	O	-
 4	hjerte	O	O	-
 
 # sent_id = 017213
 # text = Tønsberg-ordfører Per Arne Olsen (Frp) har gjennomgått en vellykket hjertetransplantasjon ved Rikshospitalet.
-1	Tønsberg-ordfører	B-OTH	B-DRV	-
+1	Tønsberg-ordfører	-	B-DRV	-
 2	Per	B-PER	B-PER	-
 3	Arne	I-PER	I-PER	-
 4	Olsen	I-PER	I-PER	-
@@ -26836,6 +26988,7 @@
 14	Rikshospitalet	B-LOC	B-LOC	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 017214
 # text = - Selve operasjonen har vært vellykket, sier ordførerens bror Pål W. Olsen til Tønsbergs Blads nettutgave.
 1	-	O	O	-
@@ -26857,6 +27010,7 @@
 17	nettutgave	O	O	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 017215
 # text = Han lever også med et transplantert hjerte.
 1	Han	O	O	-
@@ -26948,6 +27102,7 @@
 9	enn	O	O	-
 10	aksjer	O	O	-
 
+# newpar
 # sent_id = 017220
 # text = Signy Fardal håper ranere stjeler innholdet og ikke selve veska.
 1	Signy	B-PER	B-PER	-
@@ -26962,12 +27117,13 @@
 10	veska	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 017221
 # text = Møt motedronninga i Portrettet.
 1	Møt	O	O	-
 2	motedronninga	O	O	-
 3	i	O	O	-
-4	Portrettet	B-OTH	B-PROD	-
+4	Portrettet	O	B-PROD	-
 5	.	O	O	-
 
 # sent_id = 017222
@@ -26977,6 +27133,7 @@
 3	år	O	O	-
 4	:	O	O	-
 
+# newpar
 # sent_id = 017223
 # text = - Det er jo en klisjé, men jeg hadde en veldig lykkelig oppvekst.
 1	-	O	O	-
@@ -27057,9 +27214,9 @@
 4	ut	O	O	-
 5	av	O	O	-
 6	«	O	O	-
-7	Skal	B-OTH	B-PROD	-
-8	vi	I-OTH	I-PROD	-
-9	danse	I-OTH	I-PROD	-
+7	Skal	O	B-PROD	-
+8	vi	O	I-PROD	-
+9	danse	O	I-PROD	-
 10	»	O	O	-
 11	i	O	O	-
 12	2006	O	O	-
@@ -27088,6 +27245,7 @@
 1	Voilà	O	O	-
 2	!	O	O	-
 
+# newpar
 # sent_id = 017233
 # text = Med en liflig eim av parfyme og et steinras av et smykke på brystet åpner Signy Fardal døra til leiligheten på Frogner.
 1	Med	O	O	-
@@ -27237,8 +27395,8 @@
 2	den	O	O	-
 3	heter	O	O	-
 4	«	O	O	-
-5	Fashion	B-OTH	B-PROD	-
-6	Bible	I-OTH	I-PROD	-
+5	Fashion	O	B-PROD	-
+6	Bible	O	I-PROD	-
 7	»	O	O	-
 8	,	O	O	-
 9	den	O	O	-
@@ -27418,8 +27576,8 @@
 # sent_id = 017255
 # text = «Fashion Bible» tar for seg hvordan moten har utviklet seg de siste hundre åra, de viktigste motehusene og designerne, og den gir praktiske tips.
 1	«	O	O	-
-2	Fashion	B-OTH	B-PROD	-
-3	Bible	I-OTH	I-PROD	-
+2	Fashion	O	B-PROD	-
+3	Bible	O	I-PROD	-
 4	»	O	O	-
 5	tar	O	O	-
 6	for	O	O	-
@@ -27666,7 +27824,7 @@
 16	barndommens	O	O	-
 17	Sogndal	B-LOC	B-GPE_LOC	-
 18	og	O	O	-
-19	Elle	B-OTH	B-PROD	-
+19	Elle	O	B-PROD	-
 20	mistet	O	O	-
 21	Fardal	B-PER	B-PER	-
 22	dialekten	O	O	-
@@ -27854,7 +28012,7 @@
 1	Jeg	O	O	-
 2	elsker	O	O	-
 3	min	O	O	-
-4	Chanelveske	B-OTH	B-DRV	-
+4	Chanelveske	-	B-DRV	-
 5	.	O	O	-
 
 # sent_id = 017282
@@ -28464,10 +28622,10 @@
 2	å	O	O	-
 3	ha	O	O	-
 4	lest	O	O	-
-5	Aftenposten	B-OTH	B-PROD	-
+5	Aftenposten	O	B-PROD	-
 6	og	O	O	-
-7	Dagens	B-OTH	B-PROD	-
-8	Næringsliv	I-OTH	I-PROD	-
+7	Dagens	O	B-PROD	-
+8	Næringsliv	O	I-PROD	-
 9	,	O	O	-
 10	sett	O	O	-
 11	nyhetene	O	O	-
@@ -28986,10 +29144,10 @@
 4	julegavetipsene	O	O	-
 5	i	O	O	-
 6	nyeste	O	O	-
-7	Elle	B-OTH	B-PROD	-
+7	Elle	O	B-PROD	-
 8	er	O	O	-
 9	en	O	O	-
-10	Birkin-bag	B-OTH	B-DRV	-
+10	Birkin-bag	-	B-DRV	-
 11	til	O	O	-
 12	33	O	O	-
 13	200	O	O	-
@@ -29023,7 +29181,7 @@
 9	så	O	O	-
 10	er	O	O	-
 11	en	O	O	-
-12	Birkin-bag	B-OTH	B-DRV	-
+12	Birkin-bag	-	B-DRV	-
 13	en	O	O	-
 14	av	O	O	-
 15	de	O	O	-
@@ -30050,7 +30208,7 @@
 4	tilfeldig	O	O	-
 5	at	O	O	-
 6	tidligere	O	O	-
-7	NDL-leder	B-OTH	B-DRV	-
+7	NDL-leder	-	B-DRV	-
 8	og	O	O	-
 9	listetopp	O	O	-
 10	for	O	O	-
@@ -30142,8 +30300,8 @@
 1	Hitlers	B-PER	B-PER	-
 2	kamp	O	O	-
 3	i	O	O	-
-4	Min	B-OTH	B-PROD	-
-5	kamp	I-OTH	I-PROD	-
+4	Min	O	B-PROD	-
+5	kamp	O	I-PROD	-
 
 # sent_id = 017423
 # text = Det sjette bindet av Karl Ove Knausgårds «Min kamp» inneholder en fordypning i Hitlers tekst «Mein Kampf».
@@ -30155,8 +30313,8 @@
 6	Ove	I-PER	I-PER	-
 7	Knausgårds	I-PER	I-PER	-
 8	«	O	O	-
-9	Min	B-OTH	B-PROD	-
-10	kamp	I-OTH	I-PROD	-
+9	Min	O	B-PROD	-
+10	kamp	O	I-PROD	-
 11	»	O	O	-
 12	inneholder	O	O	-
 13	en	O	O	-
@@ -30165,11 +30323,12 @@
 16	Hitlers	B-PER	B-PER	-
 17	tekst	O	O	-
 18	«	O	O	-
-19	Mein	B-OTH	B-PROD	-
-20	Kampf	I-OTH	I-PROD	-
+19	Mein	O	B-PROD	-
+20	Kampf	O	I-PROD	-
 21	»	O	O	-
 22	.	O	O	-
 
+# newpar
 # sent_id = 017424
 # text = Det kan bidra til å øke bevisstheten rundt lingvistisk vold, mener dansk litteraturkritiker.
 1	Det	O	O	-
@@ -30195,6 +30354,7 @@
 3	Knausgård	B-PER	B-PER	-
 4	:	O	O	-
 
+# newpar
 # sent_id = 017426
 # text = Karl Ove Knausgård gjør en omfattende lesning av Adolf Hitlers «Mein Kampf» i sjette bind av Min kamp.
 1	Karl	B-PER	B-PER	-
@@ -30208,15 +30368,15 @@
 9	Adolf	B-PER	B-PER	-
 10	Hitlers	I-PER	I-PER	-
 11	«	O	O	-
-12	Mein	B-OTH	B-PROD	-
-13	Kampf	I-OTH	I-PROD	-
+12	Mein	O	B-PROD	-
+13	Kampf	O	I-PROD	-
 14	»	O	O	-
 15	i	O	O	-
 16	sjette	O	O	-
 17	bind	O	O	-
 18	av	O	O	-
-19	Min	B-OTH	B-PROD	-
-20	kamp	I-OTH	I-PROD	-
+19	Min	O	B-PROD	-
+20	kamp	O	I-PROD	-
 21	.	O	O	-
 
 # sent_id = 017427
@@ -30234,8 +30394,8 @@
 11	og	O	O	-
 12	lese	O	O	-
 13	«	O	O	-
-14	Mein	B-OTH	B-PROD	-
-15	Kampf	I-OTH	I-PROD	-
+14	Mein	O	B-PROD	-
+15	Kampf	O	I-PROD	-
 16	»	O	O	-
 17	nå	O	O	-
 18	,	O	O	-
@@ -30263,11 +30423,12 @@
 40	i	O	O	-
 41	Hitlers	B-PER	B-PER	-
 42	«	O	O	-
-43	Mein	B-OTH	B-PROD	-
-44	Kampf	I-OTH	I-PROD	-
+43	Mein	O	B-PROD	-
+44	Kampf	O	I-PROD	-
 45	»	O	O	-
 46	.	O	O	-
 
+# newpar
 # sent_id = 017428
 # text = I den kommende sjette og avsluttende delen av romanverket «Min Kamp», som etter mange forsinkelser endelig skal utkomme i november, er det nemlig varslet at et essay på 400 sider om «Mein Kampf» vil være å lese i boka.
 1	I	O	O	-
@@ -30280,8 +30441,8 @@
 8	av	O	O	-
 9	romanverket	O	O	-
 10	«	O	O	-
-11	Min	B-OTH	B-PROD	-
-12	Kamp	I-OTH	I-PROD	-
+11	Min	O	B-PROD	-
+12	Kamp	O	I-PROD	-
 13	»	O	O	-
 14	,	O	O	-
 15	som	O	O	-
@@ -30306,8 +30467,8 @@
 34	sider	O	O	-
 35	om	O	O	-
 36	«	O	O	-
-37	Mein	B-OTH	B-PROD	-
-38	Kampf	I-OTH	I-PROD	-
+37	Mein	O	B-PROD	-
+38	Kampf	O	I-PROD	-
 39	»	O	O	-
 40	vil	O	O	-
 41	være	O	O	-
@@ -30376,8 +30537,8 @@
 12	og	O	O	-
 13	lest	O	O	-
 14	«	O	O	-
-15	Mein	B-OTH	B-PROD	-
-16	Kampf	I-OTH	I-PROD	-
+15	Mein	O	B-PROD	-
+16	Kampf	O	I-PROD	-
 17	»	O	O	-
 18	som	O	O	-
 19	utkom	O	O	-
@@ -30419,8 +30580,8 @@
 25	utgaver	O	O	-
 26	av	O	O	-
 27	«	O	O	-
-28	Mein	B-OTH	B-PROD	-
-29	Kampf	I-OTH	I-PROD	-
+28	Mein	O	B-PROD	-
+29	Kampf	O	I-PROD	-
 30	»	O	O	-
 31	i	O	O	-
 32	omløp	O	O	-
@@ -30466,8 +30627,8 @@
 14	ikke	O	O	-
 15	minst	O	O	-
 16	etter	O	O	-
-17	22.	B-OTH	B-EVT	-
-18	juli	I-OTH	I-EVT	-
+17	22.	O	B-EVT	-
+18	juli	O	I-EVT	-
 19	.	O	O	-
 
 # sent_id = 017435
@@ -30548,7 +30709,7 @@
 15	til	O	O	-
 16	hverandre	O	O	-
 17	på	O	O	-
-18	Facebook	B-OTH	B-PROD	-
+18	Facebook	O	B-PROD	-
 19	.	O	O	-
 
 # sent_id = 017439
@@ -30592,8 +30753,8 @@
 4	skulle	O	O	-
 5	beskrive	O	O	-
 6	«	O	O	-
-7	Mein	B-OTH	B-PROD	-
-8	Kampf	I-OTH	I-PROD	-
+7	Mein	O	B-PROD	-
+8	Kampf	O	I-PROD	-
 9	»	O	O	-
 10	i	O	O	-
 11	en	O	O	-
@@ -30661,9 +30822,9 @@
 16	svenske	O	O	-
 17	radioprogrammet	O	O	-
 18	«	O	O	-
-19	Sommar	B-OTH	B-PROD	-
-20	i	I-OTH	I-PROD	-
-21	P1	I-OTH	I-PROD	-
+19	Sommar	O	B-PROD	-
+20	i	O	I-PROD	-
+21	P1	O	I-PROD	-
 22	»	O	O	-
 23	14.	O	O	-
 24	august	O	O	-
@@ -30702,8 +30863,8 @@
 29	lese	O	O	-
 30	Hitlers	B-PER	B-PER	-
 31	«	O	O	-
-32	Mein	B-OTH	B-PROD	-
-33	Kampf	I-OTH	I-PROD	-
+32	Mein	O	B-PROD	-
+33	Kampf	O	I-PROD	-
 34	»	O	O	-
 35	.	O	O	-
 
@@ -30721,7 +30882,7 @@
 10	publiserte	O	O	-
 11	manifest	O	O	-
 12	«	O	O	-
-13	2083	B-OTH	B-PROD	-
+13	2083	O	B-PROD	-
 14	»	O	O	-
 15	og	O	O	-
 16	Hitlers	B-PER	B-PER	-
@@ -30788,8 +30949,8 @@
 33	i	O	O	-
 34	antologien	O	O	-
 35	«	O	O	-
-36	Respons	B-OTH	B-PROD	-
-37	22/7	I-OTH	I-PROD	-
+36	Respons	O	B-PROD	-
+37	22/7	O	I-PROD	-
 38	»	O	O	-
 39	,	O	O	-
 40	som	O	O	-
@@ -30815,8 +30976,8 @@
 8	og	O	O	-
 9	Hitlers	B-PER	B-PER	-
 10	«	O	O	-
-11	Mein	B-OTH	B-PROD	-
-12	Kampf	I-OTH	I-PROD	-
+11	Mein	O	B-PROD	-
+12	Kampf	O	I-PROD	-
 13	»	O	O	-
 14	er	O	O	-
 15	dristig	O	O	-
@@ -30835,8 +30996,8 @@
 9	vil	O	O	-
 10	lese	O	O	-
 11	«	O	O	-
-12	Mein	B-OTH	B-PROD	-
-13	Kampf	I-OTH	I-PROD	-
+12	Mein	O	B-PROD	-
+13	Kampf	O	I-PROD	-
 14	»	O	O	-
 15	i	O	O	-
 16	bok	O	O	-
@@ -30884,7 +31045,7 @@
 13	til	O	O	-
 14	den	O	O	-
 15	konkrete	O	O	-
-16	Hitler-teksten	B-OTH	B-DRV	-
+16	Hitler-teksten	-	B-DRV	-
 17	,	O	O	-
 18	som	O	O	-
 19	alle	O	O	-
@@ -30933,11 +31094,11 @@
 2	En	O	O	-
 3	del	O	O	-
 4	av	O	O	-
-5	«	B-OTH	B-DRV	-
-6	min	I-OTH	I-DRV	-
-7	kamp	I-OTH	I-DRV	-
-8	»	I-OTH	I-DRV	-
-9	-bøkenes	I-OTH	I-DRV	-
+5	«	-	B-DRV	-
+6	min	O	I-DRV	-
+7	kamp	O	I-DRV	-
+8	»	O	I-DRV	-
+9	-bøkenes	O	I-DRV	-
 10	provokasjonsverdi	O	O	-
 11	ligger	O	O	-
 12	i	O	O	-
@@ -31017,9 +31178,9 @@
 20	ta	O	O	-
 21	særlig	O	O	-
 22	«	O	O	-
-23	Min	B-OTH	B-PROD	-
-24	kamp	I-OTH	I-PROD	-
-25	2	I-OTH	I-PROD	-
+23	Min	O	B-PROD	-
+24	kamp	O	I-PROD	-
+25	2	O	I-PROD	-
 26	»	O	O	-
 27	til	O	O	-
 28	inntekt	O	O	-
@@ -31128,8 +31289,8 @@
 11	dagen	O	O	-
 12	i	O	O	-
 13	«	O	O	-
-14	Min	B-OTH	B-PROD	-
-15	kamp	I-OTH	I-PROD	-
+14	Min	O	B-PROD	-
+15	kamp	O	I-PROD	-
 16	»	O	O	-
 17	kan	O	O	-
 18	diskuteres	O	O	-
@@ -31200,8 +31361,8 @@
 5	forklare	O	O	-
 6	tittelen	O	O	-
 7	«	O	O	-
-8	Min	B-OTH	B-PROD	-
-9	kamp	I-OTH	I-PROD	-
+8	Min	O	B-PROD	-
+9	kamp	O	I-PROD	-
 10	?	O	O	-
 
 # sent_id = 017463
@@ -31314,8 +31475,8 @@
 
 # sent_id = 017467
 # text = 22. juli og Knausgård
-1	22.	B-OTH	B-EVT	-
-2	juli	I-OTH	I-EVT	-
+1	22.	O	B-EVT	-
+2	juli	O	I-EVT	-
 3	og	O	O	-
 4	Knausgård	B-PER	B-PER	-
 
@@ -31334,9 +31495,9 @@
 11	innholdet	O	O	-
 12	i	O	O	-
 13	«	O	O	-
-14	Min	B-OTH	B-PROD	-
-15	kamp	I-OTH	I-PROD	-
-16	6	I-OTH	I-PROD	-
+14	Min	O	B-PROD	-
+15	kamp	O	I-PROD	-
+16	6	O	I-PROD	-
 17	»	O	O	-
 18	.	O	O	-
 
@@ -31355,8 +31516,8 @@
 11	Hitlers	B-PER	B-PER	-
 12	tekst	O	O	-
 13	«	O	O	-
-14	Mein	B-OTH	B-PROD	-
-15	Kampf	I-OTH	I-PROD	-
+14	Mein	O	B-PROD	-
+15	Kampf	O	I-PROD	-
 16	»	O	O	-
 17	i	O	O	-
 18	siste	O	O	-
@@ -31414,8 +31575,8 @@
 1	-	O	O	-
 2	Er	O	O	-
 3	hendelsene	O	O	-
-4	22.	B-OTH	B-EVT	-
-5	juli	I-OTH	I-EVT	-
+4	22.	O	B-EVT	-
+5	juli	O	I-EVT	-
 6	skrevet	O	O	-
 7	inn	O	O	-
 8	i	O	O	-
@@ -31471,7 +31632,7 @@
 7	tenkt	O	O	-
 8	,	O	O	-
 9	sier	O	O	-
-10	Oktober-sjefen	B-OTH	B-DRV	-
+10	Oktober-sjefen	-	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 017478
@@ -31486,6 +31647,7 @@
 1	Protesterer	O	O	-
 2	:	O	O	-
 
+# newpar
 # sent_id = 017480
 # text = Hundretusenvis i gatene.
 1	Hundretusenvis	O	O	-
@@ -31517,6 +31679,7 @@
 3	lufta	O	O	-
 4	:	O	O	-
 
+# newpar
 # sent_id = 017484
 # text = Hundretusenvis av chilener demonstrerer mot privatiseringspolitikken til landets regjering.
 1	Hundretusenvis	O	O	-
@@ -31563,6 +31726,7 @@
 15	fortsette	O	O	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 017488
 # text = Det sa Camila Vallejo til Reuters torsdag.
 1	Det	O	O	-
@@ -32153,6 +32317,7 @@
 1	Strid	O	O	-
 2	:	O	O	-
 
+# newpar
 # sent_id = 017519
 # text = Raymond Johansen mener Frp snart må ta ansvar for sin egen eldrepolitikk, og beskylder høyrestyrte Oslo for å være en bremsekloss i arbeidet for full sykehjemsdekning.
 1	Raymond	B-PER	B-PER	-
@@ -32190,6 +32355,7 @@
 2	ansvarsfraskrivelse	O	O	-
 3	:	O	O	-
 
+# newpar
 # sent_id = 017521
 # text = Aps partisekretær er lei av at Frp skylder på alle andre i eldreomsorgen, og mener partiet snart må ta ansvar for sin egen politikk.
 1	Aps	B-ORG	B-ORG	-
@@ -32238,10 +32404,11 @@
 15	fiskerisonen	O	O	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 017523
 # text = Jan Mayen-lovens regler gjelder for øyas land- og sjøterritorium.
-1	Jan	B-OTH	B-PROD	-
-2	Mayen-lovens	I-OTH	I-PROD	-
+1	Jan	O	B-PROD	-
+2	Mayen-lovens	O	I-PROD	-
 3	regler	O	O	-
 4	gjelder	O	O	-
 5	for	O	O	-
@@ -32260,8 +32427,8 @@
 5	kan	O	O	-
 6	derfor	O	O	-
 7	både	O	O	-
-8	Jan	B-OTH	B-PROD	-
-9	Mayen-loven	I-OTH	I-PROD	-
+8	Jan	O	B-PROD	-
+9	Mayen-loven	O	I-PROD	-
 10	og	O	O	-
 11	lov	O	O	-
 12	om	O	O	-
@@ -32520,8 +32687,8 @@
 2	alminnelige	O	O	-
 3	forskriftshjemmelen	O	O	-
 4	er	O	O	-
-5	Jan	B-OTH	B-PROD	-
-6	Mayen-loven	I-OTH	I-PROD	-
+5	Jan	O	B-PROD	-
+6	Mayen-loven	O	I-PROD	-
 7	§	O	O	-
 8	2	O	O	-
 9	annet	O	O	-
@@ -32532,7 +32699,7 @@
 14	samme	O	O	-
 15	innhold	O	O	-
 16	som	O	O	-
-17	Svalbardloven	B-OTH	B-PROD	-
+17	Svalbardloven	O	B-PROD	-
 18	§	O	O	-
 19	4	O	O	-
 20	.	O	O	-
@@ -32607,8 +32774,8 @@
 14	som	O	O	-
 15	følge	O	O	-
 16	av	O	O	-
-17	Jan	B-OTH	B-PROD	-
-18	Mayen-loven	I-OTH	I-PROD	-
+17	Jan	O	B-PROD	-
+18	Mayen-loven	O	I-PROD	-
 19	§	O	O	-
 20	2	O	O	-
 21	første	O	O	-
@@ -34127,7 +34294,7 @@
 # sent_id = 017596
 # text = 5 Saltvannsfiskeloven (lov 3 juni 1983 nr 40 om saltvannsfiske m.v.) gjelder i fiskerisonen ved Jan Mayen (jf lovens § 1 første ledd bokstav a).
 1	5	O	O	-
-2	Saltvannsfiskeloven	B-OTH	B-PROD	-
+2	Saltvannsfiskeloven	O	B-PROD	-
 3	(	O	O	-
 4	lov	O	O	-
 5	3	O	O	-
@@ -34263,7 +34430,7 @@
 
 # sent_id = 017600
 # text = Saltvannsfiskeloven tar primært sikte på saltvannsfisk (unntatt anadrome laksefisk).
-1	Saltvannsfiskeloven	B-OTH	B-PROD	-
+1	Saltvannsfiskeloven	O	B-PROD	-
 2	tar	O	O	-
 3	primært	O	O	-
 4	sikte	O	O	-
@@ -34592,7 +34759,7 @@
 24	side	O	O	-
 25	715	O	O	-
 26	(	O	O	-
-27	Botten-saken	B-OTH	B-EVT	-
+27	Botten-saken	O	B-EVT	-
 28	)	O	O	-
 29	)	O	O	-
 30	.	O	O	-
@@ -34717,7 +34884,7 @@
 19	seg	O	O	-
 20	annerledes	O	O	-
 21	etter	O	O	-
-22	Svalbardtraktaten	B-OTH	B-PROD	-
+22	Svalbardtraktaten	O	B-PROD	-
 23	.	O	O	-
 
 # sent_id = 017619
@@ -34858,11 +35025,13 @@
 31	Ålesund	B-LOC	B-GPE_LOC	-
 32	.	O	O	-
 
+# newpar
 # sent_id = 017624
 # text = Rettssak.
 1	Rettssak	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 017625
 # text = Både den tiltalte, en mann fra Serbia, og den fornærma, ei kvinne fra Storbritannia, er ansatt om bord på cruiseskipet.
 1	Både	O	O	-
@@ -35218,6 +35387,7 @@
 18	bedrifter	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017643
 # text = Fremveksten til norsk havbruksnæring er et godt eksempel på hvordan privat initiativ har utviklet sterke bedrifter og næringer.
 1	Fremveksten	O	O	-
@@ -35406,7 +35576,7 @@
 # sent_id = 017650
 # text = La Tafjordbygda leve
 1	La	O	O	-
-2	Tafjordbygda	B-OTH	B-DRV	-
+2	Tafjordbygda	-	B-DRV	-
 3	leve	O	O	-
 
 # sent_id = 017651
@@ -35438,6 +35608,7 @@
 25	Tafjord	B-LOC	B-LOC	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 017652
 # text = Ordfører Arne Sandnes gikk ut i media og talte for helårsvei mellom Tafjord og Grotli.
 1	Ordfører	O	O	-
@@ -35526,7 +35697,7 @@
 4	får	O	O	-
 5	fortsette	O	O	-
 6	vil	O	O	-
-7	Tafjordbygda	B-OTH	B-DRV	-
+7	Tafjordbygda	-	B-DRV	-
 8	være	O	O	-
 9	fraflyttet	O	O	-
 10	innen	O	O	-
@@ -35580,6 +35751,7 @@
 # text = Tunnel
 1	Tunnel	O	O	-
 
+# newpar
 # sent_id = 017661
 # text = Men fremdeles er det noen som ønsker å bo i Tafjord.
 1	Men	O	O	-
@@ -35789,7 +35961,7 @@
 3	gått	O	O	-
 4	ut	O	O	-
 5	i	O	O	-
-6	Sunnmørsposten	B-OTH	B-PROD	-
+6	Sunnmørsposten	O	B-PROD	-
 7	og	O	O	-
 8	lagt	O	O	-
 9	ned	O	O	-
@@ -36063,7 +36235,7 @@
 7	det	O	O	-
 8	går	O	O	-
 9	med	O	O	-
-10	Tafjordbygda	B-OTH	B-DRV	-
+10	Tafjordbygda	-	B-DRV	-
 11	bare	O	O	-
 12	vi	O	O	-
 13	får	O	O	-
@@ -36196,6 +36368,7 @@
 11	valgkampen	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 017696
 # text = Politikere med stortingsambisjoner kappes om å være mest positive til å bygge gasskraftverk i Møre og Romsdal.
 1	Politikere	O	O	-
@@ -36257,6 +36430,7 @@
 26	det	O	O	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 017699
 # text = På spørsmålet om det bør bygges gasskraftverk i Møre og Romsdal nå, eller om vi bør vente på CO2-frie gasskraftverk, og heller satse på andre energikilder, svarte 43,6 prosent at de vil vente, mens 43,3 prosent vil bygge nå.
 1	På	O	O	-
@@ -36417,8 +36591,8 @@
 38	ble	O	O	-
 39	ilandføringssted	O	O	-
 40	for	O	O	-
-41	Ormen	B-OTH	B-DRV	-
-42	Lange-gassen	I-OTH	I-DRV	-
+41	Ormen	-	B-DRV	-
+42	Lange-gassen	O	I-DRV	-
 43	.	O	O	-
 
 # sent_id = 017707
@@ -37093,12 +37267,12 @@
 4	51	O	O	-
 5	prosent	O	O	-
 6	av	O	O	-
-7	AP-velgerne	B-OTH	B-DRV	-
+7	AP-velgerne	-	B-DRV	-
 8	og	O	O	-
 9	46	O	O	-
 10	prosent	O	O	-
 11	av	O	O	-
-12	FrP-velgerne	B-OTH	B-DRV	-
+12	FrP-velgerne	-	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 017747
@@ -37196,6 +37370,7 @@
 # text = Friskoler
 1	Friskoler	O	O	-
 
+# newpar
 # sent_id = 017753
 # text = SV har gått til valg med toleranse og romslighet som høyt profilerte verdisaker.
 1	SV	B-ORG	B-ORG	-
@@ -37341,7 +37516,7 @@
 12	et	O	O	-
 13	intervju	O	O	-
 14	i	O	O	-
-15	Dagbladet	B-OTH	B-PROD	-
+15	Dagbladet	O	B-PROD	-
 16	,	O	O	-
 17	representert	O	O	-
 18	ved	O	O	-
@@ -37826,6 +38001,7 @@
 18	velgere	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017784
 # text = Da utsteder man gjerne garantier overfor folk i Møre og Romsdal og ultimatum overfor SV og Sp.
 1	Da	O	O	-
@@ -37961,6 +38137,7 @@
 3	Bekkemellem	B-PER	B-PER	-
 4	Orheim	I-PER	I-PER	-
 
+# newpar
 # sent_id = 017792
 # text = Karita Bekkemellem Orheims innlegg i Sunnmørsposten 19. august bekrefter nok en gang at Arbeiderpartiet ikke har noen politikk for de sentrale utfordringene i norsk skole.
 1	Karita	B-PER	B-PER	-
@@ -37968,7 +38145,7 @@
 3	Orheims	I-PER	I-PER	-
 4	innlegg	O	O	-
 5	i	O	O	-
-6	Sunnmørsposten	B-OTH	B-PROD	-
+6	Sunnmørsposten	O	B-PROD	-
 7	19.	O	O	-
 8	august	O	O	-
 9	bekrefter	O	O	-
@@ -38146,7 +38323,7 @@
 # text = Regjeringens skolereform Kunnskapsløftet skal gjennomføres fra 2006.
 1	Regjeringens	B-ORG	B-ORG	-
 2	skolereform	O	O	-
-3	Kunnskapsløftet	B-OTH	B-PROD	-
+3	Kunnskapsløftet	O	B-PROD	-
 4	skal	O	O	-
 5	gjennomføres	O	O	-
 6	fra	O	O	-
@@ -38158,7 +38335,7 @@
 1	Hva	O	O	-
 2	skjer	O	O	-
 3	med	O	O	-
-4	Kunnskapsløftet	B-OTH	B-PROD	-
+4	Kunnskapsløftet	O	B-PROD	-
 5	dersom	O	O	-
 6	Ap	B-ORG	B-ORG	-
 7	,	O	O	-
@@ -38183,7 +38360,7 @@
 10	vil	O	O	-
 11	utsette	O	O	-
 12	hele	O	O	-
-13	Kunnskapsløftet	B-OTH	B-PROD	-
+13	Kunnskapsløftet	O	B-PROD	-
 14	,	O	O	-
 15	endre	O	O	-
 16	læreplanene	O	O	-
@@ -38459,7 +38636,7 @@
 8	for	O	O	-
 9	å	O	O	-
 10	oppnå	O	O	-
-11	Kyoto-avtalens	B-OTH	B-PROD	-
+11	Kyoto-avtalens	O	B-PROD	-
 12	mål	O	O	-
 13	om	O	O	-
 14	demonstrerbar	O	O	-
@@ -39143,7 +39320,7 @@
 10	store	O	O	-
 11	mulighetene	O	O	-
 12	for	O	O	-
-13	Kyst-Norge	B-OTH	B-DRV	-
+13	Kyst-Norge	-	B-DRV	-
 14	innen	O	O	-
 15	havbruk	O	O	-
 16	og	O	O	-
@@ -39288,9 +39465,9 @@
 5	videreutvikle	O	O	-
 6	prosjektet	O	O	-
 7	«	O	O	-
-8	Et	B-OTH	B-PROD	-
-9	enklere	I-OTH	I-PROD	-
-10	Norge	I-OTH	I-PROD	-
+8	Et	O	B-PROD	-
+9	enklere	O	I-PROD	-
+10	Norge	O	I-PROD	-
 11	»	O	O	-
 12	.	O	O	-
 
@@ -39643,6 +39820,7 @@
 1	Presidenten	O	O	-
 2	:	O	O	-
 
+# newpar
 # sent_id = 017891
 # text = Ærede medrepresentanter!
 1	Ærede	O	O	-
@@ -40337,12 +40515,12 @@
 7	å	O	O	-
 8	starte	O	O	-
 9	ukeavisen	O	O	-
-10	Orientering	B-OTH	B-PROD	-
+10	Orientering	O	B-PROD	-
 11	.	O	O	-
 
 # sent_id = 017926
 # text = Orientering skapte et etterlengtet pusterom for alternativ tenkning på venstresiden.
-1	Orientering	B-OTH	B-PROD	-
+1	Orientering	O	B-PROD	-
 2	skapte	O	O	-
 3	et	O	O	-
 4	etterlengtet	O	O	-
@@ -40472,8 +40650,8 @@
 # sent_id = 017933
 # text = Da Kings Bay-saken kom opp i juni 1963, måtte partiet ta stilling til et mistillitsforslag mot arbeiderpartiregjeringen.
 1	Da	O	O	-
-2	Kings	B-OTH	B-EVT	-
-3	Bay-saken	I-OTH	I-EVT	-
+2	Kings	O	B-EVT	-
+3	Bay-saken	O	I-EVT	-
 4	kom	O	O	-
 5	opp	O	O	-
 6	i	O	O	-
@@ -41146,7 +41324,7 @@
 3	arbeide	O	O	-
 4	for	O	O	-
 5	en	O	O	-
-6	FN-ledet	B-OTH	B-DRV	-
+6	FN-ledet	-	B-DRV	-
 7	verdensorden	O	O	-
 8	på	O	O	-
 9	grunnlag	O	O	-
@@ -41168,7 +41346,7 @@
 10	i	O	O	-
 11	NATO	B-ORG	B-ORG	-
 12	,	O	O	-
-13	EØSavtalen	B-OTH	B-PROD	-
+13	EØSavtalen	O	B-PROD	-
 14	og	O	O	-
 15	det	O	O	-
 16	forhold	O	O	-
@@ -41351,7 +41529,7 @@
 1	Norsk	O	O	-
 2	deltakelse	O	O	-
 3	i	O	O	-
-4	ISAF-styrkene	B-OTH	B-DRV	-
+4	ISAF-styrkene	-	B-DRV	-
 5	i	O	O	-
 6	Afghanistan	B-LOC	B-GPE_LOC	-
 7	skal	O	O	-
@@ -41363,9 +41541,9 @@
 13	norsk	O	O	-
 14	deltakelse	O	O	-
 15	i	O	O	-
-16	Operation	B-OTH	B-PROD	-
-17	Enduring	I-OTH	I-PROD	-
-18	Freedom	I-OTH	I-PROD	-
+16	Operation	O	B-PROD	-
+17	Enduring	O	I-PROD	-
+18	Freedom	O	I-PROD	-
 19	i	O	O	-
 20	Afghanistan	B-LOC	B-GPE_LOC	-
 21	vil	O	O	-
@@ -41530,7 +41708,7 @@
 5	EU	B-ORG	B-GPE_ORG	-
 6	basert	O	O	-
 7	på	O	O	-
-8	EØSavtalen	B-OTH	B-PROD	-
+8	EØSavtalen	O	B-PROD	-
 9	og	O	O	-
 10	sikre	O	O	-
 11	aktiv	O	O	-
@@ -41646,7 +41824,7 @@
 1	I	O	O	-
 2	de	O	O	-
 3	pågående	O	O	-
-4	WTO-forhandlingene	B-OTH	B-DRV	-
+4	WTO-forhandlingene	-	B-DRV	-
 5	vil	O	O	-
 6	Regjeringen	B-ORG	B-ORG	-
 7	arbeide	O	O	-
@@ -41728,7 +41906,7 @@
 5	helhetlig	O	O	-
 6	gjennomgang	O	O	-
 7	av	O	O	-
-8	WTO-forhandlingenes	B-OTH	B-DRV	-
+8	WTO-forhandlingenes	-	B-DRV	-
 9	konsekvenser	O	O	-
 10	for	O	O	-
 11	norsk	O	O	-
@@ -41992,7 +42170,7 @@
 9	merke	O	O	-
 10	seg	O	O	-
 11	er	O	O	-
-12	Summartónar	B-OTH	B-EVT	-
+12	Summartónar	O	B-EVT	-
 13	,	O	O	-
 14	en	O	O	-
 15	musikkfestival	O	O	-
@@ -42068,19 +42246,19 @@
 3	noen	O	O	-
 4	arrangører	O	O	-
 5	:	O	O	-
-6	visitfaroeislands.com	B-OTH	B-PROD	-
+6	visitfaroeislands.com	O	B-PROD	-
 7	,	O	O	-
-8	coastzone.fo	B-OTH	B-PROD	-
+8	coastzone.fo	O	B-PROD	-
 9	,	O	O	-
-10	atlantic.fo	B-OTH	B-PROD	-
+10	atlantic.fo	O	B-PROD	-
 11	,	O	O	-
-12	faroeislands.com	B-OTH	B-PROD	-
+12	faroeislands.com	O	B-PROD	-
 13	,	O	O	-
-14	tora.fo	B-OTH	B-PROD	-
+14	tora.fo	O	B-PROD	-
 15	,	O	O	-
-16	62n.fo	B-OTH	B-PROD	-
+16	62n.fo	O	B-PROD	-
 17	,	O	O	-
-18	greengate.fo	B-OTH	B-PROD	-
+18	greengate.fo	O	B-PROD	-
 
 # sent_id = 018024
 # text = Shopping:
@@ -42161,7 +42339,7 @@
 6	som	O	O	-
 7	serie	O	O	-
 8	på	O	O	-
-9	NRK	B-OTH	B-PROD	-
+9	NRK	O	B-PROD	-
 10	tidligere	O	O	-
 11	i	O	O	-
 12	år	O	O	-
@@ -42200,6 +42378,7 @@
 18	auksjon	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 018034
 # text = I brevet forteller den franske lederen om sine planer om å sprenge Kreml.
 1	I	O	O	-
@@ -42251,6 +42430,7 @@
 30	"	O	O	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 018036
 # text = Brevet er datert 20. oktober 1812, dagen etter at Napoleon trakk seg tilbake fra sentrum av Moskva.
 1	Brevet	O	O	-
@@ -42401,18 +42581,22 @@
 2	seg	O	O	-
 3	inn	O	O	-
 
+# newpar
 # sent_id = 018045
 # text = Sharia
 1	Sharia	O	O	-
 
+# newpar
 # sent_id = 018046
 # text = Vakuum
 1	Vakuum	O	O	-
 
+# newpar
 # sent_id = 018047
 # text = Skepsis
 1	Skepsis	O	O	-
 
+# newpar
 # sent_id = 018048
 # text = FNs sikkerhetsråd fordømmer pågripelsen av Malis statsminister Cheick Modibo Diarra, som har gått av etter å ha blitt pågrepet soldater som var sendt av den tidligere kupplederen Amadou Sanogo.
 1	FNs	B-ORG	B-ORG	-
@@ -42447,6 +42631,7 @@
 30	Sanogo	I-PER	I-PER	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 018049
 # text = I en kort tale på Malis statlige fjernsyn sa Diarra tirsdag at han går av med hele sin regjering.
 1	I	O	O	-
@@ -42470,6 +42655,7 @@
 19	regjering	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 018050
 # text = Sikkerhetsrådet fordømmer pågripelsen av Diarra og advarer om at hæren i landet er i ferd med å undergrave de internasjonale forsøkene på å slå ned det islamistiske opprøret nord i landet.
 1	Sikkerhetsrådet	B-ORG	B-ORG	-
@@ -42556,6 +42742,7 @@
 29	kuppmakerne	O	O	-
 30	.	O	O	-
 
+# newpar
 # sent_id = 018053
 # text = Livvakter forteller at soldatene slo inn døra for å ta seg inn i Diarras hjem, og at de hadde behandlet ham ganske røft.
 1	Livvakter	O	O	-
@@ -42668,6 +42855,7 @@
 27	bort	O	O	-
 28	.	O	O	-
 
+# newpar
 # sent_id = 018057
 # text = Islamistene har innført sharialov i gamle kulturbyer som Timbuktu.
 1	Islamistene	O	O	-
@@ -42818,6 +43006,7 @@
 29	nord	O	O	-
 30	.	O	O	-
 
+# newpar
 # sent_id = 018064
 # text = Men kuppet skapte et vakuum som gjorde at tuaregene og deres islamistiske allierte kunne ta kontrollen over de nordligste to tredelene av landet.
 1	Men	O	O	-
@@ -42946,6 +43135,7 @@
 16	soldater	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 018070
 # text = Mange av Malis naboer foretrekker å prøve å få til en forhandlingsløsning, og både FN og USA ber om tilbakeholdenhet.
 1	Mange	O	O	-
@@ -42974,7 +43164,7 @@
 # sent_id = 018071
 # text = USAs FN-ambassadør Susan Rice sa i forrige uke at de vestafrikanske soldatene er dårlig egnet til å krige i ørkenen mot grupper som Ansar Dine, al-Qaida i Maghreb (Aqim) og MUJAO.
 1	USAs	B-ORG	B-GPE_ORG	-
-2	FN-ambassadør	B-OTH	B-DRV	-
+2	FN-ambassadør	-	B-DRV	-
 3	Susan	B-PER	B-PER	-
 4	Rice	I-PER	I-PER	-
 5	sa	O	O	-
@@ -43130,18 +43320,21 @@
 3	av	O	O	-
 4	sel	O	O	-
 
+# newpar
 # sent_id = 018078
 # text = Koster fire millioner
 1	Koster	O	O	-
 2	fire	O	O	-
 3	millioner	O	O	-
 
+# newpar
 # sent_id = 018079
 # text = Skal overvåke Røkke
 1	Skal	O	O	-
 2	overvåke	O	O	-
 3	Røkke	B-PER	B-PER	-
 
+# newpar
 # sent_id = 018080
 # text = Norsk i 85 år
 1	Norsk	O	O	-
@@ -43149,14 +43342,16 @@
 3	85	O	O	-
 4	år	O	O	-
 
+# newpar
 # sent_id = 018081
 # text = Tromsø (VG Nett)
 1	Tromsø	B-LOC	B-GPE_LOC	-
 2	(	O	O	-
-3	VG	B-OTH	B-PROD	-
-4	Nett	I-OTH	I-PROD	-
+3	VG	O	B-PROD	-
+4	Nett	O	I-PROD	-
 5	)	O	O	-
 
+# newpar
 # sent_id = 018082
 # text = Midt i en stor koloni aggressiv sel, skal Norge etablere en ny forskningsstasjon.
 1	Midt	O	O	-
@@ -43180,6 +43375,7 @@
 1	Hockeyutstyr	O	O	-
 2	:	O	O	-
 
+# newpar
 # sent_id = 018084
 # text = Forskerne fra Norsk Polarinstitutt må bruke ishockeyleggskinn og køller for å holde de mest aggressive selhannene på avstand.
 1	Forskerne	O	O	-
@@ -43295,6 +43491,7 @@
 10	steder	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 018091
 # text = Den ugjestmilde vulkanøya stikker opp som en nålespiss fra dypet midt mellom Sør-Afrika og Antarktis, og over 90 prosent av landoverflaten er dekket av is.
 1	Den	O	O	-
@@ -43457,6 +43654,7 @@
 13	infeksjoner	O	O	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 018099
 # text = De siste årene har forskerne ligget i telt, under utfordrende HMS-forhold, sier Jan-Gunnar Winther, direktør ved Norsk Polarinstitutt.
 1	De	O	O	-
@@ -43544,6 +43742,7 @@
 18	kroner	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 018103
 # text = Den har plass til seks forskere, og er i tillegg til senger, kjøkken, bad og oppholdsrom utstyrt med et laboratorium.
 1	Den	O	O	-

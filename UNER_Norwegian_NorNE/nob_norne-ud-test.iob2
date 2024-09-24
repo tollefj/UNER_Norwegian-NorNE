@@ -160,6 +160,7 @@
 29	"	O	O	-
 30	.	O	O	-
 
+# newpar
 # sent_id = 018113
 # text = Et mindretall blant dem som tegner våre hus, prøver å fornye et mer klassisk eller tradisjonsinspirert formspråk, ut fra den erfaring at slike løsninger faktisk har vist seg å virke, og stundom er mer takknemlig å forene med miljøverdier, i tillegg til trivsel og skjønnhet.
 1	Et	O	O	-
@@ -310,10 +311,10 @@
 1	I	O	O	-
 2	diktet	O	O	-
 3	"	O	O	-
-4	Om	B-OTH	B-PROD	-
-5	å	I-OTH	I-PROD	-
-6	vokse	I-OTH	I-PROD	-
-7	nedover	I-OTH	I-PROD	-
+4	Om	O	B-PROD	-
+5	å	O	I-PROD	-
+6	vokse	O	I-PROD	-
+7	nedover	O	I-PROD	-
 8	"	O	O	-
 9	skriver	O	O	-
 10	Rolf	B-PER	B-PER	-
@@ -431,11 +432,13 @@
 6	EU	B-ORG	B-GPE_ORG	-
 7	?	O	O	-
 
+# newpar
 # sent_id = 018126
 # text = Tyrkia.
 1	Tyrkia	B-LOC	B-GPE_LOC	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 018127
 # text = Det skrives mye om hvordan Øst-Asia stiger opp og USA faller ned.
 1	Det	O	O	-
@@ -472,6 +475,7 @@
 16	problemene	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 018129
 # text = I 1945 var Storbritannia og kanskje også Frankrike stormakter.
 1	I	O	O	-
@@ -716,6 +720,7 @@
 7	Kosovo	B-ORG	B-GPE_ORG	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 018142
 # text = På litt lengre sikt er det gode muligheter for at Ukraina kan bli medlem av EU.
 1	På	O	O	-
@@ -861,7 +866,7 @@
 12	en	O	O	-
 13	ny	O	O	-
 14	norsk	O	O	-
-15	EU-debatt	B-OTH	B-DRV	-
+15	EU-debatt	-	B-DRV	-
 16	,	O	O	-
 17	er	O	O	-
 18	antagelig	O	O	-
@@ -875,7 +880,7 @@
 26	være	O	O	-
 27	igjen	O	O	-
 28	av	O	O	-
-29	EØS-avtalen	B-OTH	B-PROD	-
+29	EØS-avtalen	O	B-PROD	-
 30	.	O	O	-
 
 # sent_id = 018149
@@ -922,7 +927,7 @@
 
 # sent_id = 018152
 # text = Lisboa-traktaten, som skulle redde de nye institusjonelle elementene, ble så forkastet i Irland.
-1	Lisboa-traktaten	B-OTH	B-PROD	-
+1	Lisboa-traktaten	O	B-PROD	-
 2	,	O	O	-
 3	som	O	O	-
 4	skulle	O	O	-
@@ -950,7 +955,7 @@
 7	på	O	O	-
 8	grunnlag	O	O	-
 9	av	O	O	-
-10	Nice-avtalen	B-OTH	B-PROD	-
+10	Nice-avtalen	O	B-PROD	-
 11	fra	O	O	-
 12	2000	O	O	-
 13	.	O	O	-
@@ -1126,6 +1131,7 @@
 26	politikk	O	O	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 018164
 # text = En ny metode på Ullevål universitetssykehus gjør at premature og syke nyfødte nå kan ligge uforstyrret og småsove mens sykepleierne tar blodprøver.
 1	En	O	O	-
@@ -1152,6 +1158,7 @@
 22	blodprøver	O	O	-
 23	.	O	O	-
 
+# newpar
 # sent_id = 018165
 # text = Tilda (t.v.) og Johannes Borg er 11 uker, men skulle ikke ennå vært født om svangerskapet hadde forløpt som normalt.
 1	Tilda	B-PER	B-PER	-
@@ -1179,6 +1186,7 @@
 23	normalt	O	O	-
 24	.	O	O	-
 
+# newpar
 # sent_id = 018166
 # text = Johannes og Tilda Borg ble født etter bare 25 uker i mamma Therese Fosholt Moes mage.
 1	Johannes	B-PER	B-PER	-
@@ -1300,6 +1308,7 @@
 16	barnet	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 018172
 # text = - Vi har barn som har opphold her på flere måneder, og de må gjennom mange smertefulle prosesser.
 1	-	O	O	-
@@ -1404,6 +1413,7 @@
 8	Johannes	B-PER	B-PER	-
 9	her	O	O	-
 
+# newpar
 # sent_id = 018176
 # text = Kapillær hælprøve (se faktaboks) er tradisjonelt den mest brukte metoden for blodprøvetaking av små barn, selv om forskning viser at den er smertefull.
 1	Kapillær	O	O	-
@@ -1573,6 +1583,7 @@
 29	huden	O	O	-
 30	.	O	O	-
 
+# newpar
 # sent_id = 018183
 # text = Nyfødtintensiven ved Ullevål, som er Norges største avdeling i sitt slag med 900 pasienter innlagt hvert år, har nå besluttet at alle blodprøver, om mulig, skal tas på denne måten.
 1	Nyfødtintensiven	O	O	-
@@ -1742,6 +1753,7 @@
 16	for	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 018190
 # text = Mamma Therese Fosholt Moe er positiv til metoden.
 1	Mamma	O	O	-
@@ -1916,6 +1928,7 @@
 22	Steinnes	B-PER	B-PER	-
 23	.	O	O	-
 
+# newpar
 # sent_id = 018199
 # text = Steinnes og Treider har også reist rundt i landet og drevet opplæring i metoden ved andre sykehus.
 1	Steinnes	B-PER	B-PER	-
@@ -2023,11 +2036,13 @@
 1	Lykkelig	O	O	-
 2	uvitende	O	O	-
 
+# newpar
 # sent_id = 018204
 # text = Hukommelsestap.
 1	Hukommelsestap	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 018205
 # text = 26. januar 2001:
 1	26.	O	O	-
@@ -2035,23 +2050,27 @@
 3	2001	O	O	-
 4	:	O	O	-
 
+# newpar
 # sent_id = 018206
 # text = Retrograd amnesi.
 1	Retrograd	O	O	-
 2	amnesi	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 018207
 # text = Jorden rundt.
 1	Jorden	O	O	-
 2	rundt	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 018208
 # text = Venner.
 1	Venner	O	O	-
 2	.	O	O	-
 
+# newpar
 # sent_id = 018209
 # text = Mye å lære.
 1	Mye	O	O	-
@@ -2059,6 +2078,7 @@
 3	lære	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 018210
 # text = Øyvind Aamot husker ikke sine første 27 leveår.
 1	Øyvind	B-PER	B-PER	-
@@ -2083,6 +2103,7 @@
 8	han	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 018212
 # text = I filmen drar Øyvind Aamot tilbake til Kina, til stedet der han skulle finne spesielle hestenomader og hvor han trolig mistet hukommelsen.
 1	I	O	O	-
@@ -2110,6 +2131,7 @@
 23	hukommelsen	O	O	-
 24	.	O	O	-
 
+# newpar
 # sent_id = 018213
 # text = Ut mellom trærne, midt i et villastrøk på Stabekk i Bærum kommer en mann med meterlange rastafletter flaksende som en kråke.
 1	Ut	O	O	-
@@ -2218,6 +2240,7 @@
 8	moren	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 018219
 # text = Åtte år er gått siden Øyvind mistet hukommelsen.
 1	Åtte	O	O	-
@@ -2486,9 +2509,9 @@
 2	februar	O	O	-
 3	har	O	O	-
 4	filmen	O	O	-
-5	Jakten	B-OTH	B-PROD	-
-6	på	I-OTH	I-PROD	-
-7	hukommelsen	I-OTH	I-PROD	-
+5	Jakten	O	B-PROD	-
+6	på	O	I-PROD	-
+7	hukommelsen	O	I-PROD	-
 8	première	O	O	-
 9	.	O	O	-
 
@@ -2531,6 +2554,7 @@
 23	hukommelsestap	O	O	-
 24	.	O	O	-
 
+# newpar
 # sent_id = 018236
 # text = Ragnhild Aamot har ikke hørt noe fra sønnen på to måneder.
 1	Ragnhild	B-PER	B-PER	-
@@ -2974,6 +2998,7 @@
 17	»	O	O	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 018261
 # text = Hukommelsestap, eller amnesi, har to former:
 1	Hukommelsestap	O	O	-
@@ -3292,6 +3317,7 @@
 9	Karlsen	B-PER	B-PER	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 018281
 # text = Et tomt blikk var det første moren la merke til da hun møtte han på flyplassen i Los Angeles for første gang etter ulykken.
 1	Et	O	O	-
@@ -3750,6 +3776,7 @@
 9	dem	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 018309
 # text = Øyvind er så uendelig takknemlige for alle vennene som har støttet ham, som har brukt tid på å fortelle ham historiene om livet hans, vist ham bilder.
 1	Øyvind	B-PER	B-PER	-
@@ -4250,6 +4277,7 @@
 26	landegrensene	O	O	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 018339
 # text = Det finnes flere teorier om hva som kan ha skjedd med Øyvind.
 1	Det	O	O	-
@@ -4452,10 +4480,11 @@
 4	større	O	O	-
 5	format	O	O	-
 
+# newpar
 # sent_id = 018352
 # text = Brodecks rapport er den type roman mange trolig vil lese i ett strekk.
-1	Brodecks	B-OTH	B-PROD	-
-2	rapport	I-OTH	I-PROD	-
+1	Brodecks	O	B-PROD	-
+2	rapport	O	I-PROD	-
 3	er	O	O	-
 4	den	O	O	-
 5	type	O	O	-
@@ -4581,6 +4610,7 @@
 15	Risvik	I-PER	I-PER	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 018358
 # text = Nåtidshandlingen i boken leder umiddelbart oppmerksomheten mot et grenseområde mellom Frankrike og Tyskland i første året etter den annen verdenskrig, fortrinnsvis Alsace-Lorraine.
 1	Nåtidshandlingen	O	O	-
@@ -4640,21 +4670,21 @@
 9	,	O	O	-
 10	minner	O	O	-
 11	om	O	O	-
-12	SA-mannen	B-OTH	B-DRV	-
+12	SA-mannen	-	B-DRV	-
 13	Horst	B-PER	B-PER	-
 14	Wessels	I-PER	I-PER	-
 15	skjebne	O	O	-
 16	,	O	O	-
 17	og	O	O	-
-18	Pürische	B-OTH	B-EVT	-
-19	Nacht	I-OTH	I-EVT	-
+18	Pürische	O	B-EVT	-
+19	Nacht	O	I-EVT	-
 20	er	O	O	-
 21	åpenbart	O	O	-
 22	tegnet	O	O	-
 23	etter	O	O	-
 24	mønster	O	O	-
 25	av	O	O	-
-26	Krystallnatten	B-OTH	B-EVT	-
+26	Krystallnatten	O	B-EVT	-
 27	.	O	O	-
 
 # sent_id = 018361
@@ -4759,8 +4789,8 @@
 
 # sent_id = 018364
 # text = Brodecks rapport er like meget en samtidsroman som en historisk roman
-1	Brodecks	B-OTH	B-PROD	-
-2	rapport	I-OTH	I-PROD	-
+1	Brodecks	O	B-PROD	-
+2	rapport	O	I-PROD	-
 3	er	O	O	-
 4	like	O	O	-
 5	meget	O	O	-
@@ -4771,6 +4801,7 @@
 10	historisk	O	O	-
 11	roman	O	O	-
 
+# newpar
 # sent_id = 018365
 # text = Den rapporten Brodeck mer eller mindre tvinges til å skrive, er historien om hvordan mennene i denne landsbyen på 400 sjeler tok livet av de Anderer, «den andre», denne merkelige og uutgrunnelige mannen som var ankommet for kort tid siden, og som ingen kunne plassere, kategorisere, rubrisere.
 1	Den	O	O	-
@@ -4911,7 +4942,7 @@
 6	innta	O	O	-
 7	rollen	O	O	-
 8	som	O	O	-
-9	Brodeck-bikkja	B-OTH	B-DRV	-
+9	Brodeck-bikkja	-	B-DRV	-
 10	i	O	O	-
 11	leiren	O	O	-
 12	;	O	O	-
@@ -4979,6 +5010,7 @@
 31	hevngjerrig	O	O	-
 32	.	O	O	-
 
+# newpar
 # sent_id = 018373
 # text = Hengivenheten overfor Emélia og den lille, «uekte» datteren kan ingen og intet rokke ved; det er hans siste tilflukt i det menneskelige.
 1	Hengivenheten	O	O	-
@@ -5051,8 +5083,8 @@
 
 # sent_id = 018376
 # text = Brodecks rapport er et knyttneveslag og et donkraftløft av et lesestykke.
-1	Brodecks	B-OTH	B-PROD	-
-2	rapport	I-OTH	I-PROD	-
+1	Brodecks	O	B-PROD	-
+2	rapport	O	I-PROD	-
 3	er	O	O	-
 4	et	O	O	-
 5	knyttneveslag	O	O	-
@@ -5073,6 +5105,7 @@
 5	på	O	O	-
 6	Internett	O	O	-
 
+# newpar
 # sent_id = 018378
 # text = Pågrepet av bevæpnet politi
 1	Pågrepet	O	O	-
@@ -5080,23 +5113,27 @@
 3	bevæpnet	O	O	-
 4	politi	O	O	-
 
+# newpar
 # sent_id = 018379
 # text = - Bombetrussel
 1	-	O	O	-
 2	Bombetrussel	O	O	-
 
+# newpar
 # sent_id = 018380
 # text = Over 1000 evakuert
 1	Over	O	O	-
 2	1000	O	O	-
 3	evakuert	O	O	-
 
+# newpar
 # sent_id = 018381
 # text = - Lærerne forduftet
 1	-	O	O	-
 2	Lærerne	O	O	-
 3	forduftet	O	O	-
 
+# newpar
 # sent_id = 018382
 # text = Politiet har pågrepet en tenåring etter skoletrusselen.
 1	Politiet	O	O	-
@@ -5123,6 +5160,7 @@
 11	dager	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 018384
 # text = Politiet pågrep torsdag ettermiddag en tenåring for bombetrusselen mot Glemmen vgs i Fredrikstad.
 1	Politiet	O	O	-
@@ -5140,6 +5178,7 @@
 13	Fredrikstad	B-LOC	B-GPE_LOC	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 018385
 # text = Har du tips eller bilder denne saken?
 1	Har	O	O	-
@@ -5280,6 +5319,7 @@
 30	Aftenposten.no	B-ORG	B-ORG	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 018393
 # text = Ifølge et øyenvtine skal personen ha blitt pågrepet utenfor en Kiwi-butikk på Kråkerøy mens han snakket i mobiltelefon.
 1	Ifølge	O	O	-
@@ -5292,7 +5332,7 @@
 8	pågrepet	O	O	-
 9	utenfor	O	O	-
 10	en	O	O	-
-11	Kiwi-butikk	B-OTH	B-DRV	-
+11	Kiwi-butikk	-	B-DRV	-
 12	på	O	O	-
 13	Kråkerøy	B-LOC	B-GPE_LOC	-
 14	mens	O	O	-
@@ -5365,6 +5405,7 @@
 4	bildet	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 018398
 # text = Etter det Aftenposten.no kjenner til er elevene blitt fortalt at det dreier seg om en bombetrussel.
 1	Etter	O	O	-
@@ -5501,6 +5542,7 @@
 6	politistasjon	I-ORG	I-ORG	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 018405
 # text = Ifølge politiet er over 1000 personer blitt evkuert.
 1	Ifølge	O	O	-
@@ -5692,6 +5734,7 @@
 16	til	O	O	-
 17	Aftenposten.no	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 018415
 # text = Elevrådsleder Christian Fredrik Leknes-Kilmork oppleved situasjonen som kaotisk.
 1	Elevrådsleder	O	O	-
@@ -5848,24 +5891,28 @@
 5	av	O	O	-
 6	bilfelgrens	O	O	-
 
+# newpar
 # sent_id = 018424
 # text = Bestiller på nettet
 1	Bestiller	O	O	-
 2	på	O	O	-
 3	nettet	O	O	-
 
+# newpar
 # sent_id = 018425
 # text = Kamufleres som brus
 1	Kamufleres	O	O	-
 2	som	O	O	-
 3	brus	O	O	-
 
+# newpar
 # sent_id = 018426
 # text = - Billig rusmiddel
 1	-	O	O	-
 2	Billig	O	O	-
 3	rusmiddel	O	O	-
 
+# newpar
 # sent_id = 018427
 # text = Mens heroin og kokain må fraktes halve jorden rundt før stoffet når Norge, lager rusmisbrukere i Hordaland GHB hjemme.
 1	Mens	O	O	-
@@ -5890,6 +5937,7 @@
 20	hjemme	O	O	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 018428
 # text = Tre personer ble nylig funnet bevisstløse i Bergen Kino etter en overdose av GHB.
 1	Tre	O	O	-
@@ -5920,6 +5968,7 @@
 3	/	O	O	-
 4	bt.no	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 018431
 # text = - Omtrent hvem som helst kan lage det.
 1	-	O	O	-
@@ -6069,6 +6118,7 @@
 26	Kunstakademi	I-ORG	I-ORG	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 018438
 # text = I Nygårdsparken i Bergen ropes det ut tilbud på heroin, Subutex, speed og alle slags piller.
 1	I	O	O	-
@@ -6082,7 +6132,7 @@
 9	på	O	O	-
 10	heroin	O	O	-
 11	,	O	O	-
-12	Subutex	B-OTH	B-PROD	-
+12	Subutex	O	B-PROD	-
 13	,	O	O	-
 14	speed	O	O	-
 15	og	O	O	-
@@ -6273,6 +6323,7 @@
 23	Hadler-Olsen	B-PER	B-PER	-
 24	.	O	O	-
 
+# newpar
 # sent_id = 018448
 # text = I hele fjor tok politiet 36 liter GHB fordelt på 134 beslag.
 1	I	O	O	-
@@ -6383,7 +6434,7 @@
 19	og	O	O	-
 20	tappet	O	O	-
 21	på	O	O	-
-22	Solo-flasker	B-OTH	B-DRV	-
+22	Solo-flasker	-	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 018452
@@ -6405,6 +6456,7 @@
 15	Hadler-Olsen	B-PER	B-PER	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 018453
 # text = I juni skrev BT at Bergensklinikkene advarte mot en tydelig økning i bruken av GHB i Bergen.
 1	I	O	O	-
@@ -6602,6 +6654,7 @@
 3	kosttilskudd	O	O	-
 4	?	O	O	-
 
+# newpar
 # sent_id = 018465
 # text = En uvirkelig sommer.
 1	En	O	O	-
@@ -6609,12 +6662,14 @@
 3	sommer	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 018466
 # text = Big business.
 1	Big	O	O	-
 2	business	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 018467
 # text = Trenger bedre kontroll.
 1	Trenger	O	O	-
@@ -6622,12 +6677,14 @@
 3	kontroll	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 018468
 # text = Kroppen svikter.
 1	Kroppen	O	O	-
 2	svikter	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 018469
 # text = Offer for juks.
 1	Offer	O	O	-
@@ -6635,6 +6692,7 @@
 3	juks	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 018470
 # text = Omfanget større enn antatt.
 1	Omfanget	O	O	-
@@ -6643,6 +6701,7 @@
 4	antatt	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 018471
 # text = En internasjonal utfordring.
 1	En	O	O	-
@@ -6650,6 +6709,7 @@
 3	utfordring	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 018472
 # text = Han som alltid var der.
 1	Han	O	O	-
@@ -6659,6 +6719,7 @@
 5	der	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 018473
 # text = Sverre Murud var en sprek 69-åring.
 1	Sverre	B-PER	B-PER	-
@@ -6685,6 +6746,7 @@
 12	oppløsning	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 018475
 # text = Da Sverre Murud fylte 67 år, så han ingen grunn til å bli pensjonist.
 1	Da	O	O	-
@@ -6720,12 +6782,12 @@
 # text = Biloppretteren syklet Grenserittet om sommeren, gikk Birkebeineren om vinteren og løp tre ganger i uken med veterangruppen på Kløfta.
 1	Biloppretteren	O	O	-
 2	syklet	O	O	-
-3	Grenserittet	B-OTH	B-EVT	-
+3	Grenserittet	O	B-EVT	-
 4	om	O	O	-
 5	sommeren	O	O	-
 6	,	O	O	-
 7	gikk	O	O	-
-8	Birkebeineren	B-OTH	B-EVT	-
+8	Birkebeineren	O	B-EVT	-
 9	om	O	O	-
 10	vinteren	O	O	-
 11	og	O	O	-
@@ -6972,6 +7034,7 @@
 18	innvendig	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 018490
 # text = Sverre har ikke vært lenge på Ahus før legene spør om han tar noen legemidler eller naturmidler.
 1	Sverre	B-PER	B-PER	-
@@ -7003,9 +7066,9 @@
 6	han	O	O	-
 7	har	O	O	-
 8	;	O	O	-
-9	Lipitor	B-OTH	B-PROD	-
+9	Lipitor	O	B-PROD	-
 10	og	O	O	-
-11	Ezetrol	B-OTH	B-PROD	-
+11	Ezetrol	O	B-PROD	-
 12	,	O	O	-
 13	to	O	O	-
 14	preparater	O	O	-
@@ -7029,7 +7092,7 @@
 4	leveren	O	O	-
 5	,	O	O	-
 6	men	O	O	-
-7	Lipitor	B-OTH	B-PROD	-
+7	Lipitor	O	B-PROD	-
 8	har	O	O	-
 9	Sverre	B-PER	B-PER	-
 10	brukt	O	O	-
@@ -7040,7 +7103,7 @@
 15	bivirkninger	O	O	-
 16	,	O	O	-
 17	og	O	O	-
-18	Ezetrol	B-OTH	B-PROD	-
+18	Ezetrol	O	B-PROD	-
 19	,	O	O	-
 20	som	O	O	-
 21	han	O	O	-
@@ -7097,7 +7160,7 @@
 14	boks	O	O	-
 15	med	O	O	-
 16	kosttilskuddet	O	O	-
-17	Fortodol	B-OTH	B-PROD	-
+17	Fortodol	O	B-PROD	-
 18	.	O	O	-
 
 # sent_id = 018495
@@ -7120,7 +7183,7 @@
 16	fikk	O	O	-
 17	han	O	O	-
 18	anbefalt	O	O	-
-19	Fortodol	B-OTH	B-PROD	-
+19	Fortodol	O	B-PROD	-
 20	av	O	O	-
 21	en	O	O	-
 22	bekjent	O	O	-
@@ -7373,7 +7436,7 @@
 5	av	O	O	-
 6	legemidler	O	O	-
 7	og	O	O	-
-8	Fortodol	B-OTH	B-PROD	-
+8	Fortodol	O	B-PROD	-
 9	.	O	O	-
 
 # sent_id = 018514
@@ -7394,7 +7457,7 @@
 # text = Men at Fortodol skulle ha noe å si, har han liten tro på.
 1	Men	O	O	-
 2	at	O	O	-
-3	Fortodol	B-OTH	B-PROD	-
+3	Fortodol	O	B-PROD	-
 4	skulle	O	O	-
 5	ha	O	O	-
 6	noe	O	O	-
@@ -7457,7 +7520,7 @@
 21	er	O	O	-
 22	at	O	O	-
 23	de	O	O	-
-24	Fortodol-kapslene	B-OTH	B-DRV	-
+24	Fortodol-kapslene	-	B-DRV	-
 25	Sverre	B-PER	B-PER	-
 26	har	O	O	-
 27	spist	O	O	-
@@ -7503,6 +7566,7 @@
 16	land	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 018521
 # text = De siste ti årene er Omega 3, vitaminer, mineraler, tran, urteblandinger og antioksidanter blitt big business i Norge.
 1	De	O	O	-
@@ -7826,6 +7890,7 @@
 19	tilskuddene	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 018536
 # text = - Det er svært alvorlig at noen tilsetter legemidler i kosttilskudd for å oppnå sterkere virkning.
 1	-	O	O	-
@@ -8239,6 +8304,7 @@
 38	Sommer	B-PER	B-PER	-
 39	.	O	O	-
 
+# newpar
 # sent_id = 018553
 # text = På Ahus ligger Sverre Murud og hikker.
 1	På	O	O	-
@@ -8673,6 +8739,7 @@
 6	sove	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 018578
 # text = Mens Sverre ligger på sykehuset, har Legemiddelverkene i Sverige og Norge begynt å få inn bivirkningsmeldinger etter bruk av Fortodol.
 1	Mens	O	O	-
@@ -8682,7 +8749,7 @@
 5	sykehuset	O	O	-
 6	,	O	O	-
 7	har	O	O	-
-8	Legemiddelverkene	B-OTH	B-DRV	-
+8	Legemiddelverkene	-	B-DRV	-
 9	i	O	O	-
 10	Sverige	B-LOC	B-GPE_LOC	-
 11	og	O	O	-
@@ -8695,7 +8762,7 @@
 18	etter	O	O	-
 19	bruk	O	O	-
 20	av	O	O	-
-21	Fortodol	B-OTH	B-PROD	-
+21	Fortodol	O	B-PROD	-
 22	.	O	O	-
 
 # sent_id = 018579
@@ -8786,7 +8853,7 @@
 2	oversender	O	O	-
 3	en	O	O	-
 4	boks	O	O	-
-5	Fortodol	B-OTH	B-PROD	-
+5	Fortodol	O	B-PROD	-
 6	til	O	O	-
 7	legemiddelmyndighetene	O	O	-
 8	i	O	O	-
@@ -8807,7 +8874,7 @@
 4	på	O	O	-
 5	det	O	O	-
 6	tidspunktet	O	O	-
-7	Fortodol	B-OTH	B-PROD	-
+7	Fortodol	O	B-PROD	-
 8	til	O	O	-
 9	alvorlig	O	O	-
 10	leversvikt	O	O	-
@@ -8905,7 +8972,7 @@
 12	har	O	O	-
 13	en	O	O	-
 14	boks	O	O	-
-15	Fortodol	B-OTH	B-PROD	-
+15	Fortodol	O	B-PROD	-
 16	som	O	O	-
 17	Sverre	B-PER	B-PER	-
 18	har	O	O	-
@@ -8959,7 +9026,7 @@
 6	ser	O	O	-
 7	dette	O	O	-
 8	på	O	O	-
-9	Aftenpostens	B-OTH	B-PROD	-
+9	Aftenpostens	O	B-PROD	-
 10	nettavis	O	O	-
 11	.	O	O	-
 
@@ -8999,6 +9066,7 @@
 14	døde	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 018595
 # text = Denne uken ble det kjent at ikke bare Sverres og én annens boks, men det meste av Fortodolet som er solgt i Norge, i alt syv millioner kapsler, har vært tilsatt nimesulid, slik Aftenposten skrev om på onsdag.
 1	Denne	O	O	-
@@ -9019,7 +9087,7 @@
 16	det	O	O	-
 17	meste	O	O	-
 18	av	O	O	-
-19	Fortodolet	B-OTH	B-DRV	-
+19	Fortodolet	-	B-DRV	-
 20	som	O	O	-
 21	er	O	O	-
 22	solgt	O	O	-
@@ -9067,7 +9135,7 @@
 1	Slutt	O	O	-
 2	å	O	O	-
 3	ta	O	O	-
-4	Fortodol	B-OTH	B-PROD	-
+4	Fortodol	O	B-PROD	-
 5	!	O	O	-
 
 # sent_id = 018598
@@ -9214,7 +9282,7 @@
 6	i	O	O	-
 7	å	O	O	-
 8	selge	O	O	-
-9	Fortodol	B-OTH	B-PROD	-
+9	Fortodol	O	B-PROD	-
 10	tilsatt	O	O	-
 11	nimesulid	O	O	-
 12	,	O	O	-
@@ -9336,7 +9404,7 @@
 2	ham	O	O	-
 3	hadde	O	O	-
 4	en	O	O	-
-5	Ibux	B-OTH	B-PROD	-
+5	Ibux	O	B-PROD	-
 6	vært	O	O	-
 7	mye	O	O	-
 8	bedre	O	O	-
@@ -9378,7 +9446,7 @@
 2	fortsette	O	O	-
 3	å	O	O	-
 4	selge	O	O	-
-5	Fortodol	B-OTH	B-PROD	-
+5	Fortodol	O	B-PROD	-
 6	.	O	O	-
 
 # sent_id = 018615
@@ -9422,7 +9490,7 @@
 # sent_id = 018617
 # text = At Fortodol feilaktig har inneholdt nimesulid er helt uakseptabelt, og det skulle ikke kunne skje med de rutinene og kvalitetssystemene vi har, sier hun.
 1	At	O	O	-
-2	Fortodol	B-OTH	B-PROD	-
+2	Fortodol	O	B-PROD	-
 3	feilaktig	O	O	-
 4	har	O	O	-
 5	inneholdt	O	O	-
@@ -9461,7 +9529,7 @@
 8	begynte	O	O	-
 9	å	O	O	-
 10	selge	O	O	-
-11	Fortodol	B-OTH	B-PROD	-
+11	Fortodol	O	B-PROD	-
 12	?	O	O	-
 
 # sent_id = 018619
@@ -9492,7 +9560,7 @@
 24	i	O	O	-
 25	fremstillingen	O	O	-
 26	av	O	O	-
-27	Fortodol	B-OTH	B-PROD	-
+27	Fortodol	O	B-PROD	-
 28	har	O	O	-
 29	vist	O	O	-
 30	seg	O	O	-
@@ -9640,7 +9708,7 @@
 19	som	O	O	-
 20	har	O	O	-
 21	importert	O	O	-
-22	Fortodol	B-OTH	B-PROD	-
+22	Fortodol	O	B-PROD	-
 23	til	O	O	-
 24	Sverige	B-LOC	B-GPE_LOC	-
 25	.	O	O	-
@@ -9728,7 +9796,7 @@
 16	på	O	O	-
 17	å	O	O	-
 18	trekke	O	O	-
-19	Fortodol	B-OTH	B-PROD	-
+19	Fortodol	O	B-PROD	-
 20	fra	O	O	-
 21	markedet	O	O	-
 22	.	O	O	-
@@ -9765,7 +9833,7 @@
 13	kontrollerer	O	O	-
 14	at	O	O	-
 15	alle	O	O	-
-16	Donsbach-produktene	B-OTH	B-DRV	-
+16	Donsbach-produktene	-	B-DRV	-
 17	kun	O	O	-
 18	inneholder	O	O	-
 19	det	O	O	-
@@ -9782,7 +9850,7 @@
 30	begynner	O	O	-
 31	å	O	O	-
 32	produsere	O	O	-
-33	Fortodol	B-OTH	B-PROD	-
+33	Fortodol	O	B-PROD	-
 34	igjen	O	O	-
 35	.	O	O	-
 
@@ -9832,6 +9900,7 @@
 21	juks	O	O	-
 22	.	O	O	-
 
+# newpar
 # sent_id = 018636
 # text = Siv Katrin Ramskjell mener helsekostbransjen alt i alt har vist seg å være veldig trygg.
 1	Siv	B-PER	B-PER	-
@@ -9977,7 +10046,7 @@
 11	av	O	O	-
 12	forurensninger	O	O	-
 13	av	O	O	-
-14	Aristolochia-arter	B-OTH	B-DRV	-
+14	Aristolochia-arter	-	B-DRV	-
 15	i	O	O	-
 16	kinesisk	O	O	-
 17	slankemedisin	O	O	-
@@ -10246,7 +10315,7 @@
 1	Bransjerådet	B-ORG	B-ORG	-
 2	analyserte	O	O	-
 3	også	O	O	-
-4	Fortodol	B-OTH	B-PROD	-
+4	Fortodol	O	B-PROD	-
 5	-	O	O	-
 6	uten	O	O	-
 7	å	O	O	-
@@ -10393,7 +10462,7 @@
 6	Legemiddelverket	B-ORG	B-ORG	-
 7	,	O	O	-
 8	mener	O	O	-
-9	Fortodol-saken	B-OTH	B-DRV	-
+9	Fortodol-saken	-	B-DRV	-
 10	viser	O	O	-
 11	at	O	O	-
 12	Bransjerådets	B-ORG	B-ORG	-
@@ -10593,6 +10662,7 @@
 11	til	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 018671
 # text = 22. juli 2008 er det varm sol på Kløfta.
 1	22.	O	O	-
@@ -10735,7 +10805,7 @@
 9	om	O	O	-
 10	leversvikten	O	O	-
 11	skyldes	O	O	-
-12	Fortodol	B-OTH	B-PROD	-
+12	Fortodol	O	B-PROD	-
 13	eller	O	O	-
 14	legemidlene	O	O	-
 15	han	O	O	-
@@ -11012,6 +11082,7 @@
 2	oss	O	O	-
 3	.	O	O	-
 
+# newpar
 # sent_id = 018699
 # text = Heldigvis visste vi ikke da at det skulle ta enda et døgn før vi fikk møte henne.
 1	Heldigvis	O	O	-
@@ -11089,6 +11160,7 @@
 4	nå	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 018705
 # text = Torsdag kveld fra Horgans.
 1	Torsdag	O	O	-
@@ -11097,6 +11169,7 @@
 4	Horgans	B-LOC	B-LOC	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 018706
 # text = I går var jeg, etter en halvtimes overtalelse og grov køsniking, på innsiden av Horgans - Norges mest beryktede drittsted for wannabe-keege BI-folk.
 1	I	O	O	-
@@ -11123,7 +11196,7 @@
 22	drittsted	O	O	-
 23	for	O	O	-
 24	wannabe-keege	O	O	-
-25	BI-folk	B-OTH	B-DRV	-
+25	BI-folk	-	B-DRV	-
 26	.	O	O	-
 
 # sent_id = 018707
@@ -11162,8 +11235,8 @@
 5	en	O	O	-
 6	33,3	O	O	-
 7	%	O	O	-
-8	Paradise	B-OTH	B-DRV	-
-9	Hotel-infiltrert	I-OTH	I-DRV	-
+8	Paradise	-	B-DRV	-
+9	Hotel-infiltrert	O	I-DRV	-
 10	trio	O	O	-
 11	.	O	O	-
 
@@ -11235,6 +11308,7 @@
 5	god	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 018714
 # text = Opplevelsen var som forventet.
 1	Opplevelsen	O	O	-
@@ -11432,6 +11506,7 @@
 10	det	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 018721
 # text = Med øl i hånd gjaldt det å finne seg et sted å sitte.
 1	Med	O	O	-
@@ -11495,8 +11570,8 @@
 12	likt	O	O	-
 13	kledd	O	O	-
 14	;	O	O	-
-15	Ralph	B-OTH	B-PROD	-
-16	Lauren	I-OTH	I-PROD	-
+15	Ralph	O	B-PROD	-
+16	Lauren	O	I-PROD	-
 17	og	O	O	-
 18	hva	O	O	-
 19	som	O	O	-
@@ -11632,6 +11707,7 @@
 1	ÆSJ	O	O	-
 2	!	O	O	-
 
+# newpar
 # sent_id = 018730
 # text = Men tilbake til min situasjon.
 1	Men	O	O	-
@@ -11666,10 +11742,10 @@
 21	om	O	O	-
 22	(	O	O	-
 23	ikledd	O	O	-
-24	Ralph	B-OTH	B-PROD	-
-25	Lauren	I-OTH	I-PROD	-
+24	Ralph	O	B-PROD	-
+25	Lauren	O	I-PROD	-
 26	og	O	O	-
-27	Volt-klær	B-OTH	B-DRV	-
+27	Volt-klær	-	B-DRV	-
 28	,	O	O	-
 29	selvsagt	O	O	-
 30	)	O	O	-
@@ -11710,6 +11786,7 @@
 65	nå	O	O	-
 66	.	O	O	-
 
+# newpar
 # sent_id = 018732
 # text = *Hold hodet kaldt, Halvor, du må få utløp for de vonde opplevelsene dine*
 1	*	O	O	-
@@ -11730,6 +11807,7 @@
 16	dine	O	O	-
 17	*	O	O	-
 
+# newpar
 # sent_id = 018733
 # text = Jo, bakgården!
 1	Jo	O	O	-
@@ -11904,6 +11982,7 @@
 60	fyllesex	O	O	-
 61	.	O	O	-
 
+# newpar
 # sent_id = 018738
 # text = Jeg skulle ønske at sammendraget mitt fra gårsdagen også innebar et dårlig forsøk på å sjekke opp en " Horigans-jente " men det stod desverre ikke verdigheten min til.
 1	Jeg	O	O	-
@@ -11925,7 +12004,7 @@
 17	opp	O	O	-
 18	en	O	O	-
 19	"	O	O	-
-20	Horigans-jente	B-OTH	B-DRV	-
+20	Horigans-jente	-	B-DRV	-
 21	"	O	O	-
 22	men	O	O	-
 23	det	O	O	-
@@ -11977,7 +12056,7 @@
 24	på	O	O	-
 25	de	O	O	-
 26	ekle	O	O	-
-27	nelly.com-kledde	B-OTH	B-DRV	-
+27	nelly.com-kledde	-	B-DRV	-
 28	jentene	O	O	-
 29	som	O	O	-
 30	vanker	O	O	-
@@ -12004,6 +12083,7 @@
 16	ok	O	O	-
 17	?	O	O	-
 
+# newpar
 # sent_id = 018742
 # text = Da gutta på Horgans begynte å sloss med hverandre fordi de hadde steket/hitlerhilset hverandre i ansiktet, forstod jeg at min tid var kommet.
 1	Da	O	O	-
@@ -12163,6 +12243,7 @@
 9	det	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 018750
 # text = Nå har jeg fått bekreftet myten min, og jeg vet med sikkerhet at det aldri blir en tur tilbake.
 1	Nå	O	O	-
@@ -12264,6 +12345,7 @@
 5	adjø	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 018756
 # text = Hvordan snakke med småjenter
 1	Hvordan	O	O	-
@@ -12271,6 +12353,7 @@
 3	med	O	O	-
 4	småjenter	O	O	-
 
+# newpar
 # sent_id = 018757
 # text = I sommer ble jeg kontaktet av journalist Ida Jevne fra Norgesglasset i P1.
 1	I	O	O	-
@@ -12283,9 +12366,9 @@
 8	Ida	B-PER	B-PER	-
 9	Jevne	I-PER	I-PER	-
 10	fra	O	O	-
-11	Norgesglasset	B-OTH	B-PROD	-
+11	Norgesglasset	O	B-PROD	-
 12	i	O	O	-
-13	P1	B-OTH	B-PROD	-
+13	P1	O	B-PROD	-
 14	.	O	O	-
 
 # sent_id = 018758
@@ -12331,6 +12414,7 @@
 5	jo	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 018760
 # text = For det er fryktelig fort gjort å bruke komplimenter for utseendet som åpning når man skal snakke med jenter.
 1	For	O	O	-
@@ -12392,6 +12476,7 @@
 34	på	O	O	-
 35	.	O	O	-
 
+# newpar
 # sent_id = 018762
 # text = Og jeg syns ikke det er greit.
 1	Og	O	O	-
@@ -12435,6 +12520,7 @@
 28	er	O	O	-
 29	.	O	O	-
 
+# newpar
 # sent_id = 018764
 # text = For noen år siden bestemte jeg meg for å snakke med Makeløs Niese om andre ting enn hvor nydelig hun er (for det er hun jo akkurat som brødrene sine).
 1	For	O	O	-
@@ -12516,6 +12602,7 @@
 5	!	O	O	-
 6	)	O	O	-
 
+# newpar
 # sent_id = 018767
 # text = Er du bevisst på hva du snakker om med småjenter?
 1	Er	O	O	-
@@ -12552,12 +12639,13 @@
 18	hvorfor	O	O	-
 19	?	O	O	-
 
+# newpar
 # sent_id = 018769
 # text = ( Saken i Norgesglasset kan du høre her.
 1	(	O	O	-
 2	Saken	O	O	-
 3	i	O	O	-
-4	Norgesglasset	B-OTH	B-PROD	-
+4	Norgesglasset	O	B-PROD	-
 5	kan	O	O	-
 6	du	O	O	-
 7	høre	O	O	-
@@ -12580,10 +12668,11 @@
 12	is	O	O	-
 13	pretty	O	O	-
 14	hos	O	O	-
-15	MamaMia	B-OTH	B-PROD	-
+15	MamaMia	O	B-PROD	-
 16	)	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 018771
 # text = De tjener på at du får barn
 1	De	O	O	-
@@ -12594,6 +12683,7 @@
 6	får	O	O	-
 7	barn	O	O	-
 
+# newpar
 # sent_id = 018772
 # text = Norske kvinner må få flere barn, sier Knut Arild Hareide.
 1	Norske	O	O	-
@@ -12625,6 +12715,7 @@
 4	det	O	O	-
 5	?	O	O	-
 
+# newpar
 # sent_id = 018775
 # text = Jeg har alltid visst at jeg ville ha barn, men aldri egentlig visst hvorfor.
 1	Jeg	O	O	-
@@ -12701,6 +12792,7 @@
 53	!	O	O	-
 54	»	O	O	-
 
+# newpar
 # sent_id = 018777
 # text = Ikke på noe tidspunkt har jeg stoppet opp og reflektert over de kreftene som finnes rundt meg og som jobber aktivt og utrettelig for å gi meg lyst på barn.
 1	Ikke	O	O	-
@@ -12747,6 +12839,7 @@
 8	barn	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 018779
 # text = I det siste har en annonse fra libero.no dukket opp i Facebookfeeden min.
 1	I	O	O	-
@@ -12756,11 +12849,11 @@
 5	en	O	O	-
 6	annonse	O	O	-
 7	fra	O	O	-
-8	libero.no	B-OTH	B-PROD	-
+8	libero.no	O	B-PROD	-
 9	dukket	O	O	-
 10	opp	O	O	-
 11	i	O	O	-
-12	Facebookfeeden	B-OTH	B-DRV	-
+12	Facebookfeeden	-	B-DRV	-
 13	min	O	O	-
 14	.	O	O	-
 
@@ -12816,6 +12909,7 @@
 14	.	O	O	-
 15	"	O	O	-
 
+# newpar
 # sent_id = 018783
 # text = Og så tenker jeg at dæven, de folka der kan umulig ha skiftet særlig mange bæsjebleier på trassige toåringer som nekter å ligge stille.
 1	Og	O	O	-
@@ -12912,6 +13006,7 @@
 27	bleier	O	O	-
 28	.	O	O	-
 
+# newpar
 # sent_id = 018787
 # text = Libero er ikke alene om å pushe ensidig baby- og familielykke.
 1	Libero	B-ORG	B-ORG	-
@@ -12959,6 +13054,7 @@
 28	barn	O	O	-
 29	.	O	O	-
 
+# newpar
 # sent_id = 018789
 # text = Har du noen gang lurt på hvorfor mammabladene har så fordømt positive artikler?
 1	Har	O	O	-
@@ -12995,7 +13091,7 @@
 8	innbiller	O	O	-
 9	meg	O	O	-
 10	,	O	O	-
-11	Mamma	B-OTH	B-PROD	-
+11	Mamma	O	B-PROD	-
 12	er	O	O	-
 13	for	O	O	-
 14	eksempel	O	O	-
@@ -13014,6 +13110,7 @@
 27	)	O	O	-
 28	.	O	O	-
 
+# newpar
 # sent_id = 018792
 # text = De gjør det ikke fordi de syns det er hyggelig med et positivt fokus, men fordi de har en kommersiell interesse i å fremstille barn som selve nøkkelen til fullkommen lykke.
 1	De	O	O	-
@@ -13082,6 +13179,7 @@
 8	mammabladene	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 018795
 # text = Det er naivt å tro at vi ikke blir påvirket av det.
 1	Det	O	O	-
@@ -13138,6 +13236,7 @@
 24	det	O	O	-
 25	.	O	O	-
 
+# newpar
 # sent_id = 018798
 # text = Men blir vi egentlig lykkeligere av å få barn?
 1	Men	O	O	-
@@ -13186,6 +13285,7 @@
 19	her	O	O	-
 20	?	O	O	-
 
+# newpar
 # sent_id = 018801
 # text = Arbeidsgivere motarbeider fedres rettigheter
 1	Arbeidsgivere	O	O	-
@@ -13193,6 +13293,7 @@
 3	fedres	O	O	-
 4	rettigheter	O	O	-
 
+# newpar
 # sent_id = 018802
 # text = Bedrifter betaler seg ut av pappapermen med bonus, skriver Aftenposten i dag.
 1	Bedrifter	O	O	-
@@ -13224,6 +13325,7 @@
 10	sur	O	O	-
 11	!	O	O	-
 
+# newpar
 # sent_id = 018804
 # text = For hvilke argumenter står en far igjen med dersom han ønsker pappaperm, men arbeidsgiver sier "nei, vi gir deg heller en feit bonus for å jobbe, sånn at kona di kan være hjemme med ungene"?
 1	For	O	O	-
@@ -13297,6 +13399,7 @@
 25	arbeidsgivere	O	O	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 018806
 # text = For helt ærlig, det passer jo aldri å være hjemme i permisjon.
 1	For	O	O	-
@@ -13363,6 +13466,7 @@
 12	også	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 018810
 # text = "Mannen min sitter på en svært verdifull kompetanse i den prosessen som selskapet er i nå", sier kona i det anonyme paret Aftenposten har intervjuet.
 1	"	O	O	-
@@ -13420,6 +13524,7 @@
 21	måneder	O	O	-
 22	.	O	O	-
 
+# newpar
 # sent_id = 018812
 # text = Hvorfor dukker dette argumentet stadig opp som grunn for at menn ikke kan ta permisjon?
 1	Hvorfor	O	O	-
@@ -13481,6 +13586,7 @@
 25	firmaet	O	O	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 018815
 # text = «Et annet sted i Oslo-området hadde far nettopp blitt leder i en nyopprettet bedrift da tiden kom for pappapermisjon med familiens yngste sønn.
 1	«	O	O	-
@@ -13488,7 +13594,7 @@
 3	annet	O	O	-
 4	sted	O	O	-
 5	i	O	O	-
-6	Oslo-området	B-OTH	B-DRV	-
+6	Oslo-området	-	B-DRV	-
 7	hadde	O	O	-
 8	far	O	O	-
 9	nettopp	O	O	-
@@ -13543,6 +13649,7 @@
 30	.	O	O	-
 31	"	O	O	-
 
+# newpar
 # sent_id = 018817
 # text = Men i alle dager!
 1	Men	O	O	-
@@ -13649,6 +13756,7 @@
 10	unnskyldning	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 018822
 # text = Åh, jeg er så uerstattelig av meg!
 1	Åh	O	O	-
@@ -13661,6 +13769,7 @@
 8	meg	O	O	-
 9	!	O	O	-
 
+# newpar
 # sent_id = 018823
 # text = Så da betaler arbeidsgiver for at mor i stedet må sette sin karriere til side og være hjemme litt lenger.
 1	Så	O	O	-
@@ -13697,6 +13806,7 @@
 8	løsning	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 018825
 # text = Men jäklar da!
 1	Men	O	O	-
@@ -13704,6 +13814,7 @@
 3	da	O	O	-
 4	!	O	O	-
 
+# newpar
 # sent_id = 018826
 # text = Jeg håper virkelig ikke dette er de samme folka som roper etter valgfrihet for familiene.
 1	Jeg	O	O	-
@@ -14383,7 +14494,7 @@
 13	skikkelig	O	O	-
 14	inn	O	O	-
 15	i	O	O	-
-16	Barnelovens	B-OTH	B-PROD	-
+16	Barnelovens	O	B-PROD	-
 17	bestemmelser	O	O	-
 
 # sent_id = 018869
@@ -16948,6 +17059,7 @@
 2	ledet	O	O	-
 3	adopsjonsnettverket	O	O	-
 
+# newpar
 # sent_id = 019013
 # text = Fire kvinner kontrollerte all adopsjon i Bergen.
 1	Fire	O	O	-
@@ -16982,6 +17094,7 @@
 8	turer	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 019016
 # text = Adopsjonsavdeling:
 1	Adopsjonsavdeling	O	O	-
@@ -17026,6 +17139,7 @@
 20	Os	B-LOC	B-GPE_LOC	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 019019
 # text = - Jeg husker Hjørdis som en moden, litt ferm og moderlig type.
 1	-	O	O	-
@@ -17590,8 +17704,8 @@
 3	ble	O	O	-
 4	intervjuet	O	O	-
 5	i	O	O	-
-6	Bergens	B-OTH	B-PROD	-
-7	Arbeiderblad	I-OTH	I-PROD	-
+6	Bergens	O	B-PROD	-
+7	Arbeiderblad	O	I-PROD	-
 8	i	O	O	-
 9	1964	O	O	-
 10	:	O	O	-
@@ -18149,7 +18263,7 @@
 1	I	O	O	-
 2	1954	O	O	-
 3	i	O	O	-
-4	BT	B-OTH	B-PROD	-
+4	BT	O	B-PROD	-
 5	var	O	O	-
 6	tittelen	O	O	-
 7	:	O	O	-
@@ -18165,7 +18279,7 @@
 17	var	O	O	-
 18	tittelen	O	O	-
 19	i	O	O	-
-20	BA	B-OTH	B-PROD	-
+20	BA	O	B-PROD	-
 21	:	O	O	-
 22	«	O	O	-
 23	300	O	O	-
@@ -18258,8 +18372,8 @@
 6	sin	O	O	-
 7	bok	O	O	-
 8	«	O	O	-
-9	Hender	B-OTH	B-PROD	-
-10	små	I-OTH	I-PROD	-
+9	Hender	O	B-PROD	-
+10	små	O	I-PROD	-
 11	»	O	O	-
 12	med	O	O	-
 13	at	O	O	-
@@ -19975,7 +20089,7 @@
 3	om	O	O	-
 4	henne	O	O	-
 5	i	O	O	-
-6	BT	B-OTH	B-PROD	-
+6	BT	O	B-PROD	-
 7	23.10.90	O	O	-
 8	skrev	O	O	-
 9	signaturen	O	O	-
@@ -20142,7 +20256,7 @@
 3	koster	O	O	-
 4	ikke	O	O	-
 5	den	O	O	-
-6	Chanelveska	B-OTH	B-DRV	-
+6	Chanelveska	-	B-DRV	-
 7	15	O	O	-
 8	000	O	O	-
 9	?	O	O	-
@@ -20578,7 +20692,7 @@
 10	på	O	O	-
 11	coveret	O	O	-
 12	av	O	O	-
-13	Elle	B-OTH	B-PROD	-
+13	Elle	O	B-PROD	-
 14	holder	O	O	-
 15	seg	O	O	-
 16	like	O	O	-
@@ -20731,7 +20845,7 @@
 3	hun	O	O	-
 4	en	O	O	-
 5	rød	O	O	-
-6	Prince	B-OTH	B-PROD	-
+6	Prince	O	B-PROD	-
 7	.	O	O	-
 
 # sent_id = 019219
@@ -20987,7 +21101,7 @@
 11	portrettert	O	O	-
 12	her	O	O	-
 13	i	O	O	-
-14	Magasinet	B-OTH	B-PROD	-
+14	Magasinet	O	B-PROD	-
 15	.	O	O	-
 
 # sent_id = 019235
@@ -21658,9 +21772,9 @@
 19	ta	O	O	-
 20	på	O	O	-
 21	seg	O	O	-
-22	Goretexjakke	B-OTH	B-DRV	-
+22	Goretexjakke	-	B-DRV	-
 23	og	O	O	-
-24	Ulvangtrøye	B-OTH	B-DRV	-
+24	Ulvangtrøye	-	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 019287
@@ -21680,6 +21794,7 @@
 2	du	O	O	-
 3	?	O	O	-
 
+# newpar
 # sent_id = 019289
 # text = - Brød med Omega-3?
 1	-	O	O	-
@@ -21695,6 +21810,7 @@
 3	verden	O	O	-
 4	!	O	O	-
 
+# newpar
 # sent_id = 019291
 # text = Øyvind Lofthus er en av Norges beste bakere.
 1	Øyvind	B-PER	B-PER	-
@@ -21707,6 +21823,7 @@
 8	bakere	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 019292
 # text = Ekte vare:
 1	Ekte	O	O	-
@@ -21939,7 +22056,7 @@
 5	er	O	O	-
 6	originale	O	O	-
 7	fra	O	O	-
-8	Dunlop-fabrikken	B-OTH	B-DRV	-
+8	Dunlop-fabrikken	-	B-DRV	-
 9	.	O	O	-
 
 # sent_id = 019315
@@ -21992,6 +22109,7 @@
 9	Spencer	I-ORG	I-ORG	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 019320
 # text = Allerede i døra hører man knitringen.
 1	Allerede	O	O	-
@@ -22329,7 +22447,7 @@
 3	kjøkkenet	O	O	-
 4	kommer	O	O	-
 5	fra	O	O	-
-6	Dunlop-fabrikken	B-OTH	B-DRV	-
+6	Dunlop-fabrikken	-	B-DRV	-
 7	,	O	O	-
 8	stolene	O	O	-
 9	fra	O	O	-
@@ -22727,7 +22845,7 @@
 21	om	O	O	-
 22	bilder	O	O	-
 23	fra	O	O	-
-24	Sovjet-tida	B-OTH	B-DRV	-
+24	Sovjet-tida	-	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 019365
@@ -22890,7 +23008,7 @@
 6	og	O	O	-
 7	se	O	O	-
 8	«	O	O	-
-9	Tingeling	B-OTH	B-PROD	-
+9	Tingeling	O	B-PROD	-
 10	»	O	O	-
 11	.	O	O	-
 
@@ -23216,8 +23334,8 @@
 # text = For eksempel Heli Rekula-bildet av jenta med skudd i panna og blodet rennende, med en kanin foran i et kaldt, grått kystlandskap.
 1	For	O	O	-
 2	eksempel	O	O	-
-3	Heli	B-OTH	B-DRV	-
-4	Rekula-bildet	I-OTH	I-DRV	-
+3	Heli	-	B-DRV	-
+4	Rekula-bildet	O	I-DRV	-
 5	av	O	O	-
 6	jenta	O	O	-
 7	med	O	O	-
@@ -23605,6 +23723,7 @@
 5	en	O	O	-
 6	seier	O	O	-
 
+# newpar
 # sent_id = 019428
 # text = Bjørndalen på vei tilbake.
 1	Bjørndalen	B-PER	B-PER	-
@@ -23621,6 +23740,7 @@
 4	tredje	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 019430
 # text = Ole Einar Bjørndalen og Emil Hegle Svensen sørget for to norske på pallen under 15 kilometer skiskyting jaktstart i Østersund i dag.
 1	Ole	B-PER	B-PER	-
@@ -24034,6 +24154,7 @@
 4	22	O	O	-
 5	plasser	O	O	-
 
+# newpar
 # sent_id = 019453
 # text = Endte på sjetteplass.
 1	Endte	O	O	-
@@ -24041,6 +24162,7 @@
 3	sjetteplass	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 019454
 # text = Finske Anssi Koivuranta tok en suveren seier i verdenscuprennet i kombinert i Granåsen søndag.
 1	Finske	O	O	-
@@ -24231,6 +24353,7 @@
 31	52	O	O	-
 32	.	O	O	-
 
+# newpar
 # sent_id = 019465
 # text = Tora Berger skjøt seg bort
 1	Tora	B-PER	B-PER	-
@@ -24239,6 +24362,7 @@
 4	seg	O	O	-
 5	bort	O	O	-
 
+# newpar
 # sent_id = 019466
 # text = Endte på sjetteplass.
 1	Endte	O	O	-
@@ -24246,6 +24370,7 @@
 3	sjetteplass	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 019467
 # text = Èn bom:
 1	Èn	O	O	-
@@ -24265,6 +24390,7 @@
 9	ellevteplass	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 019469
 # text = I går skjøt hun feilfritt, men i dag var ikke Tora Berger like treffsikker.
 1	I	O	O	-
@@ -24422,6 +24548,7 @@
 4	i	O	O	-
 5	Granåsen	B-LOC	B-LOC	-
 
+# newpar
 # sent_id = 019478
 # text = - Mangler trygghet.
 1	-	O	O	-
@@ -24429,6 +24556,7 @@
 3	trygghet	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 019479
 # text = Simon Ammann vant verdenscuprennet i hopp i Granåsen søndag.
 1	Simon	B-PER	B-PER	-
@@ -24504,7 +24632,7 @@
 
 # sent_id = 019484
 # text = Molde-hopperen har kommet fra det store intet, og sikret seg tolvteplass søndag.
-1	Molde-hopperen	B-OTH	B-DRV	-
+1	Molde-hopperen	-	B-DRV	-
 2	har	O	O	-
 3	kommet	O	O	-
 4	fra	O	O	-
@@ -24682,6 +24810,7 @@
 12	finalen	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 019495
 # text = - Evensen kan bli best
 1	-	O	O	-
@@ -24690,6 +24819,7 @@
 4	bli	O	O	-
 5	best	O	O	-
 
+# newpar
 # sent_id = 019496
 # text = Bråthen roser hoppkometen.
 1	Bråthen	B-PER	B-PER	-
@@ -24697,6 +24827,7 @@
 3	hoppkometen	O	O	-
 4	.	O	O	-
 
+# newpar
 # sent_id = 019497
 # text = Skryter:
 1	Skryter	O	O	-
@@ -24717,6 +24848,7 @@
 11	best	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 019499
 # text = Sportssjef Clas Brede Bråthen er full av ros overfor Johan Remen Evensen etter helgens to verdenscuprenn i Granåsen.
 1	Sportssjef	O	O	-
@@ -25093,6 +25225,7 @@
 24	han	O	O	-
 25	.	O	O	-
 
+# newpar
 # sent_id = 019521
 # text = Tommy Sharif kjøpte Kollentårnet for 270.000 kroner
 1	Tommy	B-PER	B-PER	-
@@ -25103,6 +25236,7 @@
 6	270.000	O	O	-
 7	kroner	O	O	-
 
+# newpar
 # sent_id = 019522
 # text = Og går til angrep på Trond Giske.
 1	Og	O	O	-
@@ -25114,6 +25248,7 @@
 7	Giske	I-PER	I-PER	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 019523
 # text = Tommy Sharif sikret seg vinnerbudet på «Diamanten» på Holmenkollen-tårnet da nettauksjonen ble avsluttet søndag.
 1	Tommy	B-PER	B-PER	-
@@ -25123,10 +25258,10 @@
 5	vinnerbudet	O	O	-
 6	på	O	O	-
 7	«	O	O	-
-8	Diamanten	B-OTH	B-PROD	-
+8	Diamanten	O	B-PROD	-
 9	»	O	O	-
 10	på	O	O	-
-11	Holmenkollen-tårnet	B-OTH	B-DRV	-
+11	Holmenkollen-tårnet	-	B-DRV	-
 12	da	O	O	-
 13	nettauksjonen	O	O	-
 14	ble	O	O	-
@@ -25159,7 +25294,7 @@
 8	av	O	O	-
 9	det	O	O	-
 10	historiske	O	O	-
-11	Holmenkollen-tårnet	B-OTH	B-DRV	-
+11	Holmenkollen-tårnet	-	B-DRV	-
 12	var	O	O	-
 13	37.300	O	O	-
 14	dollar	O	O	-
@@ -25221,7 +25356,7 @@
 2	av	O	O	-
 3	det	O	O	-
 4	historiske	O	O	-
-5	Holmenkollen-tårnet	B-OTH	B-DRV	-
+5	Holmenkollen-tårnet	-	B-DRV	-
 6	,	O	O	-
 7	den	O	O	-
 8	såkalte	O	O	-
@@ -25285,7 +25420,7 @@
 # sent_id = 019531
 # text = «Diamanten» ble skilt fra resten av ovarennet i forbindelse med at den gamle hoppbakken ble revet.
 1	«	O	O	-
-2	Diamanten	B-OTH	B-PROD	-
+2	Diamanten	O	B-PROD	-
 3	»	O	O	-
 4	ble	O	O	-
 5	skilt	O	O	-
@@ -25349,7 +25484,7 @@
 8	,	O	O	-
 9	kaller	O	O	-
 10	«	O	O	-
-11	Diamanten	B-OTH	B-PROD	-
+11	Diamanten	O	B-PROD	-
 12	»	O	O	-
 13	et	O	O	-
 14	ekte	O	O	-
@@ -25388,7 +25523,7 @@
 # sent_id = 019536
 # text = «Diamanten» er klar for et nytt hjem, så by på «Diamanten» i Oslos kongekrone Holmenkollen, het det i annonseteksten.
 1	«	O	O	-
-2	Diamanten	B-OTH	B-PROD	-
+2	Diamanten	O	B-PROD	-
 3	»	O	O	-
 4	er	O	O	-
 5	klar	O	O	-
@@ -25401,7 +25536,7 @@
 12	by	O	O	-
 13	på	O	O	-
 14	«	O	O	-
-15	Diamanten	B-OTH	B-PROD	-
+15	Diamanten	O	B-PROD	-
 16	»	O	O	-
 17	i	O	O	-
 18	Oslos	B-LOC	B-GPE_LOC	-
@@ -25414,6 +25549,7 @@
 25	annonseteksten	O	O	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 019537
 # text = Et tidel unna trippel Aksel
 1	Et	O	O	-
@@ -25422,6 +25558,7 @@
 4	trippel	O	O	-
 5	Aksel	B-PER	B-PER	-
 
+# newpar
 # sent_id = 019538
 # text = Lund Svindal på pallen igjen.
 1	Lund	B-PER	B-PER	-
@@ -25431,6 +25568,7 @@
 5	igjen	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 019539
 # text = Aksel Lund Svindal vant både utfor og super-G i Beaver Creek, den samme bakken han falt og ødela både seg selv og forrige sesong i.
 1	Aksel	B-PER	B-PER	-
@@ -25988,6 +26126,7 @@
 2	til	O	O	-
 3	Vålerenga	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 019569
 # text = Scoret ti mål mot Lørenskog.
 1	Scoret	O	O	-
@@ -25997,6 +26136,7 @@
 5	Lørenskog	B-ORG	B-ORG	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 019570
 # text = Vålerenga imponerte med 10-2-seier over Lørenskog på Jordal Amfi søndag.
 1	Vålerenga	B-ORG	B-ORG	-
@@ -26067,7 +26207,7 @@
 4	det	O	O	-
 5	klart	O	O	-
 6	at	O	O	-
-7	VIF-keeper	B-OTH	B-DRV	-
+7	VIF-keeper	-	B-DRV	-
 8	Patrick	B-PER	B-PER	-
 9	DesRochers	I-PER	I-PER	-
 10	har	O	O	-
@@ -26075,7 +26215,7 @@
 12	under	O	O	-
 13	treårsavtale	O	O	-
 14	med	O	O	-
-15	Oslo-klubben	B-OTH	B-DRV	-
+15	Oslo-klubben	-	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 019574
@@ -26203,6 +26343,7 @@
 8	perioder	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 019580
 # text = Norge raknet mot Sveits
 1	Norge	B-ORG	B-ORG	-
@@ -26210,6 +26351,7 @@
 3	mot	O	O	-
 4	Sveits	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 019581
 # text = Tapte kamp to i VM.
 1	Tapte	O	O	-
@@ -26219,6 +26361,7 @@
 5	VM	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 019582
 # text = Norge så ut til å gjøre nok en god kamp i innebandy-VM i Ostrava, men raknet i siste periode og tapte 6-9 for Sveits søndag.
 1	Norge	B-ORG	B-ORG	-
@@ -26427,7 +26570,7 @@
 
 # sent_id = 019592
 # text = Ap-sekretæren har sett seg mektig lei på Frp angrep på regjeringens verdighetsgaranti i eldreomsorgen.
-1	Ap-sekretæren	B-OTH	B-DRV	-
+1	Ap-sekretæren	-	B-DRV	-
 2	har	O	O	-
 3	sett	O	O	-
 4	seg	O	O	-
@@ -26496,7 +26639,7 @@
 9	innenfor	O	O	-
 10	eldreomsorgen	O	O	-
 11	i	O	O	-
-12	Kommune-Norge	B-OTH	B-DRV	-
+12	Kommune-Norge	-	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 019596
@@ -26715,7 +26858,7 @@
 
 # sent_id = 019605
 # text = Ap-sekretæren frykter det til slutt vil tvinge seg fram en diskusjon om øremerkede tilskudd for å ruste opp eldreomsorgen i kommunene.
-1	Ap-sekretæren	B-OTH	B-DRV	-
+1	Ap-sekretæren	-	B-DRV	-
 2	frykter	O	O	-
 3	det	O	O	-
 4	til	O	O	-
@@ -26834,7 +26977,7 @@
 # sent_id = 019611
 # text = Men Ap-sekretæren frykter for eldreløftet dersom høyrepartiene overtar makten.
 1	Men	O	O	-
-2	Ap-sekretæren	B-OTH	B-DRV	-
+2	Ap-sekretæren	-	B-DRV	-
 3	frykter	O	O	-
 4	for	O	O	-
 5	eldreløftet	O	O	-
@@ -26903,7 +27046,7 @@
 3	imidlertid	O	O	-
 4	at	O	O	-
 5	også	O	O	-
-6	Ap-styrte	B-OTH	B-DRV	-
+6	Ap-styrte	-	B-DRV	-
 7	kommuner	O	O	-
 8	må	O	O	-
 9	ta	O	O	-
@@ -26973,11 +27116,13 @@
 1	Ingen	O	O	-
 2	grenser	O	O	-
 
+# newpar
 # sent_id = 019619
 # text = Dagens leder
 1	Dagens	O	O	-
 2	leder	O	O	-
 
+# newpar
 # sent_id = 019620
 # text = Usikkerheten rundt hva som vil bli den endelige prislappen for kjøpet av F-35-flyene skaper berettiget uro, og i dagens avis heller statssekretær i Forsvarsdepartementet Roger Ingebriktsen (Ap) bensin på bålet.
 1	Usikkerheten	O	O	-
@@ -26992,7 +27137,7 @@
 10	for	O	O	-
 11	kjøpet	O	O	-
 12	av	O	O	-
-13	F-35-flyene	B-OTH	B-DRV	-
+13	F-35-flyene	-	B-DRV	-
 14	skaper	O	O	-
 15	berettiget	O	O	-
 16	uro	O	O	-
@@ -27256,7 +27401,7 @@
 # text = Ideen med F-35 var å lage et rimelig taktisk kampfly som skulle erstatte minst fire andre flytyper.
 1	Ideen	O	O	-
 2	med	O	O	-
-3	F-35	B-OTH	B-PROD	-
+3	F-35	O	B-PROD	-
 4	var	O	O	-
 5	å	O	O	-
 6	lage	O	O	-
@@ -27347,7 +27492,7 @@
 2	melder	O	O	-
 3	at	O	O	-
 4	selv	O	O	-
-5	F-35-tilhenger	B-OTH	B-DRV	-
+5	F-35-tilhenger	-	B-DRV	-
 6	Robert	B-PER	B-PER	-
 7	Gates	I-PER	I-PER	-
 8	nå	O	O	-
@@ -27379,7 +27524,7 @@
 13	uforbeholdne	O	O	-
 14	støtte	O	O	-
 15	til	O	O	-
-16	F-35	B-OTH	B-PROD	-
+16	F-35	O	B-PROD	-
 17	.	O	O	-
 
 # sent_id = 019638
@@ -27417,11 +27562,13 @@
 1	Lav	O	O	-
 2	deltakelse	O	O	-
 
+# newpar
 # sent_id = 019640
 # text = Dagens leder
 1	Dagens	O	O	-
 2	leder	O	O	-
 
+# newpar
 # sent_id = 019641
 # text = Ved kommune- og fylkestingsvalget i 2007 var det for første gang siden 1979 vekst i valgdeltakelsen på 2,4 prosentpoeng sammenliknet med forrige lokalvalg.
 1	Ved	O	O	-
@@ -27837,6 +27984,7 @@
 2	Krigsviljen	O	O	-
 3	størst	O	O	-
 
+# newpar
 # sent_id = 019658
 # text = Ingen dialog:
 1	Ingen	O	O	-
@@ -27872,6 +28020,7 @@
 14	Vikør	I-PER	I-PER	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 019661
 # text = Etter røyken har lagt seg:
 1	Etter	O	O	-
@@ -27894,7 +28043,7 @@
 
 # sent_id = 019663
 # text = Midtøsten-ekspert Knut S. Vikør frykter at sivile i Gaddafis resterende maktbaser kan bli utsatt for hevntokt av opprørerne.
-1	Midtøsten-ekspert	B-OTH	B-DRV	-
+1	Midtøsten-ekspert	-	B-DRV	-
 2	Knut	B-PER	B-PER	-
 3	S.	I-PER	I-PER	-
 4	Vikør	I-PER	I-PER	-
@@ -27928,6 +28077,7 @@
 5	/	O	O	-
 6	Scanpix	B-ORG	B-ORG	-
 
+# newpar
 # sent_id = 019666
 # text = - Både Nato, opprørerne, og Gaddafi har vært villige til å ta kostnadene av krigen.
 1	-	O	O	-
@@ -28087,7 +28237,7 @@
 5	gjennomgående	O	O	-
 6	faktor	O	O	-
 7	i	O	O	-
-8	Libya-krigen	B-OTH	B-EVT	-
+8	Libya-krigen	O	B-EVT	-
 9	.	O	O	-
 
 # sent_id = 019674
@@ -28256,7 +28406,7 @@
 # text = Søndag bombet Nato-fly fortsatt mål i byen Sirte, 55 mil øst for Tripoli.
 1	Søndag	O	O	-
 2	bombet	O	O	-
-3	Nato-fly	B-OTH	B-DRV	-
+3	Nato-fly	-	B-DRV	-
 4	fortsatt	O	O	-
 5	mål	O	O	-
 6	i	O	O	-
@@ -28350,7 +28500,7 @@
 15	konsekvensene	O	O	-
 16	for	O	O	-
 17	sivile	O	O	-
-18	Gaddafi-tilhengere	B-OTH	B-DRV	-
+18	Gaddafi-tilhengere	-	B-DRV	-
 19	.	O	O	-
 
 # sent_id = 019688
@@ -28375,7 +28525,7 @@
 5	om	O	O	-
 6	drap	O	O	-
 7	på	O	O	-
-8	Gaddafi-lojalister	B-OTH	B-DRV	-
+8	Gaddafi-lojalister	-	B-DRV	-
 9	flere	O	O	-
 10	steder	O	O	-
 11	i	O	O	-
@@ -28393,8 +28543,8 @@
 7	frykte	O	O	-
 8	hevntokter	O	O	-
 9	mot	O	O	-
-10	Gaddafi	B-OTH	B-DRV	-
-11	lojalister	I-OTH	I-DRV	-
+10	Gaddafi	-	B-DRV	-
+11	lojalister	O	I-DRV	-
 12	i	O	O	-
 13	Sirte	B-LOC	B-GPE_LOC	-
 14	?	O	O	-
@@ -28431,7 +28581,7 @@
 1	Sirte	B-LOC	B-GPE_LOC	-
 2	er	O	O	-
 3	et	O	O	-
-4	Gaddafi-lojalt	B-OTH	B-DRV	-
+4	Gaddafi-lojalt	-	B-DRV	-
 5	sentrum	O	O	-
 6	med	O	O	-
 7	svært	O	O	-
@@ -28908,8 +29058,8 @@
 14	er	O	O	-
 15	sterkest	O	O	-
 16	i	O	O	-
-17	Jan	B-OTH	B-DRV	-
-18	Mayen-området	I-OTH	I-DRV	-
+17	Jan	-	B-DRV	-
+18	Mayen-området	O	I-DRV	-
 19	,	O	O	-
 20	nemlig	O	O	-
 21	ved	O	O	-
@@ -29327,8 +29477,8 @@
 31	i	O	O	-
 32	medhold	O	O	-
 33	av	O	O	-
-34	Jan	B-OTH	B-PROD	-
-35	Mayen-loven	I-OTH	I-PROD	-
+34	Jan	O	B-PROD	-
+35	Mayen-loven	O	I-PROD	-
 36	.	O	O	-
 
 # sent_id = 019731
@@ -29633,8 +29783,8 @@
 22	miljøforskrift	O	O	-
 23	og	O	O	-
 24	at	O	O	-
-25	Jan	B-OTH	B-PROD	-
-26	Mayen-loven	I-OTH	I-PROD	-
+25	Jan	O	B-PROD	-
+26	Mayen-loven	O	I-PROD	-
 27	får	O	O	-
 28	en	O	O	-
 29	uttrykkelig	O	O	-
@@ -29824,8 +29974,8 @@
 4	for	O	O	-
 5	bestemmelsene	O	O	-
 6	om	O	O	-
-7	Svalbards	B-OTH	B-PROD	-
-8	miljøvernfond	I-OTH	I-PROD	-
+7	Svalbards	O	B-PROD	-
+8	miljøvernfond	O	I-PROD	-
 9	.	O	O	-
 
 # sent_id = 019749
@@ -29915,8 +30065,8 @@
 14	utvalget	O	O	-
 15	foreslår	O	O	-
 16	i	O	O	-
-17	Jan	B-OTH	B-PROD	-
-18	Mayen-loven	I-OTH	I-PROD	-
+17	Jan	O	B-PROD	-
+18	Mayen-loven	O	I-PROD	-
 19	§	O	O	-
 20	2	O	O	-
 21	tredje	O	O	-
@@ -29939,6 +30089,7 @@
 2	i	O	O	-
 3	lufta	O	O	-
 
+# newpar
 # sent_id = 019753
 # text = Bonuspoeng
 1	Bonuspoeng	O	O	-
@@ -30627,6 +30778,7 @@
 7	energi	O	O	-
 8	!	O	O	-
 
+# newpar
 # sent_id = 019780
 # text = Tilsvar til Lien
 1	Tilsvar	O	O	-
@@ -30644,7 +30796,7 @@
 7	og	O	O	-
 8	bioenergi	O	O	-
 9	i	O	O	-
-10	Sunnmørsposten	B-OTH	B-PROD	-
+10	Sunnmørsposten	O	B-PROD	-
 11	18	O	O	-
 12	august	O	O	-
 13	.	O	O	-
@@ -31019,7 +31171,7 @@
 30	energi	O	O	-
 31	som	O	O	-
 32	20	O	O	-
-33	Sauda-utbygginger	B-OTH	B-DRV	-
+33	Sauda-utbygginger	-	B-DRV	-
 34	utgjør	O	O	-
 35	.	O	O	-
 
@@ -31431,6 +31583,7 @@
 4	i	O	O	-
 5	abortdebatten	O	O	-
 
+# newpar
 # sent_id = 019819
 # text = Ludvig Nessa, Norges mest omstridte abortmotstander, vil ha abortsaken inn i valgkampen og tyr som tidligere til drastiske virkemidler som brev med plastfostre og blodige bilder.
 1	Ludvig	B-PER	B-PER	-
@@ -31698,6 +31851,7 @@
 4	stabil	O	O	-
 5	fiskeripolitikk	O	O	-
 
+# newpar
 # sent_id = 019830
 # text = «i morgen arrangerer Aalesunds Rederiforening den store fiskeripolitiske debatten i valkampen.
 1	«	O	O	-
@@ -31774,6 +31928,7 @@
 6	viktig	O	O	-
 7	»	O	O	-
 
+# newpar
 # sent_id = 019834
 # text = De siste årene har Stortinget vært enig i målsettingene om stabile rammevilkår for fiskeflåten.
 1	De	O	O	-
@@ -32471,7 +32626,7 @@
 8	ulike	O	O	-
 9	deler	O	O	-
 10	av	O	O	-
-11	distrikts-Norge	B-OTH	B-DRV	-
+11	distrikts-Norge	-	B-DRV	-
 12	uten	O	O	-
 13	konkurransevridning	O	O	-
 14	og	O	O	-
@@ -32726,6 +32881,7 @@
 5	barna	O	O	-
 6	!	O	O	-
 
+# newpar
 # sent_id = 019884
 # text = Nå er skolen i gang igjen og forfallet rundt i landet dukker opp igjen.
 1	Nå	O	O	-
@@ -32926,6 +33082,7 @@
 5	med	O	O	-
 6	fiskebåt	O	O	-
 
+# newpar
 # sent_id = 019896
 # text = Ingen personer kom til skade da lasteskipet "Ålfjord" natt til mandag gikk til bunns etter en kollisjon med en fiskebåt på Hustadvika i Møre og Romsdal.
 1	Ingen	O	O	-
@@ -32936,7 +33093,7 @@
 6	da	O	O	-
 7	lasteskipet	O	O	-
 8	"	O	O	-
-9	Ålfjord	B-OTH	B-PROD	-
+9	Ålfjord	O	B-PROD	-
 10	"	O	O	-
 11	natt	O	O	-
 12	til	O	O	-
@@ -32958,6 +33115,7 @@
 28	Romsdal	I-LOC	I-GPE_LOC	-
 29	.	O	O	-
 
+# newpar
 # sent_id = 019897
 # text = - Ingen personer ble skadd, men lastebåten gikk til bunns, opplyser redningsleder Eric Willassen ved Hovedredningssentralen Sør-Norge (HRS) til NTB.
 1	-	O	O	-
@@ -32997,7 +33155,7 @@
 7	i	O	O	-
 8	lasteskipet	O	O	-
 9	«	O	O	-
-10	Ålfjord	B-OTH	B-PROD	-
+10	Ålfjord	O	B-PROD	-
 11	»	O	O	-
 12	,	O	O	-
 13	og	O	O	-
@@ -33035,10 +33193,10 @@
 3	av	O	O	-
 4	dem	O	O	-
 5	,	O	O	-
-6	RS	B-OTH	B-PROD	-
-7	«	I-OTH	I-PROD	-
-8	Platou	I-OTH	I-PROD	-
-9	»	I-OTH	I-PROD	-
+6	RS	O	B-PROD	-
+7	«	O	I-PROD	-
+8	Platou	O	I-PROD	-
+9	»	O	I-PROD	-
 10	,	O	O	-
 11	tok	O	O	-
 12	med	O	O	-
@@ -33136,6 +33294,7 @@
 4	i	O	O	-
 5	Trondheim	B-LOC	B-GPE_LOC	-
 
+# newpar
 # sent_id = 019907
 # text = Helse- og omsorgsdepartementet har gitt beskjed om at nye St. Olavs hospital ikke kan forvente flere statlige tilskudd.
 1	Helse-	B-ORG	B-ORG	-
@@ -33175,6 +33334,7 @@
 13	fullføres	O	O	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 019909
 # text = I et møte med departementet onsdag fikk Helse Midt-Norge beskjed om at det ikke kan ventes ytterligere tilskudd til investeringer eller driftskostnader knyttet til bygging av nytt sykehus i Trondheim.
 1	I	O	O	-
@@ -33689,7 +33849,7 @@
 5	forsterke	O	O	-
 6	hovedlinjene	O	O	-
 7	i	O	O	-
-8	Kunnskapsløftet	B-OTH	B-PROD	-
+8	Kunnskapsløftet	O	B-PROD	-
 9	.	O	O	-
 
 # sent_id = 019940
@@ -34751,7 +34911,7 @@
 2	vil	O	O	-
 3	følge	O	O	-
 4	opp	O	O	-
-5	Kulturløftet	B-OTH	B-PROD	-
+5	Kulturløftet	O	B-PROD	-
 6	gjennom	O	O	-
 7	en	O	O	-
 8	opptrapping	O	O	-
@@ -35536,6 +35696,7 @@
 12	hjelp	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 020034
 # text = Norsk Polarinstitutt har i mange år forsket på sel, pingviner og sjøfugl på øya.
 1	Norsk	B-ORG	B-ORG	-
@@ -35579,17 +35740,17 @@
 
 # sent_id = 020037
 # text = Konvensjonen for bevaring av marine levende ressurser i Antarktis (CCAMLR) ble inngått mellom 25 stater for å koordinere forskningsaktiviteter, som igjen skal gi grunnlag for retningslinjer for fangst og kvotesetting.
-1	Konvensjonen	B-OTH	B-PROD	-
-2	for	I-OTH	I-PROD	-
-3	bevaring	I-OTH	I-PROD	-
-4	av	I-OTH	I-PROD	-
-5	marine	I-OTH	I-PROD	-
-6	levende	I-OTH	I-PROD	-
-7	ressurser	I-OTH	I-PROD	-
-8	i	I-OTH	I-PROD	-
-9	Antarktis	I-OTH	I-PROD	-
+1	Konvensjonen	O	B-PROD	-
+2	for	O	I-PROD	-
+3	bevaring	O	I-PROD	-
+4	av	O	I-PROD	-
+5	marine	O	I-PROD	-
+6	levende	O	I-PROD	-
+7	ressurser	O	I-PROD	-
+8	i	O	I-PROD	-
+9	Antarktis	O	I-PROD	-
 10	(	O	O	-
-11	CCAMLR	B-OTH	B-PROD	-
+11	CCAMLR	O	B-PROD	-
 12	)	O	O	-
 13	ble	O	O	-
 14	inngått	O	O	-
@@ -35709,6 +35870,7 @@
 27	øya	O	O	-
 28	.	O	O	-
 
+# newpar
 # sent_id = 020042
 # text = 1. desember var det 85 år siden Lars Christensen og den første "Norvegia"-ekspedisjonen plantet det norske flagget og erklærte øya for norsk territorium.
 1	1.	O	O	-
@@ -35723,10 +35885,10 @@
 10	og	O	O	-
 11	den	O	O	-
 12	første	O	O	-
-13	"	B-OTH	B-DRV	-
-14	Norvegia	I-OTH	I-DRV	-
-15	"	I-OTH	I-DRV	-
-16	-ekspedisjonen	I-OTH	I-DRV	-
+13	"	-	B-DRV	-
+14	Norvegia	O	I-DRV	-
+15	"	O	I-DRV	-
+16	-ekspedisjonen	O	I-DRV	-
 17	plantet	O	O	-
 18	det	O	O	-
 19	norske	O	O	-

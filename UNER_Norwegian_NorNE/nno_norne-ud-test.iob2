@@ -42,6 +42,7 @@
 20	Hellas	B-LOC	B-GPE_LOC	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 016067
 # text = No finn du matyoghurt i dei fleste butikkar, viss du ikkje finn det kan du la vanleg naturell yoghurt henge i eit kaffefilter i ei trakt nokre timar, slik at mesteparten av væta renn av, eller du kan bruke kesam eller lett crème fraïche.
 1	No	O	O	-
@@ -123,6 +124,7 @@
 12	andre	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016070
 # text = Slik gjorde eg det:
 1	Slik	O	O	-
@@ -131,6 +133,7 @@
 4	det	O	O	-
 5	:	O	O	-
 
+# newpar
 # sent_id = 016071
 # text = Pastasalat med bakte grønsaker
 1	Pastasalat	O	O	-
@@ -138,45 +141,53 @@
 3	bakte	O	O	-
 4	grønsaker	O	O	-
 
+# newpar
 # sent_id = 016072
 # text = 500 g fullkornspasta
 1	500	O	O	-
 2	g	O	O	-
 3	fullkornspasta	O	O	-
 
+# newpar
 # sent_id = 016073
 # text = 2 pastinakkar
 1	2	O	O	-
 2	pastinakkar	O	O	-
 
+# newpar
 # sent_id = 016074
 # text = 1 stor løk
 1	1	O	O	-
 2	stor	O	O	-
 3	løk	O	O	-
 
+# newpar
 # sent_id = 016075
 # text = 1 aubergine
 1	1	O	O	-
 2	aubergine	O	O	-
 
+# newpar
 # sent_id = 016076
 # text = 1 squash
 1	1	O	O	-
 2	squash	O	O	-
 
+# newpar
 # sent_id = 016077
 # text = 2 raude paprikaer
 1	2	O	O	-
 2	raude	O	O	-
 3	paprikaer	O	O	-
 
+# newpar
 # sent_id = 016078
 # text = 200 g cherrytomatar
 1	200	O	O	-
 2	g	O	O	-
 3	cherrytomatar	O	O	-
 
+# newpar
 # sent_id = 016079
 # text = 50 g blanda, ferske urter, som oregano, persille, timian og basilikum
 1	50	O	O	-
@@ -195,18 +206,21 @@
 14	og	O	O	-
 15	basilikum	O	O	-
 
+# newpar
 # sent_id = 016080
 # text = 3 ss olivenolje
 1	3	O	O	-
 2	ss	O	O	-
 3	olivenolje	O	O	-
 
+# newpar
 # sent_id = 016081
 # text = 2 ts salt
 1	2	O	O	-
 2	ts	O	O	-
 3	salt	O	O	-
 
+# newpar
 # sent_id = 016082
 # text = Ekstra olivenoje, salt og peppar
 1	Ekstra	O	O	-
@@ -216,6 +230,7 @@
 5	og	O	O	-
 6	peppar	O	O	-
 
+# newpar
 # sent_id = 016083
 # text = 2 ss kvit balsamicoeddik
 1	2	O	O	-
@@ -223,6 +238,7 @@
 3	kvit	O	O	-
 4	balsamicoeddik	O	O	-
 
+# newpar
 # sent_id = 016084
 # text = Set omnen på 200 grader.
 1	Set	O	O	-
@@ -248,6 +264,7 @@
 12	pasta	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016086
 # text = Sett til side.
 1	Sett	O	O	-
@@ -305,6 +322,7 @@
 18	tørt	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 016091
 # text = Hell det heile i ei eldfast form, og bak det i omnen på 200 grader i 20 minutt.
 1	Hell	O	O	-
@@ -355,6 +373,7 @@
 14	asjett	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 016094
 # text = Sett det til side.
 1	Sett	O	O	-
@@ -393,6 +412,7 @@
 12	stilk	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016097
 # text = Del dei i båtar.
 1	Del	O	O	-
@@ -468,6 +488,7 @@
 8	til	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 016102
 # text = Ta forma ut etter ti minutt, vend på grønsakene og legg på cherrytomatane før du bakar det heile ti minutt til.
 1	Ta	O	O	-
@@ -551,6 +572,7 @@
 11	serveringsfat	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 016107
 # text = Ringle over balsamicoeddik og server.
 1	Ringle	O	O	-
@@ -560,10 +582,12 @@
 5	server	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 016108
 # text = Tsatsiki
 1	Tsatsiki	O	O	-
 
+# newpar
 # sent_id = 016109
 # text = 1 beger matyoghurt eller lett crème fraïche
 1	1	O	O	-
@@ -574,17 +598,20 @@
 6	crème	O	O	-
 7	fraïche	O	O	-
 
+# newpar
 # sent_id = 016110
 # text = 1 agurk
 1	1	O	O	-
 2	agurk	O	O	-
 
+# newpar
 # sent_id = 016111
 # text = 1 ts salt
 1	1	O	O	-
 2	ts	O	O	-
 3	salt	O	O	-
 
+# newpar
 # sent_id = 016112
 # text = to klyper svart peppar
 1	to	O	O	-
@@ -592,6 +619,7 @@
 3	svart	O	O	-
 4	peppar	O	O	-
 
+# newpar
 # sent_id = 016113
 # text = 1 fedd kvitløk utan det grøne
 1	1	O	O	-
@@ -601,6 +629,7 @@
 5	det	O	O	-
 6	grøne	O	O	-
 
+# newpar
 # sent_id = 016114
 # text = 1 ts honning
 1	1	O	O	-
@@ -681,6 +710,7 @@
 18	peppar	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 016119
 # text = La tsatsikien stå og trekke litt før du smakar til på nytt.
 1	La	O	O	-
@@ -697,11 +727,13 @@
 12	nytt	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016120
 # text = Grilla kyllingbryst
 1	Grilla	O	O	-
 2	kyllingbryst	O	O	-
 
+# newpar
 # sent_id = 016121
 # text = 1-2 kyllingbryst per person
 1	1	O	O	-
@@ -711,18 +743,21 @@
 5	per	O	O	-
 6	person	O	O	-
 
+# newpar
 # sent_id = 016122
 # text = 3 ss olivenolje
 1	3	O	O	-
 2	ss	O	O	-
 3	olivenolje	O	O	-
 
+# newpar
 # sent_id = 016123
 # text = 2 ts salt
 1	2	O	O	-
 2	ts	O	O	-
 3	salt	O	O	-
 
+# newpar
 # sent_id = 016124
 # text = ½ ts peppar
 1	½	O	O	-
@@ -808,11 +843,12 @@
 7	fast	O	O	-
 8	bokmeldar	O	O	-
 9	for	O	O	-
-10	Dag	B-OTH	B-PROD	-
-11	og	I-OTH	I-PROD	-
-12	Tid	I-OTH	I-PROD	-
+10	Dag	O	B-PROD	-
+11	og	O	I-PROD	-
+12	Tid	O	I-PROD	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016131
 # text = Telenors nulltoleranse
 1	Telenors	B-ORG	B-ORG	-
@@ -838,9 +874,10 @@
 6	i	O	O	-
 7	Telenor	B-ORG	B-ORG	-
 8	til	O	O	-
-9	Dagsrevyen	B-OTH	B-PROD	-
+9	Dagsrevyen	O	B-PROD	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 016134
 # text = Men det gjeld tydelegvis berre offentleg - ikkje på styrerommet.
 1	Men	O	O	-
@@ -1186,6 +1223,7 @@
 31	underleverandørane	O	O	-
 32	.	O	O	-
 
+# newpar
 # sent_id = 016152
 # text = Slik sett ville det vore interessant å vita korleis etikkrådet i oljefondet stiller seg til Telenors praksis.
 1	Slik	O	O	-
@@ -1207,6 +1245,7 @@
 17	praksis	O	O	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 016153
 # text = Når rett vert gale
 1	Når	O	O	-
@@ -1235,6 +1274,7 @@
 10	tiandedelar	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 016156
 # text = Helst vil dei byrja med hjerneforskaren John Stein.
 1	Helst	O	O	-
@@ -1320,7 +1360,7 @@
 6	er	O	O	-
 7	fullt	O	O	-
 8	av	O	O	-
-9	EPA	B-OTH	B-MISC	-
+9	EPA	O	B-MISC	-
 10	(	O	O	-
 11	feittsyre	O	O	-
 12	som	O	O	-
@@ -1450,8 +1490,8 @@
 13	er	O	O	-
 14	dysleksi	O	O	-
 15	og	O	O	-
-16	Parkinsons	B-OTH	B-MISC	-
-17	sjukdom	I-OTH	I-MISC	-
+16	Parkinsons	O	B-MISC	-
+17	sjukdom	O	I-MISC	-
 18	.	O	O	-
 
 # sent_id = 016172
@@ -1809,7 +1849,7 @@
 6	det	O	O	-
 7	står	O	O	-
 8	på	O	O	-
-9	Wikipedia	B-OTH	B-PROD	-
+9	Wikipedia	O	B-PROD	-
 10	,	O	O	-
 11	«	O	O	-
 12	er	O	O	-
@@ -1851,9 +1891,9 @@
 7	ein	O	O	-
 8	artikkel	O	O	-
 9	i	O	O	-
-10	The	B-OTH	B-PROD	-
-11	Sunday	I-OTH	I-PROD	-
-12	Times	I-OTH	I-PROD	-
+10	The	O	B-PROD	-
+11	Sunday	O	I-PROD	-
+12	Times	O	I-PROD	-
 13	.	O	O	-
 
 # sent_id = 016192
@@ -2098,28 +2138,28 @@
 # text = Ho heiter Man and Morals. An Inquiry into the Maltreatment of Non-humans (Menneske og moral. Ei gransking av misbruk av ikkje-menneske).
 1	Ho	O	O	-
 2	heiter	O	O	-
-3	Man	B-OTH	B-PROD	-
-4	and	I-OTH	I-PROD	-
-5	Morals	I-OTH	I-PROD	-
-6	.	I-OTH	I-PROD	-
-7	An	I-OTH	I-PROD	-
-8	Inquiry	I-OTH	I-PROD	-
-9	into	I-OTH	I-PROD	-
-10	the	I-OTH	I-PROD	-
-11	Maltreatment	I-OTH	I-PROD	-
-12	of	I-OTH	I-PROD	-
-13	Non-humans	I-OTH	I-PROD	-
+3	Man	O	B-PROD	-
+4	and	O	I-PROD	-
+5	Morals	O	I-PROD	-
+6	.	O	I-PROD	-
+7	An	O	I-PROD	-
+8	Inquiry	O	I-PROD	-
+9	into	O	I-PROD	-
+10	the	O	I-PROD	-
+11	Maltreatment	O	I-PROD	-
+12	of	O	I-PROD	-
+13	Non-humans	O	I-PROD	-
 14	(	O	O	-
-15	Menneske	B-OTH	B-PROD	-
-16	og	I-OTH	I-PROD	-
-17	moral	I-OTH	I-PROD	-
-18	.	I-OTH	I-PROD	-
-19	Ei	I-OTH	I-PROD	-
-20	gransking	I-OTH	I-PROD	-
-21	av	I-OTH	I-PROD	-
-22	misbruk	I-OTH	I-PROD	-
-23	av	I-OTH	I-PROD	-
-24	ikkje-menneske	I-OTH	I-PROD	-
+15	Menneske	O	B-PROD	-
+16	og	O	I-PROD	-
+17	moral	O	I-PROD	-
+18	.	O	I-PROD	-
+19	Ei	O	I-PROD	-
+20	gransking	O	I-PROD	-
+21	av	O	I-PROD	-
+22	misbruk	O	I-PROD	-
+23	av	O	I-PROD	-
+24	ikkje-menneske	O	I-PROD	-
 25	)	O	O	-
 26	.	O	O	-
 
@@ -3499,8 +3539,8 @@
 18	ulike	O	O	-
 19	modellar	O	O	-
 20	på	O	O	-
-21	Parkinsons	B-OTH	B-MISC	-
-22	sjukdom	I-OTH	I-MISC	-
+21	Parkinsons	O	B-MISC	-
+22	sjukdom	O	I-MISC	-
 23	.	O	O	-
 
 # sent_id = 016272
@@ -3513,7 +3553,7 @@
 6	mild	O	O	-
 7	versjon	O	O	-
 8	av	O	O	-
-9	Parkinsons	B-OTH	B-MISC	-
+9	Parkinsons	O	B-MISC	-
 10	.	O	O	-
 
 # sent_id = 016273
@@ -3561,7 +3601,7 @@
 8	stoff	O	O	-
 9	som	O	O	-
 10	heiter	O	O	-
-11	MPTP	B-OTH	B-MISC	-
+11	MPTP	O	B-MISC	-
 12	.	O	O	-
 
 # sent_id = 016277
@@ -3685,7 +3725,7 @@
 4	hadde	O	O	-
 5	han	O	O	-
 6	utvikla	O	O	-
-7	Parkinsons	B-OTH	B-MISC	-
+7	Parkinsons	O	B-MISC	-
 8	.	O	O	-
 
 # sent_id = 016284
@@ -3697,7 +3737,7 @@
 5	andre	O	O	-
 6	studentar	O	O	-
 7	òg	O	O	-
-8	Parkinsons	B-OTH	B-MISC	-
+8	Parkinsons	O	B-MISC	-
 9	,	O	O	-
 10	noko	O	O	-
 11	som	O	O	-
@@ -3768,12 +3808,12 @@
 8	ved	O	O	-
 9	å	O	O	-
 10	nytta	O	O	-
-11	Levo-dopa	B-OTH	B-PROD	-
+11	Levo-dopa	O	B-PROD	-
 12	,	O	O	-
 13	ein	O	O	-
 14	medisin	O	O	-
 15	mot	O	O	-
-16	Parkinsons	B-OTH	B-MISC	-
+16	Parkinsons	O	B-MISC	-
 17	.	O	O	-
 
 # sent_id = 016288
@@ -3831,7 +3871,7 @@
 
 # sent_id = 016291
 # text = Parkinsons bryt ned dei same cellene hjå menneske.
-1	Parkinsons	B-OTH	B-MISC	-
+1	Parkinsons	O	B-MISC	-
 2	bryt	O	O	-
 3	ned	O	O	-
 4	dei	O	O	-
@@ -3899,7 +3939,7 @@
 25	forskinga	O	O	-
 26	si	O	O	-
 27	på	O	O	-
-28	Parkinsons	B-OTH	B-MISC	-
+28	Parkinsons	O	B-MISC	-
 29	.	O	O	-
 
 # sent_id = 016294
@@ -3922,7 +3962,7 @@
 16	å	O	O	-
 17	utvikla	O	O	-
 18	mild	O	O	-
-19	Parkinsons	B-OTH	B-MISC	-
+19	Parkinsons	O	B-MISC	-
 20	.	O	O	-
 
 # sent_id = 016295
@@ -3961,7 +4001,7 @@
 18	av	O	O	-
 19	symptoma	O	O	-
 20	på	O	O	-
-21	Parkinsons	B-OTH	B-MISC	-
+21	Parkinsons	O	B-MISC	-
 22	,	O	O	-
 23	den	O	O	-
 24	vantande	O	O	-
@@ -3992,14 +4032,14 @@
 # text = Jamvel om Parkinsons-pasientar kan verta hjelpte ved bruk av Levo-dopa, syner det seg at det medikamentet sluttar å ha ein effekt hjå eit fleirtal av pasientane etter nokre år.
 1	Jamvel	O	O	-
 2	om	O	O	-
-3	Parkinsons-pasientar	B-OTH	B-DRV	-
+3	Parkinsons-pasientar	-	B-DRV	-
 4	kan	O	O	-
 5	verta	O	O	-
 6	hjelpte	O	O	-
 7	ved	O	O	-
 8	bruk	O	O	-
 9	av	O	O	-
-10	Levo-dopa	B-OTH	B-PROD	-
+10	Levo-dopa	O	B-PROD	-
 11	,	O	O	-
 12	syner	O	O	-
 13	det	O	O	-
@@ -4574,7 +4614,7 @@
 7	brev	O	O	-
 8	fylte	O	O	-
 9	med	O	O	-
-10	HIV-infiserte	B-OTH	B-DRV	-
+10	HIV-infiserte	-	B-DRV	-
 11	barberblad	O	O	-
 12	har	O	O	-
 13	vorte	O	O	-
@@ -4815,7 +4855,7 @@
 16	dei	O	O	-
 17	mest	O	O	-
 18	kjende	O	O	-
-19	Labour-politikarane	B-OTH	B-DRV	-
+19	Labour-politikarane	-	B-DRV	-
 20	dei	O	O	-
 21	siste	O	O	-
 22	seksti	O	O	-
@@ -4843,7 +4883,7 @@
 7	med	O	O	-
 8	seg	O	O	-
 9	ein	O	O	-
-10	Parkinsons-pasient	B-OTH	B-DRV	-
+10	Parkinsons-pasient	-	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 016340
@@ -5668,7 +5708,7 @@
 8	finansiera	O	O	-
 9	forskinga	O	O	-
 10	på	O	O	-
-11	Parkinsons	B-OTH	B-MISC	-
+11	Parkinsons	O	B-MISC	-
 12	,	O	O	-
 13	ei	O	O	-
 14	liding	O	O	-
@@ -5802,8 +5842,8 @@
 23	liv	O	O	-
 24	,	O	O	-
 25	kunne	O	O	-
-26	The	B-OTH	B-PROD	-
-27	Guardian	I-OTH	I-PROD	-
+26	The	O	B-PROD	-
+27	Guardian	O	I-PROD	-
 28	fortelja	O	O	-
 29	for	O	O	-
 30	tre	O	O	-
@@ -5811,6 +5851,7 @@
 32	sidan	O	O	-
 33	.	O	O	-
 
+# newpar
 # sent_id = 016391
 # text = Solnedgang for oljealderen
 1	Solnedgang	O	O	-
@@ -5836,6 +5877,7 @@
 4	hydrogen	O	O	-
 5	.	O	O	-
 
+# newpar
 # sent_id = 016394
 # text = Men dei som trur ein kan halde oppe dagens aktivitet med slike middel, har ikkje spurt naturlovene om kva som er mogleg, skriv Erik Solheim.
 1	Men	O	O	-
@@ -5893,8 +5935,8 @@
 5	det	O	O	-
 6	tyske	O	O	-
 7	tidsskriftet	O	O	-
-8	Internationale	B-OTH	B-PROD	-
-9	Politik	I-OTH	I-PROD	-
+8	Internationale	O	B-PROD	-
+9	Politik	O	I-PROD	-
 10	varsla	O	O	-
 11	nyleg	O	O	-
 12	sjefsøkonom	O	O	-
@@ -5927,9 +5969,9 @@
 
 # sent_id = 016397
 # text = World Energy Outlook, den årlege publikasjonen frå IEA, spår i 2007-utgåva at oljeutvinninga kan falle med rundt 4 prosent i året.
-1	World	B-OTH	B-PROD	-
-2	Energy	I-OTH	I-PROD	-
-3	Outlook	I-OTH	I-PROD	-
+1	World	O	B-PROD	-
+2	Energy	O	I-PROD	-
+3	Outlook	O	I-PROD	-
 4	,	O	O	-
 5	den	O	O	-
 6	årlege	O	O	-
@@ -6341,7 +6383,7 @@
 12	i	O	O	-
 13	salongane	O	O	-
 14	på	O	O	-
-15	Titanic	B-OTH	B-PROD	-
+15	Titanic	O	B-PROD	-
 16	:	O	O	-
 
 # sent_id = 016419
@@ -6913,7 +6955,7 @@
 12	fortel	O	O	-
 13	den	O	O	-
 14	nordiske	O	O	-
-15	Kraftjournalen	B-OTH	B-PROD	-
+15	Kraftjournalen	O	B-PROD	-
 16	.	O	O	-
 
 # sent_id = 016450
@@ -7374,7 +7416,7 @@
 18	på	O	O	-
 19	dekket	O	O	-
 20	av	O	O	-
-21	Titanic	B-OTH	B-PROD	-
+21	Titanic	O	B-PROD	-
 22	.	O	O	-
 
 # sent_id = 016474
@@ -7388,12 +7430,14 @@
 7	Naturvernforbundet	B-ORG	B-ORG	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 016475
 # text = Statsmann på direkten
 1	Statsmann	O	O	-
 2	på	O	O	-
 3	direkten	O	O	-
 
+# newpar
 # sent_id = 016476
 # text = Carl I. Hagen er fjernsynsalderens Johan Sverdrup.
 1	Carl	B-PER	B-PER	-
@@ -8352,6 +8396,7 @@
 12	Oslo	I-ORG	I-ORG	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016531
 # text = Løgn eller gløymsle
 1	Løgn	O	O	-
@@ -8386,6 +8431,7 @@
 12	ikkje	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016534
 # text = Då har ein finansminister både rett og plikt til å lyga.
 1	Då	O	O	-
@@ -8433,7 +8479,7 @@
 
 # sent_id = 016536
 # text = Tromsø-saka er i utgangspunktet ei fillesak.
-1	Tromsø-saka	B-OTH	B-EVT	-
+1	Tromsø-saka	O	B-EVT	-
 2	er	O	O	-
 3	i	O	O	-
 4	utgangspunktet	O	O	-
@@ -8473,7 +8519,7 @@
 # sent_id = 016538
 # text = Og VG hevdar at Jonas Gahr Støre har sendt ein SMS som provar at han engasjerte seg for Tromsø som OL-by.
 1	Og	O	O	-
-2	VG	B-OTH	B-PROD	-
+2	VG	O	B-PROD	-
 3	hevdar	O	O	-
 4	at	O	O	-
 5	Jonas	B-PER	B-PER	-
@@ -8529,7 +8575,7 @@
 4	òg	O	O	-
 5	gjera	O	O	-
 6	med	O	O	-
-7	Haga-saka	B-OTH	B-EVT	-
+7	Haga-saka	O	B-EVT	-
 8	.	O	O	-
 
 # sent_id = 016542
@@ -8561,13 +8607,13 @@
 3	ein	O	O	-
 4	TV-debatt	O	O	-
 5	på	O	O	-
-6	NRK	B-OTH	B-PROD	-
+6	NRK	O	B-PROD	-
 7	17.	O	O	-
 8	februar	O	O	-
 9	i	O	O	-
 10	fjor	O	O	-
 11	får	O	O	-
-12	Brennpunkt-redaksjonen	B-OTH	B-DRV	-
+12	Brennpunkt-redaksjonen	-	B-DRV	-
 13	fram	O	O	-
 14	at	O	O	-
 15	ho	O	O	-
@@ -8775,6 +8821,7 @@
 27	vera	O	O	-
 28	.	O	O	-
 
+# newpar
 # sent_id = 016554
 # text = Det må politikarane ta høgd for.
 1	Det	O	O	-
@@ -8785,6 +8832,7 @@
 6	for	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 016555
 # text = Odd-Bjørn Hjelmeset sitt namn var ikkje med då Olympiatoppen plukka ut 23 utøvarar til OL i dag.
 1	Odd-Bjørn	B-PER	B-PER	-
@@ -8974,14 +9022,15 @@
 4	til	O	O	-
 5	OL	O	O	-
 6	er	O	O	-
-7	NM	B-OTH	B-EVT	-
-8	i	I-OTH	I-EVT	-
-9	Stokke	I-OTH	I-EVT	-
+7	NM	O	B-EVT	-
+8	i	O	I-EVT	-
+9	Stokke	O	I-EVT	-
 10	seinare	O	O	-
 11	denne	O	O	-
 12	veka	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016569
 # text = Fylte tanken på eks-sjefen si rekning
 1	Fylte	O	O	-
@@ -8991,6 +9040,7 @@
 5	si	O	O	-
 6	rekning	O	O	-
 
+# newpar
 # sent_id = 016570
 # text = No må mannen punge ut
 1	No	O	O	-
@@ -8999,6 +9049,7 @@
 4	punge	O	O	-
 5	ut	O	O	-
 
+# newpar
 # sent_id = 016571
 # text = Illustrasjon
 1	Illustrasjon	O	O	-
@@ -9153,6 +9204,7 @@
 21	gjorde	O	O	-
 22	.	O	O	-
 
+# newpar
 # sent_id = 016578
 # text = Spytta taxisjåføren rett i ansiktet
 1	Spytta	O	O	-
@@ -9161,6 +9213,7 @@
 4	i	O	O	-
 5	ansiktet	O	O	-
 
+# newpar
 # sent_id = 016579
 # text = Ikkje heilt einig med sjåføren - og spytta ut
 1	Ikkje	O	O	-
@@ -9173,6 +9226,7 @@
 8	spytta	O	O	-
 9	ut	O	O	-
 
+# newpar
 # sent_id = 016580
 # text = Illustrasjon
 1	Illustrasjon	O	O	-
@@ -9391,6 +9445,7 @@
 19	vern	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 016590
 # text = Pengedryss til filmskular i fylket
 1	Pengedryss	O	O	-
@@ -9399,6 +9454,7 @@
 4	i	O	O	-
 5	fylket	O	O	-
 
+# newpar
 # sent_id = 016591
 # text = Ove Eide er glad for pengane Firda vgs. får til filmprosjektet sitt.
 1	Ove	B-PER	B-PER	-
@@ -9692,13 +9748,14 @@
 17	Q-film	O	O	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 016607
 # text = - Jølster bør kjøpe Apneseth-samlinga
 1	-	O	O	-
 2	Jølster	B-ORG	B-GPE_ORG	-
 3	bør	O	O	-
 4	kjøpe	O	O	-
-5	Apneseth-samlinga	B-OTH	B-DRV	-
+5	Apneseth-samlinga	-	B-DRV	-
 
 # sent_id = 016608
 # text = - Jølster kommune bør sikre seg Oddleif Apneseth si unike fotosamling, seier Dagunn Klakegg i Førde.
@@ -9721,10 +9778,11 @@
 17	Førde	B-LOC	B-GPE_LOC	-
 18	.	O	O	-
 
+# newpar
 # sent_id = 016609
 # text = Men Jølster-ordføraren tvilar sterkt på om kommunen har råd.
 1	Men	O	O	-
-2	Jølster-ordføraren	B-OTH	B-DRV	-
+2	Jølster-ordføraren	-	B-DRV	-
 3	tvilar	O	O	-
 4	sterkt	O	O	-
 5	på	O	O	-
@@ -9734,6 +9792,7 @@
 9	råd	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 016610
 # text = Oddleiv Apneseth (biletet) brukte eitt år på å fotografere jølstringar.
 1	Oddleiv	B-PER	B-PER	-
@@ -10216,6 +10275,7 @@
 13	kommunestyret	O	O	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 016637
 # text = Stoppa ikkje i kontroll - fekk 8000 kroner i bot
 1	Stoppa	O	O	-
@@ -10267,6 +10327,7 @@
 1	Foto	O	O	-
 2	:	O	O	-
 
+# newpar
 # sent_id = 016641
 # text = Illustrasjon.
 1	Illustrasjon	O	O	-
@@ -10379,6 +10440,7 @@
 12	vidare	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016647
 # text = Vil opne for fiske i Lærdalselva
 1	Vil	O	O	-
@@ -10388,6 +10450,7 @@
 5	i	O	O	-
 6	Lærdalselva	B-LOC	B-LOC	-
 
+# newpar
 # sent_id = 016648
 # text = Men grunniegarlaget stretar imot.
 1	Men	O	O	-
@@ -10531,8 +10594,8 @@
 15	ikkje	O	O	-
 16	påvist	O	O	-
 17	laksedreparen	O	O	-
-18	Gyrodactylus	B-OTH	B-MISC	-
-19	salaris	I-OTH	I-MISC	-
+18	Gyrodactylus	O	B-MISC	-
+19	salaris	O	I-MISC	-
 20	.	O	O	-
 
 # sent_id = 016657
@@ -10607,6 +10670,7 @@
 12	år	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016661
 # text = Nær 700 utan telefon og breiband
 1	Nær	O	O	-
@@ -10630,6 +10694,7 @@
 10	døgn	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 016663
 # text = Telenor leitar framleis etter feilen
 1	Telenor	B-ORG	B-ORG	-
@@ -10864,18 +10929,20 @@
 34	Meling	B-PER	B-PER	-
 35	.	O	O	-
 
+# newpar
 # sent_id = 016675
 # text = Fekk ikkje rigge MGP - fordi dei er jenter
 1	Fekk	O	O	-
 2	ikkje	O	O	-
 3	rigge	O	O	-
-4	MGP	B-OTH	B-EVT	-
+4	MGP	O	B-EVT	-
 5	-	O	O	-
 6	fordi	O	O	-
 7	dei	O	O	-
 8	er	O	O	-
 9	jenter	O	O	-
 
+# newpar
 # sent_id = 016676
 # text = Byggjer opp om fordommar, meiner kvinneleg riggar.
 1	Byggjer	O	O	-
@@ -10908,8 +10975,8 @@
 16	rigge	O	O	-
 17	opp	O	O	-
 18	til	O	O	-
-19	MGP	B-OTH	B-EVT	-
-20	delfinalen	I-OTH	I-EVT	-
+19	MGP	O	B-EVT	-
+20	delfinalen	O	I-EVT	-
 21	i	O	O	-
 22	Florø	B-LOC	B-LOC	-
 23	.	O	O	-
@@ -10958,6 +11025,7 @@
 19	utstyret	O	O	-
 20	.	O	O	-
 
+# newpar
 # sent_id = 016680
 # text = F.v. Marie Falkevik Tungevåg, Malina Kirkeeide, Malena Nyland Skår, Sigrid Eikeland, Kari-Ann Skårbø Sande, Mari Frøyen.
 1	F.v.	O	O	-
@@ -11002,7 +11070,7 @@
 15	den	O	O	-
 16	mykje	O	O	-
 17	omtala	O	O	-
-18	MGP-delfinalen	B-OTH	B-EVT	-
+18	MGP-delfinalen	O	B-EVT	-
 19	i	O	O	-
 20	Florø	B-LOC	B-LOC	-
 21	,	O	O	-
@@ -11375,6 +11443,7 @@
 24	fram	O	O	-
 25	.	O	O	-
 
+# newpar
 # sent_id = 016705
 # text = Slik var altså festane før.....
 1	Slik	O	O	-
@@ -11395,10 +11464,10 @@
 7	døra	O	O	-
 8	via	O	O	-
 9	ordninga	O	O	-
-10	Heim	B-OTH	B-PROD	-
-11	for	I-OTH	I-PROD	-
-12	ein	I-OTH	I-PROD	-
-13	50-lapp	I-OTH	I-PROD	-
+10	Heim	O	B-PROD	-
+11	for	O	I-PROD	-
+12	ein	O	I-PROD	-
+13	50-lapp	O	I-PROD	-
 14	.	O	O	-
 
 # sent_id = 016707
@@ -11439,13 +11508,14 @@
 19	Eikefjord	B-LOC	B-LOC	-
 20	med	O	O	-
 21	tilbodet	O	O	-
-22	Trygt	B-OTH	B-PROD	-
-23	heim	I-OTH	I-PROD	-
-24	for	I-OTH	I-PROD	-
-25	ein	I-OTH	I-PROD	-
-26	50-lapp	I-OTH	I-PROD	-
+22	Trygt	O	B-PROD	-
+23	heim	O	I-PROD	-
+24	for	O	I-PROD	-
+25	ein	O	I-PROD	-
+26	50-lapp	O	I-PROD	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 016709
 # text = Gutane må anten gå 1,5 km for å komme seg heim eller betale 250 kroner i taxikostnader.
 1	Gutane	O	O	-
@@ -11493,11 +11563,11 @@
 22	fylkeskommunale	O	O	-
 23	tilbodet	O	O	-
 24	«	O	O	-
-25	Trygt	B-OTH	B-PROD	-
-26	heim	I-OTH	I-PROD	-
-27	for	I-OTH	I-PROD	-
-28	ein	I-OTH	I-PROD	-
-29	50-lapp	I-OTH	I-PROD	-
+25	Trygt	O	B-PROD	-
+26	heim	O	I-PROD	-
+27	for	O	I-PROD	-
+28	ein	O	I-PROD	-
+29	50-lapp	O	I-PROD	-
 30	»	O	O	-
 31	.	O	O	-
 
@@ -11588,7 +11658,7 @@
 # sent_id = 016716
 # text = På Fjordaglimt under artikkelen går debatten etter festopplevinga til dei to unge gutane.
 1	På	O	O	-
-2	Fjordaglimt	B-OTH	B-PROD	-
+2	Fjordaglimt	O	B-PROD	-
 3	under	O	O	-
 4	artikkelen	O	O	-
 5	går	O	O	-
@@ -11705,7 +11775,7 @@
 27	Niklas	B-PER	B-PER	-
 28	Veiesund	I-PER	I-PER	-
 29	via	O	O	-
-30	Origo-sona	B-OTH	B-PROD	-
+30	Origo-sona	O	B-PROD	-
 31	.	O	O	-
 
 # sent_id = 016724
@@ -11950,6 +12020,7 @@
 18	heim	O	O	-
 19	!	O	O	-
 
+# newpar
 # sent_id = 016737
 # text = Seks kulturprosjekt får pengar
 1	Seks	O	O	-
@@ -11971,7 +12042,7 @@
 # text = Del på Origo
 1	Del	O	O	-
 2	på	O	O	-
-3	Origo	B-OTH	B-PROD	-
+3	Origo	O	B-PROD	-
 
 # sent_id = 016741
 # text = Del
@@ -11984,6 +12055,7 @@
 3	kl	O	O	-
 4	10:46	O	O	-
 
+# newpar
 # sent_id = 016743
 # text = Oppdatert 18.01.2011 kl 10:46
 1	Oppdatert	O	O	-
@@ -11991,11 +12063,12 @@
 3	kl	O	O	-
 4	10:46	O	O	-
 
+# newpar
 # sent_id = 016744
 # text = Naust på Styvi (biletet) er blant dei seks prosjekta som får pengar.
-1	Naust	B-OTH	B-PROD	-
-2	på	I-OTH	I-PROD	-
-3	Styvi	I-OTH	I-PROD	-
+1	Naust	O	B-PROD	-
+2	på	O	I-PROD	-
+3	Styvi	O	I-PROD	-
 4	(	O	O	-
 5	biletet	O	O	-
 6	)	O	O	-
@@ -12059,29 +12132,29 @@
 # sent_id = 016748
 # text = - Løe og stabbur på Nedbergo - Naust på Styvi - Løe på Skau i Fresvik - Husmannsplassen Hestaskår i Luster - SS Svanhild.
 1	-	O	O	-
-2	Løe	B-OTH	B-PROD	-
-3	og	I-OTH	I-PROD	-
-4	stabbur	I-OTH	I-PROD	-
-5	på	I-OTH	I-PROD	-
-6	Nedbergo	I-OTH	I-PROD	-
+2	Løe	O	B-PROD	-
+3	og	O	I-PROD	-
+4	stabbur	O	I-PROD	-
+5	på	O	I-PROD	-
+6	Nedbergo	O	I-PROD	-
 7	-	O	O	-
-8	Naust	B-OTH	B-PROD	-
-9	på	I-OTH	I-PROD	-
-10	Styvi	I-OTH	I-PROD	-
+8	Naust	O	B-PROD	-
+9	på	O	I-PROD	-
+10	Styvi	O	I-PROD	-
 11	-	O	O	-
-12	Løe	B-OTH	B-PROD	-
-13	på	I-OTH	I-PROD	-
-14	Skau	I-OTH	I-PROD	-
-15	i	I-OTH	I-PROD	-
-16	Fresvik	I-OTH	I-PROD	-
+12	Løe	O	B-PROD	-
+13	på	O	I-PROD	-
+14	Skau	O	I-PROD	-
+15	i	O	I-PROD	-
+16	Fresvik	O	I-PROD	-
 17	-	O	O	-
-18	Husmannsplassen	B-OTH	B-PROD	-
-19	Hestaskår	I-OTH	I-PROD	-
-20	i	I-OTH	I-PROD	-
-21	Luster	I-OTH	I-PROD	-
+18	Husmannsplassen	O	B-PROD	-
+19	Hestaskår	O	I-PROD	-
+20	i	O	I-PROD	-
+21	Luster	O	I-PROD	-
 22	-	O	O	-
-23	SS	B-OTH	B-PROD	-
-24	Svanhild	I-OTH	I-PROD	-
+23	SS	O	B-PROD	-
+24	Svanhild	O	I-PROD	-
 25	.	O	O	-
 
 # sent_id = 016749
@@ -12143,6 +12216,7 @@
 10	2011	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 016752
 # text = Sei di meining om nye firda.no
 1	Sei	O	O	-
@@ -12150,14 +12224,15 @@
 3	meining	O	O	-
 4	om	O	O	-
 5	nye	O	O	-
-6	firda.no	B-OTH	B-PROD	-
+6	firda.no	O	B-PROD	-
 
+# newpar
 # sent_id = 016753
 # text = Tysdag føremiddag kom firda.no i heilt ny design.
 1	Tysdag	O	O	-
 2	føremiddag	O	O	-
 3	kom	O	O	-
-4	firda.no	B-OTH	B-PROD	-
+4	firda.no	O	B-PROD	-
 5	i	O	O	-
 6	heilt	O	O	-
 7	ny	O	O	-
@@ -12170,7 +12245,7 @@
 2	Media	I-ORG	I-ORG	-
 3	sin	O	O	-
 4	nettstad	O	O	-
-5	firda.no	B-OTH	B-PROD	-
+5	firda.no	O	B-PROD	-
 6	og	O	O	-
 7	resten	O	O	-
 8	av	O	O	-
@@ -12252,7 +12327,7 @@
 6	og	O	O	-
 7	linken	O	O	-
 8	til	O	O	-
-9	Firda	B-OTH	B-PROD	-
+9	Firda	O	B-PROD	-
 10	som	O	O	-
 11	eavis	O	O	-
 12	flytta	O	O	-
@@ -12297,12 +12372,14 @@
 7	artikkelen	O	O	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 016760
 # text = Nok eit Eras-utslepp
 1	Nok	O	O	-
 2	eit	O	O	-
-3	Eras-utslepp	B-OTH	B-DRV	-
+3	Eras-utslepp	-	B-DRV	-
 
+# newpar
 # sent_id = 016761
 # text = Røyk skal ha lagt seg over heile tettstaden.
 1	Røyk	O	O	-
@@ -12315,6 +12392,7 @@
 8	tettstaden	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 016762
 # text = Eras Metal i Høyanger hadde eit utslepp fredag ettermiddag, ifølgje Ytre Sogn.
 1	Eras	B-ORG	B-ORG	-
@@ -12328,8 +12406,8 @@
 9	ettermiddag	O	O	-
 10	,	O	O	-
 11	ifølgje	O	O	-
-12	Ytre	B-OTH	B-PROD	-
-13	Sogn	I-OTH	I-PROD	-
+12	Ytre	O	B-PROD	-
+13	Sogn	O	I-PROD	-
 14	.	O	O	-
 
 # sent_id = 016763
@@ -12357,8 +12435,8 @@
 4	,	O	O	-
 5	ifølgje	O	O	-
 6	lokalavisa	O	O	-
-7	Ytre	B-OTH	B-PROD	-
-8	Sogn	I-OTH	I-PROD	-
+7	Ytre	O	B-PROD	-
+8	Sogn	O	I-PROD	-
 9	,	O	O	-
 10	over	O	O	-
 11	heile	O	O	-
@@ -12517,6 +12595,7 @@
 12	utslepp	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 016774
 # text = Hylla av amerikansk storavis
 1	Hylla	O	O	-
@@ -12530,6 +12609,7 @@
 2	Eva	B-PER	B-PER	-
 3	:	O	O	-
 
+# newpar
 # sent_id = 016776
 # text = - Vi forstod ingenting!
 1	-	O	O	-
@@ -12538,6 +12618,7 @@
 4	ingenting	O	O	-
 5	!	O	O	-
 
+# newpar
 # sent_id = 016777
 # text = Eva Weel Skram (t.v.) får skryt for musikken til duoen Eva & the heartmaker.
 1	Eva	B-PER	B-PER	-
@@ -12650,7 +12731,7 @@
 4	i	O	O	-
 5	2005	O	O	-
 6	var	O	O	-
-7	Idol-deltakar	B-OTH	B-DRV	-
+7	Idol-deltakar	-	B-DRV	-
 8	,	O	O	-
 9	er	O	O	-
 10	spesielt	O	O	-
@@ -12702,12 +12783,14 @@
 20	VG	B-ORG	B-ORG	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 016788
 # text = Fem vegar stengde
 1	Fem	O	O	-
 2	vegar	O	O	-
 3	stengde	O	O	-
 
+# newpar
 # sent_id = 016789
 # text = Situasjonen på vegane er på veg tilbake til det normale.
 1	Situasjonen	O	O	-
@@ -12743,6 +12826,7 @@
 11	normale	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 016792
 # text = Dette biletet er frå Huus i Jølster måndag ettermiddag.
 1	Dette	O	O	-
@@ -12857,6 +12941,7 @@
 14	ras	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 016798
 # text = - Bygg Stad skipstunnel no
 1	-	O	O	-
@@ -12865,6 +12950,7 @@
 4	skipstunnel	I-LOC	I-LOC	-
 5	no	O	O	-
 
+# newpar
 # sent_id = 016799
 # text = Samferdsleutvala i Sogn og Fjordane og Hordaland krev at Stad skipstunnel blir bygd no.
 1	Samferdsleutvala	O	O	-
@@ -13068,6 +13154,7 @@
 21	tysdag	O	O	-
 22	.	O	O	-
 
+# newpar
 # sent_id = 016807
 # text = Får toppkarakter av turistane
 1	Får	O	O	-
@@ -13089,7 +13176,7 @@
 # text = Del på Origo
 1	Del	O	O	-
 2	på	O	O	-
-3	Origo	B-OTH	B-PROD	-
+3	Origo	O	B-PROD	-
 
 # sent_id = 016811
 # text = Del
@@ -13102,6 +13189,7 @@
 3	kl	O	O	-
 4	14:21	O	O	-
 
+# newpar
 # sent_id = 016813
 # text = Oppdatert 22.02.2011 kl 14:24
 1	Oppdatert	O	O	-
@@ -13109,6 +13197,7 @@
 3	kl	O	O	-
 4	14:24	O	O	-
 
+# newpar
 # sent_id = 016814
 # text = Cruisetruristane skryt av hamna i Olden.
 1	Cruisetruristane	O	O	-
@@ -13244,6 +13333,7 @@
 38	avisa	O	O	-
 39	.	O	O	-
 
+# newpar
 # sent_id = 016820
 # text = På tide å leggje om til vinterdekk?
 1	På	O	O	-
@@ -13267,6 +13357,7 @@
 8	dagleg	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 016822
 # text = Når det første snøfallet kjem stig dette talet med over 100 prosent.
 1	Når	O	O	-
@@ -13310,6 +13401,7 @@
 18	råd	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 016825
 # text = Illustrasjonsfoto.
 1	Illustrasjonsfoto	O	O	-
@@ -13798,7 +13890,7 @@
 18	snøvêr	O	O	-
 19	,	O	O	-
 20	oppfordrar	O	O	-
-21	Gjensidige-sjefen	B-OTH	B-DRV	-
+21	Gjensidige-sjefen	-	B-DRV	-
 22	.	O	O	-
 
 # sent_id = 016851
@@ -14066,7 +14158,7 @@
 # sent_id = 016862
 # text = «Terminator» var det fyrste samarbeidsprosjektet til dei unge filmskaparane James Cameron (regissør) og Gale Anne Hurd (produsent og medmanusforfattar).
 1	«	O	O	-
-2	Terminator	B-OTH	B-PROD	-
+2	Terminator	O	B-PROD	-
 3	»	O	O	-
 4	var	O	O	-
 5	det	O	O	-
@@ -14160,9 +14252,9 @@
 15	debuterte	O	O	-
 16	med	O	O	-
 17	«	O	O	-
-18	Piranha	B-OTH	B-PROD	-
-19	Part	I-OTH	I-PROD	-
-20	Two	I-OTH	I-PROD	-
+18	Piranha	O	B-PROD	-
+19	Part	O	I-PROD	-
+20	Two	O	I-PROD	-
 21	»	O	O	-
 22	)	O	O	-
 23	,	O	O	-
@@ -14220,7 +14312,7 @@
 17	prega	O	O	-
 18	dei	O	O	-
 19	seinare	O	O	-
-20	Cameron-filmane	B-OTH	B-DRV	-
+20	Cameron-filmane	-	B-DRV	-
 21	,	O	O	-
 22	blir	O	O	-
 23	det	O	O	-
@@ -14236,7 +14328,7 @@
 # sent_id = 016868
 # text = «Terminator» er amoralsk, blodig råskap med høg «body count» .
 1	«	O	O	-
-2	Terminator	B-OTH	B-PROD	-
+2	Terminator	O	B-PROD	-
 3	»	O	O	-
 4	er	O	O	-
 5	amoralsk	O	O	-
@@ -14266,11 +14358,11 @@
 # text = I «Terminator 2: Judgment Day» har det skjedd store endringar.
 1	I	O	O	-
 2	«	O	O	-
-3	Terminator	B-OTH	B-PROD	-
-4	2	I-OTH	I-PROD	-
-5	:	I-OTH	I-PROD	-
-6	Judgment	I-OTH	I-PROD	-
-7	Day	I-OTH	I-PROD	-
+3	Terminator	O	B-PROD	-
+4	2	O	I-PROD	-
+5	:	O	I-PROD	-
+6	Judgment	O	I-PROD	-
+7	Day	O	I-PROD	-
 8	»	O	O	-
 9	har	O	O	-
 10	det	O	O	-
@@ -14293,13 +14385,13 @@
 10	Camerons	B-PER	B-PER	-
 11	krigssciencefiction	O	O	-
 12	«	O	O	-
-13	Aliens	B-OTH	B-PROD	-
+13	Aliens	O	B-PROD	-
 14	»	O	O	-
 15	og	O	O	-
 16	undervassforskingsdrama	O	O	-
 17	«	O	O	-
-18	The	B-OTH	B-PROD	-
-19	Abyss	I-OTH	I-PROD	-
+18	The	O	B-PROD	-
+19	Abyss	O	I-PROD	-
 20	»	O	O	-
 21	.	O	O	-
 
@@ -14422,8 +14514,8 @@
 # sent_id = 016877
 # text = «Terminator 2» var då også historias dyraste film i 1991.
 1	«	O	O	-
-2	Terminator	B-OTH	B-PROD	-
-3	2	I-OTH	I-PROD	-
+2	Terminator	O	B-PROD	-
+3	2	O	I-PROD	-
 4	»	O	O	-
 5	var	O	O	-
 6	då	O	O	-
@@ -14512,7 +14604,7 @@
 15	oppgraderte	O	O	-
 16	modellen	O	O	-
 17	«	O	O	-
-18	T-1000	B-OTH	B-PROD	-
+18	T-1000	O	B-PROD	-
 19	»	O	O	-
 20	.	O	O	-
 
@@ -14697,8 +14789,8 @@
 13	,	O	O	-
 14	men	O	O	-
 15	«	O	O	-
-16	Terminator	B-OTH	B-PROD	-
-17	2	I-OTH	I-PROD	-
+16	Terminator	O	B-PROD	-
+17	2	O	I-PROD	-
 18	»	O	O	-
 19	er	O	O	-
 20	gjennomsyra	O	O	-
@@ -14707,7 +14799,7 @@
 23	same	O	O	-
 24	familieverdiane	O	O	-
 25	som	O	O	-
-26	Hollywood-filmar	B-OTH	B-DRV	-
+26	Hollywood-filmar	-	B-DRV	-
 27	mest	O	O	-
 28	alltid	O	O	-
 29	er	O	O	-
@@ -14749,7 +14841,7 @@
 3	regel	O	O	-
 4	som	O	O	-
 5	omfattar	O	O	-
-6	Disney-klamorama	B-OTH	B-DRV	-
+6	Disney-klamorama	-	B-DRV	-
 7	for	O	O	-
 8	dei	O	O	-
 9	under	O	O	-
@@ -14758,11 +14850,11 @@
 12	så	O	O	-
 13	vel	O	O	-
 14	som	O	O	-
-15	«	B-OTH	B-DRV	-
-16	Face	I-OTH	I-DRV	-
-17	Off	I-OTH	I-DRV	-
-18	»	I-OTH	I-DRV	-
-19	-valdsorgier	I-OTH	I-DRV	-
+15	«	-	B-DRV	-
+16	Face	O	I-DRV	-
+17	Off	O	I-DRV	-
+18	»	O	I-DRV	-
+19	-valdsorgier	O	I-DRV	-
 20	for	O	O	-
 21	dei	O	O	-
 22	over	O	O	-
@@ -14790,7 +14882,7 @@
 17	,	O	O	-
 18	som	O	O	-
 19	«	O	O	-
-20	Terminator	B-OTH	B-PROD	-
+20	Terminator	O	B-PROD	-
 21	»	O	O	-
 22	,	O	O	-
 23	og	O	O	-
@@ -14800,8 +14892,8 @@
 27	ekstravagansar	O	O	-
 28	som	O	O	-
 29	«	O	O	-
-30	Terminator	B-OTH	B-PROD	-
-31	2	I-OTH	I-PROD	-
+30	Terminator	O	B-PROD	-
+31	2	O	I-PROD	-
 32	»	O	O	-
 33	.	O	O	-
 
@@ -14844,6 +14936,7 @@
 35	vakum	O	O	-
 36	.	O	O	-
 
+# newpar
 # sent_id = 016894
 # text = Vann folket med plyndring
 1	Vann	O	O	-
@@ -14851,6 +14944,7 @@
 3	med	O	O	-
 4	plyndring	O	O	-
 
+# newpar
 # sent_id = 016895
 # text = - Ein forstår ikkje det tredje riket, om ein ikkje ser det som den største plyndrarstaten i moderne historie, meiner den verdskjende holocaustforskaren Götz Aly.
 1	-	O	O	-
@@ -14929,26 +15023,26 @@
 9	nyaste	O	O	-
 10	bok	O	O	-
 11	«	O	O	-
-12	Hitlers	B-OTH	B-PROD	-
-13	Volksstaat	I-OTH	I-PROD	-
-14	.	I-OTH	I-PROD	-
-15	Raub	I-OTH	I-PROD	-
-16	,	I-OTH	I-PROD	-
-17	Rassenkrieg	I-OTH	I-PROD	-
-18	und	I-OTH	I-PROD	-
-19	nationaler	I-OTH	I-PROD	-
-20	Sozialismus	I-OTH	I-PROD	-
+12	Hitlers	O	B-PROD	-
+13	Volksstaat	O	I-PROD	-
+14	.	O	I-PROD	-
+15	Raub	O	I-PROD	-
+16	,	O	I-PROD	-
+17	Rassenkrieg	O	I-PROD	-
+18	und	O	I-PROD	-
+19	nationaler	O	I-PROD	-
+20	Sozialismus	O	I-PROD	-
 21	»	O	O	-
 22	(	O	O	-
-23	Hitlers	B-OTH	B-PROD	-
-24	folkestat	I-OTH	I-PROD	-
-25	.	I-OTH	I-PROD	-
-26	Ran	I-OTH	I-PROD	-
-27	,	I-OTH	I-PROD	-
-28	rasekrig	I-OTH	I-PROD	-
-29	og	I-OTH	I-PROD	-
-30	nasjonal	I-OTH	I-PROD	-
-31	sosialisme	I-OTH	I-PROD	-
+23	Hitlers	O	B-PROD	-
+24	folkestat	O	I-PROD	-
+25	.	O	I-PROD	-
+26	Ran	O	I-PROD	-
+27	,	O	I-PROD	-
+28	rasekrig	O	I-PROD	-
+29	og	O	I-PROD	-
+30	nasjonal	O	I-PROD	-
+31	sosialisme	O	I-PROD	-
 32	)	O	O	-
 33	.	O	O	-
 
@@ -15041,7 +15135,7 @@
 
 # sent_id = 016902
 # text = Hitlerregimet vann folket ved hjelp av velferdsgodar.
-1	Hitlerregimet	B-OTH	B-DRV	-
+1	Hitlerregimet	-	B-DRV	-
 2	vann	O	O	-
 3	folket	O	O	-
 4	ved	O	O	-
@@ -15087,7 +15181,7 @@
 1	Det	O	O	-
 2	som	O	O	-
 3	gjorde	O	O	-
-4	Hitler-staten	B-OTH	B-DRV	-
+4	Hitler-staten	-	B-DRV	-
 5	attraktiv	O	O	-
 6	for	O	O	-
 7	vanlege	O	O	-
@@ -16226,7 +16320,7 @@
 22	glødande	O	O	-
 23	antisemittismen	O	O	-
 24	og	O	O	-
-25	Hitler-dyrkinga	B-OTH	B-DRV	-
+25	Hitler-dyrkinga	-	B-DRV	-
 26	i	O	O	-
 27	bakgrunnen	O	O	-
 28	?	O	O	-
@@ -16374,7 +16468,7 @@
 11	av	O	O	-
 12	innbyggjarane	O	O	-
 13	i	O	O	-
-14	nazi-Tyskland	B-OTH	B-DRV	-
+14	nazi-Tyskland	-	B-DRV	-
 15	tente	O	O	-
 16	på	O	O	-
 17	krigen	O	O	-
@@ -16494,7 +16588,7 @@
 19	,	O	O	-
 20	gjennom	O	O	-
 21	«	O	O	-
-22	Anschluss	B-OTH	B-PROD	-
+22	Anschluss	O	B-PROD	-
 23	»	O	O	-
 24	i	O	O	-
 25	1938	O	O	-
@@ -16522,8 +16616,8 @@
 # text = Boka «Hitlers Volksstaat» har den siste månaden vekt ein skarp kulturdebatt i Tyskland.
 1	Boka	O	O	-
 2	«	O	O	-
-3	Hitlers	B-OTH	B-PROD	-
-4	Volksstaat	I-OTH	I-PROD	-
+3	Hitlers	O	B-PROD	-
+4	Volksstaat	O	I-PROD	-
 5	»	O	O	-
 6	har	O	O	-
 7	den	O	O	-
@@ -16602,8 +16696,8 @@
 1	Boka	O	O	-
 2	er	O	O	-
 3	i	O	O	-
-4	Die	B-OTH	B-PROD	-
-5	Zeit	I-OTH	I-PROD	-
+4	Die	O	B-PROD	-
+5	Zeit	O	I-PROD	-
 6	karakterisert	O	O	-
 7	som	O	O	-
 8	ei	O	O	-
@@ -16627,8 +16721,8 @@
 # sent_id = 016980
 # text = I Die Tageszeitung vert Aly sine berande tesar tilbakeviste som fullstendig uhaldbare.
 1	I	O	O	-
-2	Die	B-OTH	B-PROD	-
-3	Tageszeitung	I-OTH	I-PROD	-
+2	Die	O	B-PROD	-
+3	Tageszeitung	O	I-PROD	-
 4	vert	O	O	-
 5	Aly	B-PER	B-PER	-
 6	sine	O	O	-
@@ -16755,7 +16849,7 @@
 17	vart	O	O	-
 18	utnytta	O	O	-
 19	av	O	O	-
-20	Hitler-regimet	B-OTH	B-DRV	-
+20	Hitler-regimet	-	B-DRV	-
 21	.	O	O	-
 
 # sent_id = 016986
@@ -16767,8 +16861,8 @@
 5	debattredaktør	O	O	-
 6	i	O	O	-
 7	avisa	O	O	-
-8	Berliner	B-OTH	B-PROD	-
-9	Zeitung	I-OTH	I-PROD	-
+8	Berliner	O	B-PROD	-
+9	Zeitung	O	I-PROD	-
 10	.	O	O	-
 
 # sent_id = 016987
@@ -16826,13 +16920,14 @@
 24	no	O	O	-
 25	.	O	O	-
 
+# newpar
 # sent_id = 016989
 # text = «Det som gjorde Hitler-staten attraktiv for vanlege folk, heilt fram til dei siste dagane, var dei mange økonomiske fordelane»
 1	«	O	O	-
 2	Det	O	O	-
 3	som	O	O	-
 4	gjorde	O	O	-
-5	Hitler-staten	B-OTH	B-DRV	-
+5	Hitler-staten	-	B-DRV	-
 6	attraktiv	O	O	-
 7	for	O	O	-
 8	vanlege	O	O	-
@@ -16852,6 +16947,7 @@
 22	fordelane	O	O	-
 23	»	O	O	-
 
+# newpar
 # sent_id = 016990
 # text = Liberal modernisering
 1	Liberal	O	O	-
@@ -16862,14 +16958,15 @@
 1	Dette	O	O	-
 2	er	O	O	-
 3	gårsdagens	O	O	-
-4	Med	B-OTH	B-DRV	-
-5	andre	I-OTH	I-DRV	-
-6	ord-tekst	I-OTH	I-DRV	-
+4	Med	-	B-DRV	-
+5	andre	O	I-DRV	-
+6	ord-tekst	O	I-DRV	-
 7	i	O	O	-
 8	fullstendig	O	O	-
 9	versjon	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 016992
 # text = Ved en feiltakelse hadde et avsnitt blitt borte i papirutgaven.
 1	Ved	O	O	-
@@ -17763,7 +17860,7 @@
 6	regimet	O	O	-
 7	for	O	O	-
 8	«	O	O	-
-9	Arbeiderpartistaten	B-OTH	B-DRV	-
+9	Arbeiderpartistaten	-	B-DRV	-
 10	»	O	O	-
 11	med	O	O	-
 12	tilsikta	O	O	-
@@ -19119,6 +19216,7 @@
 18	kontroll	O	O	-
 19	»	O	O	-
 
+# newpar
 # sent_id = 017100
 # text = Etter Anna
 1	Etter	O	O	-
@@ -19151,6 +19249,7 @@
 18	journalistar	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017103
 # text = Gjennom reportasjane sine avslørte Anna Politkovskaja statleg maktmisbruk og hæren si brutale framferd.
 1	Gjennom	O	O	-
@@ -20941,8 +21040,8 @@
 
 # sent_id = 017198
 # text = Novaja Gaseta er ei mindre avis som kjem ut to gonger i veka med eit opplag på rundt 500.000 eksemplar.
-1	Novaja	B-OTH	B-PROD	-
-2	Gaseta	I-OTH	I-PROD	-
+1	Novaja	O	B-PROD	-
+2	Gaseta	O	I-PROD	-
 3	er	O	O	-
 4	ei	O	O	-
 5	mindre	O	O	-
@@ -21109,7 +21208,7 @@
 4	på	O	O	-
 5	Dubrovka-teatret	B-LOC	B-LOC	-
 6	og	O	O	-
-7	Beslan	B-OTH	B-EVT	-
+7	Beslan	O	B-EVT	-
 8	.	O	O	-
 
 # sent_id = 017209
@@ -21359,11 +21458,13 @@
 20	landet	O	O	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 017220
 # text = Om ansvar
 1	Om	O	O	-
 2	ansvar	O	O	-
 
+# newpar
 # sent_id = 017221
 # text = Dagens leder
 1	Dagens	O	O	-
@@ -21372,7 +21473,7 @@
 # sent_id = 017222
 # text = * Adecco-skandalen har potensial til å verte eit grunnleggjande oppgjer med konkurranseiveren på borgarleg side, ikkje berre i Oslo, men over heile landet.
 1	*	O	O	-
-2	Adecco-skandalen	B-OTH	B-EVT	-
+2	Adecco-skandalen	O	B-EVT	-
 3	har	O	O	-
 4	potensial	O	O	-
 5	til	O	O	-
@@ -21402,13 +21503,13 @@
 # text = Etter at Dagsrevyen avslørte at tilsette på det Adecco-drivne Ammerudlunden sjukeheim jobba 84 timar lang veke utan overtidsbetaling og måtte overnatte i kjellaren for å få døgeret til å gå rundt, har det komme både banale og prinsipielle reaksjonar.
 1	Etter	O	O	-
 2	at	O	O	-
-3	Dagsrevyen	B-OTH	B-PROD	-
+3	Dagsrevyen	O	B-PROD	-
 4	avslørte	O	O	-
 5	at	O	O	-
 6	tilsette	O	O	-
 7	på	O	O	-
 8	det	O	O	-
-9	Adecco-drivne	B-OTH	B-DRV	-
+9	Adecco-drivne	-	B-DRV	-
 10	Ammerudlunden	B-ORG	B-ORG	-
 11	sjukeheim	I-ORG	I-ORG	-
 12	jobba	O	O	-
@@ -21489,7 +21590,7 @@
 3	sida	O	O	-
 4	er	O	O	-
 5	det	O	O	-
-6	Fagforbundet-leiar	B-OTH	B-DRV	-
+6	Fagforbundet-leiar	-	B-DRV	-
 7	Jan	B-PER	B-PER	-
 8	Davidsen	I-PER	I-PER	-
 9	og	O	O	-
@@ -21512,7 +21613,7 @@
 # sent_id = 017227
 # text = * Adecco-saka har fått mykje merksemd av di både Høgre-leiar Erna Solberg og eldrebyråd Sylvi Listhaug frå Frp (som Brein vikarierer for) har prisa Ammerudlunden som eit føregangsdøme for kommunale sjukeheimar.
 1	*	O	O	-
-2	Adecco-saka	B-OTH	B-EVT	-
+2	Adecco-saka	O	B-EVT	-
 3	har	O	O	-
 4	fått	O	O	-
 5	mykje	O	O	-
@@ -21520,7 +21621,7 @@
 7	av	O	O	-
 8	di	O	O	-
 9	både	O	O	-
-10	Høgre-leiar	B-OTH	B-DRV	-
+10	Høgre-leiar	-	B-DRV	-
 11	Erna	B-PER	B-PER	-
 12	Solberg	I-PER	I-PER	-
 13	og	O	O	-
@@ -21586,9 +21687,9 @@
 36	godt	O	O	-
 37	hjelpte	O	O	-
 38	av	O	O	-
-39	Høgre-	B-OTH	B-DRV	-
+39	Høgre-	-	B-DRV	-
 40	og	O	O	-
-41	Frp-politikarar	B-OTH	B-DRV	-
+41	Frp-politikarar	-	B-DRV	-
 42	som	O	O	-
 43	ikkje	O	O	-
 44	nett	O	O	-
@@ -23964,6 +24065,7 @@
 26	er	O	O	-
 27	.	O	O	-
 
+# newpar
 # sent_id = 017313
 # text = Men eg trur at vi kunne ta kapittel for kapittel og sagt at sjølvsagt skulle vi hatt meir pengar, men i avveginga mellom ulike budsjettpostar har vi funne ein god miljøprofil denne gongen.
 1	Men	O	O	-
@@ -24239,6 +24341,7 @@
 30	varme	O	O	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 017324
 # text = Vi må ikkje bli så opptekne av den vanskelege straumsituasjonen som er no, med aukande straumprisar og ganske nedtappa magasin, at vi gløymer å fokusera på miljøriktig energi, der vassboren varme, varmepumper m.v. går inn som ein viktig del.
 1	Vi	O	O	-
@@ -24654,6 +24757,7 @@
 25	med	O	O	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 017338
 # text = Men det er alltid ei avveging i budsjettsamanheng.
 1	Men	O	O	-
@@ -24668,28 +24772,28 @@
 
 # sent_id = 017339
 # text = MY «Marie Claire» vil korrespondere både med MS «Telemarken» som kjem frå Norsjø og MS «Victoria» som kjem frå Skien kvar dag.
-1	MY	B-OTH	B-PROD	-
-2	«	I-OTH	I-PROD	-
-3	Marie	I-OTH	I-PROD	-
-4	Claire	I-OTH	I-PROD	-
-5	»	I-OTH	I-PROD	-
+1	MY	O	B-PROD	-
+2	«	O	I-PROD	-
+3	Marie	O	I-PROD	-
+4	Claire	O	I-PROD	-
+5	»	O	I-PROD	-
 6	vil	O	O	-
 7	korrespondere	O	O	-
 8	både	O	O	-
 9	med	O	O	-
-10	MS	B-OTH	B-PROD	-
-11	«	I-OTH	I-PROD	-
-12	Telemarken	I-OTH	I-PROD	-
-13	»	I-OTH	I-PROD	-
+10	MS	O	B-PROD	-
+11	«	O	I-PROD	-
+12	Telemarken	O	I-PROD	-
+13	»	O	I-PROD	-
 14	som	O	O	-
 15	kjem	O	O	-
 16	frå	O	O	-
 17	Norsjø	B-LOC	B-LOC	-
 18	og	O	O	-
-19	MS	B-OTH	B-PROD	-
-20	«	I-OTH	I-PROD	-
-21	Victoria	I-OTH	I-PROD	-
-22	»	I-OTH	I-PROD	-
+19	MS	O	B-PROD	-
+20	«	O	I-PROD	-
+21	Victoria	O	I-PROD	-
+22	»	O	I-PROD	-
 23	som	O	O	-
 24	kjem	O	O	-
 25	frå	O	O	-
@@ -24739,6 +24843,7 @@
 16	tilby	O	O	-
 17	.	O	O	-
 
+# newpar
 # sent_id = 017342
 # text = Det er klart at det kostar oss mykje i kroner og øre å leige båten, men me og eigaren vår, Thor Morten Halvorsen, har tru på dette, smiler Normann.
 1	Det	O	O	-
@@ -24845,6 +24950,7 @@
 20	prosjektet	O	O	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 017347
 # text = Til hausten må me sjølvsagt evaluere sommaren, og då kan me sjå om det er grunnlag for å halde fram med eigen båt, seier Normann.
 1	Til	O	O	-
@@ -24939,8 +25045,8 @@
 # text = Motoryachten «Marie Claire» er leigd med mannskap, og dei fleste av mannskapet er andelseigarar i båten.
 1	Motoryachten	O	O	-
 2	«	O	O	-
-3	Marie	B-OTH	B-PROD	-
-4	Claire	I-OTH	I-PROD	-
+3	Marie	O	B-PROD	-
+4	Claire	O	I-PROD	-
 5	»	O	O	-
 6	er	O	O	-
 7	leigd	O	O	-
@@ -24985,8 +25091,8 @@
 10	ta	O	O	-
 11	seg	O	O	-
 12	«	O	O	-
-13	Marie	B-OTH	B-PROD	-
-14	Claire	I-OTH	I-PROD	-
+13	Marie	O	B-PROD	-
+14	Claire	O	I-PROD	-
 15	»	O	O	-
 16	,	O	O	-
 17	avsluttar	O	O	-
@@ -24997,23 +25103,27 @@
 22	hotelldirektør	O	O	-
 23	.	O	O	-
 
+# newpar
 # sent_id = 017353
 # text = Fotballfeber i Fyresdal
 1	Fotballfeber	O	O	-
 2	i	O	O	-
 3	Fyresdal	B-LOC	B-GPE_LOC	-
 
+# newpar
 # sent_id = 017354
 # text = Solkrem og veske
 1	Solkrem	O	O	-
 2	og	O	O	-
 3	veske	O	O	-
 
+# newpar
 # sent_id = 017355
 # text = Stor interesse
 1	Stor	O	O	-
 2	interesse	O	O	-
 
+# newpar
 # sent_id = 017356
 # text = Trene for å bli betre
 1	Trene	O	O	-
@@ -25022,6 +25132,7 @@
 4	bli	O	O	-
 5	betre	O	O	-
 
+# newpar
 # sent_id = 017357
 # text = Ambisjonar
 1	Ambisjonar	O	O	-
@@ -25043,6 +25154,7 @@
 13	Fyresdal	B-LOC	B-GPE_LOC	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 017359
 # text = Tysdag morgon var det ingen som forsov seg.
 1	Tysdag	O	O	-
@@ -25069,6 +25181,7 @@
 10	Fyresdal	B-LOC	B-GPE_LOC	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 017361
 # text = Nokre av trenarane var spelarar frå Pors fotballag i Grenland.
 1	Nokre	O	O	-
@@ -25204,6 +25317,7 @@
 14	Fyresdal	B-LOC	B-GPE_LOC	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 017367
 # text = Og det har vore veldig vellykka, fortel Olav Inge Nordbø.
 1	Og	O	O	-
@@ -25252,6 +25366,7 @@
 9	solbrente	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 017370
 # text = Derfor har me teke nokre førehandsreglar i år, og sidan det er meldt godver er det viktig med solkrem og godt veskeinntak, seier Torild Bondal.
 1	Derfor	O	O	-
@@ -25554,6 +25669,7 @@
 20	vidare	O	O	-
 21	.	O	O	-
 
+# newpar
 # sent_id = 017382
 # text = Det er ikkje berre at dei melder seg tilgjengeleg, men fleire har veldig lyst til å gjera spesifikke oppgåver, seier Nordbø.
 1	Det	O	O	-
@@ -25707,6 +25823,7 @@
 7	godt	O	O	-
 8	.	O	O	-
 
+# newpar
 # sent_id = 017389
 # text = Heldigvis er sola så sterk at bladfyken og blokka hans turkar i ein fei.
 1	Heldigvis	O	O	-
@@ -25870,6 +25987,7 @@
 9	sin	O	O	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 017398
 # text = - Foreldra er den viktigaste rollemodellen
 1	-	O	O	-
@@ -25879,10 +25997,12 @@
 5	viktigaste	O	O	-
 6	rollemodellen	O	O	-
 
+# newpar
 # sent_id = 017399
 # text = Bevisstgjering
 1	Bevisstgjering	O	O	-
 
+# newpar
 # sent_id = 017400
 # text = - Viktig med samarbeid
 1	-	O	O	-
@@ -25890,6 +26010,7 @@
 3	med	O	O	-
 4	samarbeid	O	O	-
 
+# newpar
 # sent_id = 017401
 # text = Ingen fasit
 1	Ingen	O	O	-
@@ -25924,6 +26045,7 @@
 25	Wienenga	I-PER	I-PER	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 017403
 # text = Haldningsskapande arbeid startar alt i barnehagen.
 1	Haldningsskapande	O	O	-
@@ -25934,19 +26056,20 @@
 6	barnehagen	O	O	-
 7	.	O	O	-
 
+# newpar
 # sent_id = 017404
 # text = Lensmannsbetjent Marianne Wienenga og SLT-koordinator Silje Hagen er nøgde med SLT-samarbeidet i Vinje kommune.
 1	Lensmannsbetjent	O	O	-
 2	Marianne	B-PER	B-PER	-
 3	Wienenga	I-PER	I-PER	-
 4	og	O	O	-
-5	SLT-koordinator	B-OTH	B-DRV	-
+5	SLT-koordinator	-	B-DRV	-
 6	Silje	B-PER	B-PER	-
 7	Hagen	I-PER	I-PER	-
 8	er	O	O	-
 9	nøgde	O	O	-
 10	med	O	O	-
-11	SLT-samarbeidet	B-OTH	B-DRV	-
+11	SLT-samarbeidet	-	B-DRV	-
 12	i	O	O	-
 13	Vinje	B-LOC	B-GPE_LOC	-
 14	kommune	I-LOC	I-GPE_LOC	-
@@ -26034,6 +26157,7 @@
 18	tenåra	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017409
 # text = Du er framleis den næraste rollemodellen dei har, sjølv om det kanskje ikkje virkar slik, seier Wienenga.
 1	Du	O	O	-
@@ -26189,6 +26313,7 @@
 18	oppsedinga	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017416
 # text = Det hjelper ikkje med tiltak og fritidsaktivitetar åleine, det må ligge noko i botnen, og det må koma heimafrå, understrekar dei.
 1	Det	O	O	-
@@ -26404,6 +26529,7 @@
 35	verk	O	O	-
 36	.	O	O	-
 
+# newpar
 # sent_id = 017425
 # text = Sandvik melder om gode tilbakemeldingar frå dei tilsette når det gjeld dette tiltaket, og at dei set pris på den tryggleiken det gjev å ha gode retningsliner i vanskelege saker.
 1	Sandvik	B-PER	B-PER	-
@@ -26552,7 +26678,7 @@
 19	dei	O	O	-
 20	får	O	O	-
 21	gjennom	O	O	-
-22	SLT-samarbeidet	B-OTH	B-DRV	-
+22	SLT-samarbeidet	-	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 017432
@@ -26577,6 +26703,7 @@
 18	framtida	O	O	-
 19	.	O	O	-
 
+# newpar
 # sent_id = 017433
 # text = Ser ein auke i barnevernssaker
 1	Ser	O	O	-
@@ -26585,33 +26712,39 @@
 4	i	O	O	-
 5	barnevernssaker	O	O	-
 
+# newpar
 # sent_id = 017434
 # text = Velfungerande samarbeid
 1	Velfungerande	O	O	-
 2	samarbeid	O	O	-
 
+# newpar
 # sent_id = 017435
 # text = Merkar auken
 1	Merkar	O	O	-
 2	auken	O	O	-
 
+# newpar
 # sent_id = 017436
 # text = Vil tidlegare inn
 1	Vil	O	O	-
 2	tidlegare	O	O	-
 3	inn	O	O	-
 
+# newpar
 # sent_id = 017437
 # text = Vanskeleg med statistikk
 1	Vanskeleg	O	O	-
 2	med	O	O	-
 3	statistikk	O	O	-
 
+# newpar
 # sent_id = 017438
 # text = Tyngre saker
 1	Tyngre	O	O	-
 2	saker	O	O	-
 
+# newpar
 # sent_id = 017439
 # text = Levekår er ikkje avgjerande
 1	Levekår	O	O	-
@@ -26619,6 +26752,7 @@
 3	ikkje	O	O	-
 4	avgjerande	O	O	-
 
+# newpar
 # sent_id = 017440
 # text = Har klare mål
 1	Har	O	O	-
@@ -26640,6 +26774,7 @@
 11	regionen	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 017442
 # text = Det samsvarer med ei generell auke på landsbasis.
 1	Det	O	O	-
@@ -26652,6 +26787,7 @@
 8	landsbasis	O	O	-
 9	.	O	O	-
 
+# newpar
 # sent_id = 017443
 # text = Nestleiar Gunn Annine Hellestad og leiar Synnøve Bratland i barnevernssamarbeidet i Vest-Telemark merkar ein generell auke i barnevernssaker i regionen.
 1	Nestleiar	O	O	-
@@ -26693,6 +26829,7 @@
 13	Vest-Telemark	I-ORG	I-ORG	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 017445
 # text = Ordninga er ei vidareføring av det interkommunale samarbeidet som blei skipa i 2004.
 1	Ordninga	O	O	-
@@ -26892,6 +27029,7 @@
 14	samarbeid	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 017455
 # text = Me får til meir, seier nestleiar Gunn Annie Hellestad.
 1	Me	O	O	-
@@ -27085,6 +27223,7 @@
 14	liv	O	O	-
 15	.	O	O	-
 
+# newpar
 # sent_id = 017466
 # text = Særleg ville me gjerne hatt fleire meldingar frå barnehagane, seier Synnøve Bratland.
 1	Særleg	O	O	-
@@ -27225,6 +27364,7 @@
 15	effekt	O	O	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 017472
 # text = Når barna har blitt 14-15 år er så mykje prøva og det er blir ein meir krevjande jobb, seier Gunn Annie Hellestad.
 1	Når	O	O	-
@@ -27364,6 +27504,7 @@
 11	kommunar	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 017477
 # text = Set me inn tiltak i ein større søskenflokk i ein kommune så kan det fort gje ein auke i tiltak på 50 prosent i den kommunen, seier Gunn Annine Hellestad.
 1	Set	O	O	-
@@ -27490,6 +27631,7 @@
 9	Hellestad	I-PER	I-PER	-
 10	.	O	O	-
 
+# newpar
 # sent_id = 017483
 # text = - Dersom me får tidleg melding kan me saman med skular og barnehagar hjelpe barna mykje betre, meiner Synnøve Bratland.
 1	-	O	O	-
@@ -27606,6 +27748,7 @@
 27	familien	O	O	-
 28	.	O	O	-
 
+# newpar
 # sent_id = 017487
 # text = I dei fleste tilfella er foreldra i jobb, og det kan vera ei utfordring å finne møtetidspunkt, fortel Synnøve Bratland.
 1	I	O	O	-
@@ -27713,6 +27856,7 @@
 30	Hellestad	I-PER	I-PER	-
 31	.	O	O	-
 
+# newpar
 # sent_id = 017491
 # text = Pilegrimstur på «apostlanes hestar»
 1	Pilegrimstur	O	O	-
@@ -27722,21 +27866,25 @@
 5	hestar	O	O	-
 6	»	O	O	-
 
+# newpar
 # sent_id = 017492
 # text = Spanande forhistorie
 1	Spanande	O	O	-
 2	forhistorie	O	O	-
 
+# newpar
 # sent_id = 017493
 # text = Sprengd kapasitet
 1	Sprengd	O	O	-
 2	kapasitet	O	O	-
 
+# newpar
 # sent_id = 017494
 # text = Stadig forbetringar
 1	Stadig	O	O	-
 2	forbetringar	O	O	-
 
+# newpar
 # sent_id = 017495
 # text = Naturopplevinga er størst
 1	Naturopplevinga	O	O	-
@@ -27760,6 +27908,7 @@
 13	stavkyrkje	I-LOC	I-LOC	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 017497
 # text = Meir enn 200 kilometer til fots over fjellet ventar deltakarane.
 1	Meir	O	O	-
@@ -27774,6 +27923,7 @@
 10	deltakarane	O	O	-
 11	.	O	O	-
 
+# newpar
 # sent_id = 017498
 # text = Pilegrimsvandringa er no i gang og over 20 mil ventar deltakarane.
 1	Pilegrimsvandringa	O	O	-
@@ -27854,6 +28004,7 @@
 15	vandrarar	O	O	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 017503
 # text = Totalt blir det 45 pilegrimar på veg mot krusifikset i Røldal.
 1	Totalt	O	O	-
@@ -27947,6 +28098,7 @@
 25	slutt	O	O	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 017507
 # text = For ti år sidan tok Vest-Telemark museum og historielag opp tradisjonen, og i år blir turen arrangert for sjuande år på rad.
 1	For	O	O	-
@@ -28029,6 +28181,7 @@
 28	overnatting	O	O	-
 29	.	O	O	-
 
+# newpar
 # sent_id = 017510
 # text = - Etterkvart som ruta blir betre merka er det eit mål at folk byrjar å gå denne ruta på eiga hand, seier Høydal, som er med på turen for femte år på rad.
 1	-	O	O	-
@@ -28140,6 +28293,7 @@
 12	området	O	O	-
 13	.	O	O	-
 
+# newpar
 # sent_id = 017515
 # text = Den kan nyttas av mindre grupper på vandring over pilegrimsvegen.
 1	Den	O	O	-
@@ -28257,6 +28411,7 @@
 15	Røldal	B-LOC	B-LOC	-
 16	.	O	O	-
 
+# newpar
 # sent_id = 017521
 # text = Har sikta inn fulltreffar av ei reinstamme
 1	Har	O	O	-
@@ -28267,21 +28422,25 @@
 6	ei	O	O	-
 7	reinstamme	O	O	-
 
+# newpar
 # sent_id = 017522
 # text = Mange kalvar
 1	Mange	O	O	-
 2	kalvar	O	O	-
 
+# newpar
 # sent_id = 017523
 # text = Fellingsprosent på 50
 1	Fellingsprosent	O	O	-
 2	på	O	O	-
 3	50	O	O	-
 
+# newpar
 # sent_id = 017524
 # text = GPS-prosjekt
 1	GPS-prosjekt	O	O	-
 
+# newpar
 # sent_id = 017525
 # text = Gode kalveteljingar
 1	Gode	O	O	-
@@ -28318,6 +28477,7 @@
 11	rein	O	O	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 017528
 # text = Til hausten blir det gjeve ut 885 fellingsløyve i området.
 1	Til	O	O	-
@@ -28347,6 +28507,7 @@
 11	villreinområde	I-LOC	I-LOC	-
 12	.	O	O	-
 
+# newpar
 # sent_id = 017530
 # text = Rundt 1.500 rein held til på arealet om vinteren.
 1	Rundt	O	O	-
@@ -28476,6 +28637,7 @@
 13	vere	O	O	-
 14	.	O	O	-
 
+# newpar
 # sent_id = 017537
 # text = Det er bra med dyr, dei har god kondisjon og fine vekter, fortel leiar i Setesdal Austhei villreinlag, Svein Ekre frå Tveiten i Edland.
 1	Det	O	O	-
@@ -28707,6 +28869,7 @@
 5	analysert	O	O	-
 6	.	O	O	-
 
+# newpar
 # sent_id = 017549
 # text = Ekre legg til at ein ikkje såg alle reinsdyra i Setesdal Austhei denne dagen.
 1	Ekre	B-PER	B-PER	-
@@ -28855,6 +29018,7 @@
 25	Ekre	B-PER	B-PER	-
 26	.	O	O	-
 
+# newpar
 # sent_id = 017556
 # text = I forhold til 2003, fyrste året Ekre var leiar i villreinlaget, synest han det er meir moro no når ein har fått opp ei god stamme og det han vonar blir stabile uttak framover.
 1	I	O	O	-
@@ -29098,6 +29262,7 @@
 23	vinterbeite	O	O	-
 24	.	O	O	-
 
+# newpar
 # sent_id = 017567
 # text = Det er viktig for forvaltinga å finne ut kva område som blir flittig bruka av reinen, seier Ekre.
 1	Det	O	O	-
