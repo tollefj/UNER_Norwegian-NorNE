@@ -1,9 +1,9 @@
 import os
-import sys
 
 repos = [
     "git@github.com:ltgoslo/norne.git",
-    "git@github.com:tollefj/UD-NARC.git",
+    # only if you want to use the document-aligned files:
+    # "git@github.com:tollefj/UD-NARC.git",
 ]
 
 for repo in repos:

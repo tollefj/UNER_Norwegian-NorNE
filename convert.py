@@ -7,14 +7,20 @@ from util import get_aligned_file, get_file, lang_map, paths
 logging.basicConfig(level=logging.INFO)
 
 
-file_getters = [get_aligned_file, get_file]
-# file_getters = [get_file]
+# ensure that you download the datasets prior to importing this file
+# $ python download.py -> python convert.py
+
+# only interested in NorNE for .iob2-files
+# (not UD-NARC-based document alignments)
+file_getters = [get_file] 
+# file_getters = [get_aligned_file, get_file]
 
 for lang in paths.keys():
     for split in ["dev", "test", "train"]:
         for getter in file_getters:
             identifier = "NorNE" if getter == get_file else "NorNE-document-aligned"
-            OUT_PATH = os.path.join(f"UNER_Norwegian_{identifier}")
+            # OUT_PATH = os.path.join(f"UNER_Norwegian_{identifier}")
+            OUT_PATH = "../"
             os.makedirs(OUT_PATH, exist_ok=True)
             logging.info(f"Fetching {lang} {split} from {getter.__name__}")
             iob2_filename = f"{lang_map[lang]}_norne-ud-{split}.iob2"
